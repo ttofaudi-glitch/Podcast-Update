@@ -1,0 +1,37 @@
+{
+ "episodes": [
+  {
+   "id": "2026-10-16",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, October 16, 2026",
+   "summary": "Oil above $100, inflation at 3.7%, a 5.10% ten-year yield, and doubts about how artificial intelligence is being financed.",
+   "duration": 309.92,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 21.01
+    },
+    {
+     "heading": "Markets",
+     "start": 71.37
+    },
+    {
+     "heading": "Companies",
+     "start": 135.16
+    },
+    {
+     "heading": "The world",
+     "start": 224.24
+    },
+    {
+     "heading": "Next week",
+     "start": 295.82
+    }
+   ]
+  }
+ ]
+}

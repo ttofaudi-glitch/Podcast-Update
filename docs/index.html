@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Omaha Morning Brief</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A five-minute spoken morning briefing with a transcript that follows the voice.">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Morning Brief">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#f3f5f0" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121714" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="appbar">
+  <div class="wrap appbar-row">
+    <span class="brand">Omaha Morning Brief</span>
+    <span class="today" id="todayLabel"></span>
+  </div>
+</header>
+
+<main id="views">
+  <!-- Listen: the open briefing -->
+  <section class="view" id="view-listen" aria-label="Briefing">
+    <div class="wrap">
+      <div class="ep-head">
+        <p class="eyebrow" id="epDate">Loading…</p>
+        <h1 id="epSummary"></h1>
+        <p class="ep-meta" id="epMeta"></p>
+      </div>
+      <nav class="chips" id="chips" aria-label="Sections"></nav>
+      <div class="cols">
+        <article class="transcript" id="transcript"></article>
+        <aside class="side">
+          <section>
+            <h3 class="label">The numbers</h3>
+            <div class="ledger-wrap"><table class="ledger"><tbody id="ledger"></tbody></table></div>
+            <p class="note" id="ledgerNote"></p>
+          </section>
+          <details class="sources">
+            <summary class="label">Sources <span id="srcCount"></span></summary>
+            <ol id="sources"></ol>
+          </details>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- Library: every briefing and what has been heard -->
+  <section class="view" id="view-library" aria-label="Library" hidden>
+    <div class="wrap">
+      <h2 class="view-title">Library</h2>
+      <p class="stats" id="stats"></p>
+      <ul class="episodes" id="episodes"></ul>
+      <h3 class="label log-title">Listening log</h3>
+      <ul class="log" id="log"></ul>
+      <div class="danger">
+        <button type="button" class="ghost" id="clearBtn">Clear listening history</button>
+        <span id="clearConfirm" hidden>
+          Erase progress, log and saved sections on this device?
+          <button type="button" class="ghost warn" id="clearYes">Erase</button>
+          <button type="button" class="ghost" id="clearNo">Keep</button>
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Saved: sections bookmarked for later -->
+  <section class="view" id="view-saved" aria-label="Saved" hidden>
+    <div class="wrap">
+      <h2 class="view-title">Saved</h2>
+      <ul class="saved" id="saved"></ul>
+    </div>
+  </section>
+</main>
+
+<footer class="dock">
+  <div class="player" id="player">
+    <div class="wrap">
+      <div class="player-row">
+        <button class="play" id="play" type="button" aria-label="Play">
+          <svg class="i-play" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 2.5v11l9-5.5z"/></svg>
+          <svg class="i-pause" viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 2.5h3v11h-3zM9.5 2.5h3v11h-3z"/></svg>
+        </button>
+        <div class="track">
+          <div class="now"><span id="now">Press play</span><span class="time"><span id="cur">0:00</span> / <span id="dur">0:00</span></span></div>
+          <div class="bar-wrap">
+            <div class="heardbar" id="heardbar" aria-hidden="true"></div>
+            <input id="seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Position in the briefing">
+          </div>
+        </div>
+      </div>
+      <div class="ctl">
+        <button id="back" type="button" aria-label="Back 15 seconds">−15s</button>
+        <button id="fwd" type="button" aria-label="Forward 30 seconds">+30s</button>
+        <button id="speed" type="button" aria-label="Playback speed">1×</button>
+        <button id="follow" type="button" aria-pressed="true">Follow text</button>
+      </div>
+    </div>
+  </div>
+  <nav class="tabs" aria-label="Views">
+    <a href="#listen" data-view="listen" class="tab">Briefing</a>
+    <a href="#library" data-view="library" class="tab">Library</a>
+    <a href="#saved" data-view="saved" class="tab">Saved</a>
+  </nav>
+</footer>
+
+<audio id="audio" preload="metadata" playsinline></audio>
+<script src="app.js"></script>
+</body>
+</html>

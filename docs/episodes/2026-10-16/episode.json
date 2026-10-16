@@ -1,0 +1,611 @@
+{
+ "id": "2026-10-16",
+ "title": "Omaha Morning Brief",
+ "dateline": "Friday, October 16, 2026",
+ "summary": "Oil above $100, inflation at 3.7%, a 5.10% ten-year yield, and doubts about how artificial intelligence is being financed.",
+ "duration": 309.92,
+ "audio": "episodes/2026-10-16/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Friday, October 16th.",
+      "start": 1.56,
+      "end": 3.65
+     },
+     {
+      "i": 2,
+      "text": "Four things matter this morning.",
+      "start": 3.93,
+      "end": 5.59
+     },
+     {
+      "i": 3,
+      "text": "Oil is above $100 because of the Iran war.",
+      "start": 5.87,
+      "end": 9.18
+     },
+     {
+      "i": 4,
+      "text": "Inflation is rising again.",
+      "start": 9.46,
+      "end": 11.19
+     },
+     {
+      "i": 5,
+      "text": "Long-term interest rates are above 5%.",
+      "start": 11.47,
+      "end": 14.16
+     },
+     {
+      "i": 6,
+      "text": "And investors have started asking how the artificial intelligence build-out is being paid for.",
+      "start": 14.44,
+      "end": 19.88
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 21.01,
+   "paragraphs": [
+    [
+     {
+      "i": 7,
+      "text": "September consumer prices rose 3.7% from a year earlier, up from 3.4% in August, driven by gasoline.",
+      "start": 21.01,
+      "end": 29.65
+     },
+     {
+      "i": 8,
+      "text": "Core prices, without food and energy, rose 2.6%.",
+      "start": 29.93,
+      "end": 33.79
+     },
+     {
+      "i": 9,
+      "text": "Wholesale prices rose 6.3% over the year, the fastest since 2022.",
+      "start": 34.07,
+      "end": 40.0
+     }
+    ],
+    [
+     {
+      "i": 10,
+      "text": "The Federal Reserve, under Chair Kevin Warsh, raised its rate in September to between 3.75% and 4%, its first increase since 2023.",
+      "start": 40.28,
+      "end": 51.18
+     },
+     {
+      "i": 11,
+      "text": "It meets again October 27 and 28, and futures put the odds of another hike at about one in three.",
+      "start": 51.46,
+      "end": 58.16
+     },
+     {
+      "i": 12,
+      "text": "The 10-year Treasury yield closed at 5.10%.",
+      "start": 58.44,
+      "end": 61.72
+     },
+     {
+      "i": 13,
+      "text": "Three-month Treasury bills pay 4.28%.",
+      "start": 62.0,
+      "end": 65.25
+     },
+     {
+      "i": 14,
+      "text": "The federal deficit for the fiscal year just ended was about $2 trillion.",
+      "start": 65.53,
+      "end": 70.24
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 71.37,
+   "paragraphs": [
+    [
+     {
+      "i": 15,
+      "text": "On Thursday the Dow rose 1.1% to 52,178, and the S&P 500 rose 0.3% to 7,744.",
+      "start": 71.37,
+      "end": 83.49
+     },
+     {
+      "i": 16,
+      "text": "For the week, the S&P is down 0.9% and the Nasdaq is down 2.4%.",
+      "start": 83.77,
+      "end": 90.04
+     }
+    ],
+    [
+     {
+      "i": 17,
+      "text": "The damage is in chips and artificial intelligence.",
+      "start": 90.32,
+      "end": 93.24
+     },
+     {
+      "i": 18,
+      "text": "The Philadelphia semiconductor index has fallen seven days in a row and sits about 12% below its early October peak.",
+      "start": 93.52,
+      "end": 101.2
+     },
+     {
+      "i": 19,
+      "text": "The 20 largest artificial intelligence and chip stocks lost more than $1 trillion of market value this week.",
+      "start": 101.48,
+      "end": 108.87
+     },
+     {
+      "i": 20,
+      "text": "Korea's Kospi fell 7.6% on Thursday alone.",
+      "start": 109.15,
+      "end": 112.77
+     }
+    ],
+    [
+     {
+      "i": 21,
+      "text": "On valuation, the S&P 500 trades at about 19 times expected earnings.",
+      "start": 113.05,
+      "end": 118.75
+     },
+     {
+      "i": 22,
+      "text": "That is an earnings yield near 5.2%, barely above the 10-year Treasury.",
+      "start": 119.03,
+      "end": 124.28
+     },
+     {
+      "i": 23,
+      "text": "Total stock market value is about 238% of gross domestic product, against a long-run average near 168%.",
+      "start": 124.56,
+      "end": 134.03
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 135.16,
+   "paragraphs": [
+    [
+     {
+      "i": 24,
+      "text": "The big banks reported.",
+      "start": 135.16,
+      "end": 136.65
+     },
+     {
+      "i": 25,
+      "text": "JPMorgan earned $5.57 a share, below forecasts, and cut share buybacks to a fraction of its usual pace.",
+      "start": 136.93,
+      "end": 145.46
+     },
+     {
+      "i": 26,
+      "text": "Jamie Dimon said, quote, we can redeploy that capital at very good returns over time.",
+      "start": 145.74,
+      "end": 151.25
+     },
+     {
+      "i": 27,
+      "text": "He said the bank is tightening credit a little, though card losses fell last quarter.",
+      "start": 151.53,
+      "end": 155.9
+     }
+    ],
+    [
+     {
+      "i": 28,
+      "text": "Goldman Sachs earned $17.01 a share against about $13 expected.",
+      "start": 156.18,
+      "end": 162.22
+     },
+     {
+      "i": 29,
+      "text": "Citigroup and Morgan Stanley also beat.",
+      "start": 162.5,
+      "end": 164.97
+     },
+     {
+      "i": 30,
+      "text": "Bank of America missed, and the Treasury fined it $1.2 billion after it admitted willful anti-money-laundering violations.",
+      "start": 165.25,
+      "end": 173.45
+     }
+    ],
+    [
+     {
+      "i": 31,
+      "text": "In artificial intelligence, watch the debt.",
+      "start": 173.73,
+      "end": 176.16
+     },
+     {
+      "i": 32,
+      "text": "CoreWeave, which rents out computing power, carries more than $51 billion of debt and obligations, and the cost of insuring that debt against default hit a record this week.",
+      "start": 176.44,
+      "end": 187.7
+     },
+     {
+      "i": 33,
+      "text": "Oracle fell almost 9% on Wednesday.",
+      "start": 187.98,
+      "end": 190.44
+     },
+     {
+      "i": 34,
+      "text": "It burned $5.4 billion of cash last quarter after $28.5 billion of capital spending.",
+      "start": 190.72,
+      "end": 197.99
+     },
+     {
+      "i": 35,
+      "text": "Meanwhile, Taiwan Semiconductor reported record profit, up 69%.",
+      "start": 198.27,
+      "end": 203.41
+     }
+    ],
+    [
+     {
+      "i": 36,
+      "text": "Elsewhere, UnitedHealth beat and raised its outlook.",
+      "start": 203.69,
+      "end": 206.57
+     },
+     {
+      "i": 37,
+      "text": "Delta cut its profit forecast, and its finance chief said, all of it's fuel.",
+      "start": 206.85,
+      "end": 211.27
+     },
+     {
+      "i": 38,
+      "text": "Hurricane Isaias is estimated at $1 billion to $4 billion of insured losses, which the rating firm AM Best calls an earnings event, not a capital event.",
+      "start": 211.55,
+      "end": 223.11
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 224.24,
+   "paragraphs": [
+    [
+     {
+      "i": 39,
+      "text": "The Iran war, now in its eighth month, is the biggest single force on prices.",
+      "start": 224.24,
+      "end": 228.78
+     },
+     {
+      "i": 40,
+      "text": "Attacks on shipping in the Strait of Hormuz have picked up, and a container ship sank there this week.",
+      "start": 229.06,
+      "end": 234.33
+     },
+     {
+      "i": 41,
+      "text": "The International Energy Agency expects world oil supply to fall 5.8 million barrels a day this year.",
+      "start": 234.61,
+      "end": 241.67
+     },
+     {
+      "i": 42,
+      "text": "Brent crude settled at $105.92.",
+      "start": 241.95,
+      "end": 245.82
+     }
+    ],
+    [
+     {
+      "i": 43,
+      "text": "On Tuesday, during Houthi attacks on Saudi Arabia, Aramco's headquarters in Dhahran was hit.",
+      "start": 246.1,
+      "end": 252.05
+     },
+     {
+      "i": 44,
+      "text": "President Trump says the United States will not strike Iran before the November 3 midterm elections, and that the blockade of Iranian ports stays.",
+      "start": 252.33,
+      "end": 261.1
+     }
+    ],
+    [
+     {
+      "i": 45,
+      "text": "China's September exports rose 36% from a year earlier, for a near-record trade surplus of $133.5 billion.",
+      "start": 261.38,
+      "end": 270.31
+     },
+     {
+      "i": 46,
+      "text": "Its third-quarter growth figure comes Monday, and its pause on rare earth export controls expires November 10.",
+      "start": 270.59,
+      "end": 277.19
+     }
+    ],
+    [
+     {
+      "i": 47,
+      "text": "The International Monetary Fund sees world growth of 3.1% this year with inflation of 4.7%, assuming Hormuz reopens by March.",
+      "start": 277.47,
+      "end": 287.96
+     },
+     {
+      "i": 48,
+      "text": "In India, the cabinet approved selling control of IDBI Bank to Prem Watsa's Fairfax Financial.",
+      "start": 288.24,
+      "end": 294.69
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Next week",
+   "start": 295.82,
+   "paragraphs": [
+    [
+     {
+      "i": 49,
+      "text": "Netflix reports Tuesday, Tesla on Wednesday, and American Express is expected Friday.",
+      "start": 295.82,
+      "end": 301.49
+     },
+     {
+      "i": 50,
+      "text": "Coca-Cola reports October 27, the day the Federal Reserve begins its meeting.",
+      "start": 301.77,
+      "end": 307.21
+     },
+     {
+      "i": 51,
+      "text": "That is the briefing.",
+      "start": 307.49,
+      "end": 308.64
+     },
+     {
+      "i": 52,
+      "text": "Have a good day.",
+      "start": 308.92,
+      "end": 309.92
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,177.69",
+   "change": "+1.08%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,744.06",
+   "change": "+0.33%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500, week to date",
+   "value": "",
+   "change": "(0.9%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,713.03",
+   "change": "+0.08%",
+   "dir": "up"
+  },
+  {
+   "label": "Philadelphia Semiconductor Index",
+   "value": "11,581.2",
+   "change": "(0.88%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.10%",
+   "change": "(0.09)",
+   "dir": "down"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.28%",
+   "change": "0.00",
+   "dir": "flat"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.43%",
+   "change": "(0.09)",
+   "dir": "down"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Consumer prices, year over year (September)",
+   "value": "3.7%",
+   "change": "from 3.4%",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$105.92",
+   "change": "(0.13%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate crude",
+   "value": "$97.97",
+   "change": "+3.03%",
+   "dir": "up"
+  },
+  {
+   "label": "United States dollar index",
+   "value": "102.00",
+   "change": "(0.44%)",
+   "dir": "down"
+  },
+  {
+   "label": "Yen per dollar",
+   "value": "≈157.8",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "S&P 500 forward price to earnings",
+   "value": "19.1×",
+   "change": "as of October 9",
+   "dir": "flat"
+  },
+  {
+   "label": "Stock market value to gross domestic product",
+   "value": "≈238%",
+   "change": "average ≈168%",
+   "dir": "flat"
+  }
+ ],
+ "numbers_note": "Closing levels for Thursday, October 15, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points. Changes are for the day unless marked. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Associated Press: How major US stock indexes fared, October 15",
+   "url": "https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-thursday-10-15-2026"
+  },
+  {
+   "title": "CNBC: Consumer prices rose 3.7% in September",
+   "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+  },
+  {
+   "title": "UPI: Producer price index, September 2026",
+   "url": "https://www.upi.com/Top_News/US/2026/10/15/producer-price-index-wholesale-september-2026-inflation/6601792076310"
+  },
+  {
+   "title": "CNBC: Fed raises rates to 3.75%–4%",
+   "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
+  },
+  {
+   "title": "CNBC: Treasury yields, deficit and AI borrowing",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
+  },
+  {
+   "title": "Washington Times: Fiscal 2026 deficit near $2 trillion",
+   "url": "https://www.washingtontimes.com/news/2026/oct/8/federal-budget-deficit-climbed-2-trillion-fiscal-26/"
+  },
+  {
+   "title": "CNBC: Asia tech rout, $1 trillion lost in AI and chip stocks",
+   "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+  },
+  {
+   "title": "CNBC: Memory chip stocks fall on China competition",
+   "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html"
+  },
+  {
+   "title": "The National: Asian markets fall on tech rout (Kospi down 7.6%)",
+   "url": "https://www.thenationalnews.com/business/markets/2026/10/15/asian-markets-fall-on-tech-stock-rout-as-high-us-inflation-weighs-on-wall-street/"
+  },
+  {
+   "title": "FactSet: Earnings Insight (forward price to earnings)",
+   "url": "https://www.factset.com/earningsinsight"
+  },
+  {
+   "title": "GuruFocus: Total market value to gross domestic product",
+   "url": "https://www.gurufocus.com/economic_indicators/4602/usa-ratio-of-total-market-cap-over-gdp"
+  },
+  {
+   "title": "Motley Fool: JPMorgan third-quarter 2026 call transcript",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/10/13/jpmorgan-chase-jpm-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "title": "Benzinga: Dimon warns on an extended rate cycle",
+   "url": "https://www.benzinga.com/markets/equities/26/10/62348313/jamie-dimon-warns-aggressive-extended-rate-cycle-consumer-credit"
+  },
+  {
+   "title": "CNBC: Bank earnings live updates",
+   "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"
+  },
+  {
+   "title": "Banking Dive: Bank of America fined $1.21 billion",
+   "url": "https://www.bankingdive.com/news/bofa-fined-1-21-billion-over-aml-bsa-occ-treasury/832915/"
+  },
+  {
+   "title": "CNBC: CoreWeave credit default swaps at distress levels",
+   "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+  },
+  {
+   "title": "24/7 Wall St.: Oracle falls as CoreWeave bond scare spreads",
+   "url": "https://247wallst.com/investing/2026/10/15/oracle-fell-nearly-9-as-coreweaves-bond-scare-spread/"
+  },
+  {
+   "title": "CNBC: Taiwan Semiconductor third-quarter profit",
+   "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html"
+  },
+  {
+   "title": "UnitedHealth Group: Third-quarter 2026 results",
+   "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-third-quarter-2026-results.pdf"
+  },
+  {
+   "title": "Detroit News: Delta cuts outlook on fuel costs",
+   "url": "https://www.detroitnews.com/story/business/2026/10/09/delta-cites-surging-fuel-costs-as-it-cuts-profit-outlook/92168374007/"
+  },
+  {
+   "title": "Insurance Journal: Hurricane Isaias insured-loss estimates",
+   "url": "https://www.insurancejournal.com/news/southeast/2026/10/15/889051.htm"
+  },
+  {
+   "title": "International Energy Agency: Oil Market Report, October 2026",
+   "url": "https://www.iea.org/reports/oil-market-report-october-2026"
+  },
+  {
+   "title": "CNBC: Container ship sinks in the Strait of Hormuz",
+   "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"
+  },
+  {
+   "title": "Bloomberg: Aramco headquarters hit during Houthi attacks",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
+  },
+  {
+   "title": "Associated Press via Fox 11: Trump says no Iran strike before midterms",
+   "url": "https://fox11online.com/news/nation-world/president-donald-trump-says-us-united-states-wont-strike-iran-islamic-republic-before-november-3-midterm-elections-as-blockade-continues-military-operations-operation-epic-fury"
+  },
+  {
+   "title": "CNBC: Oil prices, October 15",
+   "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html"
+  },
+  {
+   "title": "US News (Associated Press): China's exports surge 36.3% in September",
+   "url": "https://www.usnews.com/news/business/articles/2026-10-13/chinas-exports-surge-36-3-in-september-as-pressure-ramps-up-to-rebalance-trade"
+  },
+  {
+   "title": "Fortune: International Monetary Fund global growth forecast",
+   "url": "https://fortune.com/2026/10/13/imf-global-growth-forecast-2026-ai-economic-divide/"
+  },
+  {
+   "title": "CNBC: Fairfax and IDBI Bank",
+   "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html"
+  }
+ ]
+}

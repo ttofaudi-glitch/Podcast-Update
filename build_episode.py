@@ -1,13 +1,15 @@
-"""Build one morning briefing episode: audio (MP3) plus a synced transcript page.
+"""Build one morning briefing episode for the app in docs/.
 
 Usage:
-    python3 build_episode.py episodes/2026-10-16
+    python3 build_episode.py docs/episodes/2026-10-16                 # speech + data
+    python3 build_episode.py docs/episodes/2026-10-16 --reuse-audio   # text/number edits only
+    python3 build_episode.py docs/episodes/2026-10-16 --standalone    # also write a one-file page
 
 The episode folder must contain script.json. The build writes, into the same folder:
     briefing.mp3   the audio
-    timings.json   start and end time of every sentence
+    episode.json   everything the app needs: sections, sentence timings, numbers, sources
     transcript.md  plain-text transcript
-    index.html     self-contained player page (audio embedded, transcript highlights as it plays)
+and refreshes docs/episodes/index.json, the list of episodes the app shows.
 
 Speech is generated locally with Kokoro (open-weight text-to-speech model, runs on CPU).
 """
@@ -165,19 +167,75 @@ def render_page(script, timings, mp3_path, out_path):
     out_path.write_text(page)
 
 
+def write_episode_json(folder, script, timings):
+    sections = []
+    for si, section in enumerate(script["sections"]):
+        paragraphs = []
+        for pi in range(len(section["paragraphs"])):
+            paragraphs.append([{"i": i, "text": tm["text"], "start": tm["start"], "end": tm["end"]}
+                               for i, tm in enumerate(timings)
+                               if tm["section"] == si and tm["paragraph"] == pi])
+        sections.append({"heading": section["heading"], "start": paragraphs[0][0]["start"],
+                         "paragraphs": paragraphs})
+    episode = {
+        "id": folder.name,
+        "title": script["title"],
+        "dateline": script["dateline"],
+        "summary": script.get("summary", ""),
+        "duration": timings[-1]["end"],
+        "audio": f"episodes/{folder.name}/briefing.mp3",
+        "sections": sections,
+        "numbers": script.get("numbers", []),
+        "numbers_note": script.get("numbers_note", ""),
+        "sources": script.get("sources", []),
+    }
+    (folder / "episode.json").write_text(json.dumps(episode, indent=1, ensure_ascii=False))
+
+
+def update_index(episodes_dir):
+    items = []
+    for f in sorted(episodes_dir.glob("*/episode.json"), reverse=True):
+        ep = json.loads(f.read_text())
+        items.append({"id": ep["id"], "title": ep["title"], "dateline": ep["dateline"],
+                      "summary": ep["summary"], "duration": ep["duration"],
+                      "sections": [{"heading": s["heading"], "start": s["start"]} for s in ep["sections"]]})
+    (episodes_dir / "index.json").write_text(json.dumps({"episodes": items}, indent=1, ensure_ascii=False))
+    return len(items)
+
+
+def load_timings(folder):
+    if (folder / "episode.json").exists():
+        ep = json.loads((folder / "episode.json").read_text())
+        return [{"section": si, "paragraph": pi, "text": s["text"], "start": s["start"], "end": s["end"]}
+                for si, sec in enumerate(ep["sections"])
+                for pi, para in enumerate(sec["paragraphs"]) for s in para]
+    return json.loads((folder / "timings.json").read_text())
+
+
 def main():
-    folder = Path(sys.argv[1]).resolve()
+    args = sys.argv[1:]
+    folder = Path(next(a for a in args if not a.startswith("--"))).resolve()
     script = json.loads((folder / "script.json").read_text())
     words = sum(len(p.split()) for s in script["sections"] for p in s["paragraphs"])
     print(f"Script: {words} words")
 
-    audio, sr, timings = synthesize(script)
     mp3 = folder / "briefing.mp3"
-    encode_mp3(audio, sr, mp3)
-    (folder / "timings.json").write_text(json.dumps(timings, indent=1))
+    if "--reuse-audio" in args:
+        timings = load_timings(folder)
+        current = [t for s in script["sections"] for p in s["paragraphs"] for t in split_sentences(p)]
+        if current != [t["text"] for t in timings]:
+            sys.exit("The spoken text changed since the audio was made. Rebuild without --reuse-audio.")
+    else:
+        audio, sr, timings = synthesize(script)
+        encode_mp3(audio, sr, mp3)
+
+    write_episode_json(folder, script, timings)
     write_transcript(script, folder / "transcript.md")
-    render_page(script, timings, mp3, folder / "index.html")
+    if "--standalone" in args:
+        render_page(script, timings, mp3, folder / "index.html")
+    count = update_index(folder.parent)
     print(f"Done: {timings[-1]['end']:.0f} seconds of audio, {mp3.stat().st_size / 1e6:.1f} MB -> {folder}")
+    print(f"Index lists {count} episode(s).")
 
 
 if __name__ == "__main__":
