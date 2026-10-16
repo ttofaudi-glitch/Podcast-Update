@@ -1,7 +1,11 @@
 # Omaha Morning Brief
 
 A five-minute spoken morning briefing, published as a web app in `docs/` (GitHub Pages, installable on iPhone).
-Each episode lives in `docs/episodes/YYYY-MM-DD/`.
+Each episode lives in `docs/episodes/YYYY-MM-DD/`. GitHub Pages serves the `morning-briefing` branch, folder `/docs`.
+
+The listener is in **Hong Kong** and wants the briefing ready by 7:00 am there, Monday to Friday.
+The episode date is always today's date in Hong Kong: `TZ=Asia/Hong_Kong date +%F` (not the UTC date).
+US closing numbers are from the previous US session; a Monday edition covers Friday's close and the weekend.
 
 ## Producing today's episode
 
@@ -16,14 +20,16 @@ Each episode lives in `docs/episodes/YYYY-MM-DD/`.
 4. **Build**: `pip install -r requirements.txt` then `python3 build_episode.py docs/episodes/YYYY-MM-DD`.
    The first run downloads the voice model (about 350 MB) from GitHub releases into `models/`.
    Target length is 4:45 to 5:30. If it runs long or short, edit words and rebuild.
-5. **Publish**: commit `docs/episodes/YYYY-MM-DD/` and `docs/episodes/index.json`, then push to the branch
-   GitHub Pages serves. The app picks up the new episode on next open.
+5. **Publish**: commit only `docs/episodes/YYYY-MM-DD/` and `docs/episodes/index.json`, then
+   `git push -u origin morning-briefing`. No pull request, no changes to `main`. The app picks up the new
+   episode the next time it opens. If research or the build fails, publish nothing.
 
 ## Editorial rules (approved by the listener)
 
 - The listener is addressed as "Warren". Open with "Good morning, Warren." and the date.
 - About 650 to 690 words in six sections: The short version, Rates and inflation, Markets, Companies,
-  The world, Next week. Close with "That is the briefing. Have a good day."
+  The world, Coming up (the next few days' calendar: data releases, earnings, central bank meetings;
+  on Fridays call it Next week). Close with "That is the briefing. Have a good day."
 - **No Berkshire Hathaway-specific news.** Cover broad news on major companies instead.
 - Plain, direct sentences. No filler, no clichés, no emotional language, no forecasts presented as facts.
 - **Full names, not abbreviations** in the spoken text: Federal Reserve, gross domestic product,
