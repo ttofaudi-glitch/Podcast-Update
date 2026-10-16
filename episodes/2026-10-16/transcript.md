@@ -1,0 +1,77 @@
+# Omaha Morning Brief
+
+_Friday, October 16, 2026_
+
+## The short version
+
+Good morning, Warren. It is Friday, October 16th. Four things matter this morning. Oil is above $100 because of the Iran war. Inflation is rising again. Long-term interest rates are above 5%. And investors have started asking how the artificial intelligence build-out is being paid for.
+
+## Rates and inflation
+
+September consumer prices rose 3.7% from a year earlier, up from 3.4% in August, driven by gasoline. Core prices, without food and energy, rose 2.6%. Wholesale prices rose 6.3% over the year, the fastest since 2022.
+
+The Federal Reserve, under Chair Kevin Warsh, raised its rate in September to between 3.75% and 4%, its first increase since 2023. It meets again October 27 and 28, and futures put the odds of another hike at about one in three. The 10-year Treasury yield closed at 5.10%. Three-month Treasury bills pay 4.28%. The federal deficit for the fiscal year just ended was about $2 trillion.
+
+## Markets
+
+On Thursday the Dow rose 1.1% to 52,178, and the S&P 500 rose 0.3% to 7,744. For the week, the S&P is down 0.9% and the Nasdaq is down 2.4%.
+
+The damage is in chips and artificial intelligence. The Philadelphia semiconductor index has fallen seven days in a row and sits about 12% below its early October peak. The 20 largest artificial intelligence and chip stocks lost more than $1 trillion of market value this week. Korea's Kospi fell 7.6% on Thursday alone.
+
+On valuation, the S&P 500 trades at about 19 times expected earnings. That is an earnings yield near 5.2%, barely above the 10-year Treasury. Total stock market value is about 238% of gross domestic product, against a long-run average near 168%.
+
+## Companies
+
+The big banks reported. JPMorgan earned $5.57 a share, below forecasts, and cut share buybacks to a fraction of its usual pace. Jamie Dimon said, quote, we can redeploy that capital at very good returns over time. He said the bank is tightening credit a little, though card losses fell last quarter.
+
+Goldman Sachs earned $17.01 a share against about $13 expected. Citigroup and Morgan Stanley also beat. Bank of America missed, and the Treasury fined it $1.2 billion after it admitted willful anti-money-laundering violations.
+
+In artificial intelligence, watch the debt. CoreWeave, which rents out computing power, carries more than $51 billion of debt and obligations, and the cost of insuring that debt against default hit a record this week. Oracle fell almost 9% on Wednesday. It burned $5.4 billion of cash last quarter after $28.5 billion of capital spending. Meanwhile, Taiwan Semiconductor reported record profit, up 69%.
+
+Elsewhere, UnitedHealth beat and raised its outlook. Delta cut its profit forecast, and its finance chief said, all of it's fuel. Hurricane Isaias is estimated at $1 billion to $4 billion of insured losses, which the rating firm AM Best calls an earnings event, not a capital event.
+
+## The world
+
+The Iran war, now in its eighth month, is the biggest single force on prices. Attacks on shipping in the Strait of Hormuz have picked up, and a container ship sank there this week. The International Energy Agency expects world oil supply to fall 5.8 million barrels a day this year. Brent crude settled at $105.92.
+
+On Tuesday, during Houthi attacks on Saudi Arabia, Aramco's headquarters in Dhahran was hit. President Trump says the United States will not strike Iran before the November 3 midterm elections, and that the blockade of Iranian ports stays.
+
+China's September exports rose 36% from a year earlier, for a near-record trade surplus of $133.5 billion. Its third-quarter growth figure comes Monday, and its pause on rare earth export controls expires November 10.
+
+The International Monetary Fund sees world growth of 3.1% this year with inflation of 4.7%, assuming Hormuz reopens by March. In India, the cabinet approved selling control of IDBI Bank to Prem Watsa's Fairfax Financial.
+
+## Next week
+
+Netflix reports Tuesday, Tesla on Wednesday, and American Express is expected Friday. Coca-Cola reports October 27, the day the Federal Reserve begins its meeting. That is the briefing. Have a good day.
+
+## Sources
+
+- [Associated Press: How major US stock indexes fared, October 15](https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-thursday-10-15-2026)
+- [CNBC: Consumer prices rose 3.7% in September](https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html)
+- [UPI: Producer price index, September 2026](https://www.upi.com/Top_News/US/2026/10/15/producer-price-index-wholesale-september-2026-inflation/6601792076310)
+- [CNBC: Fed raises rates to 3.75%–4%](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)
+- [CNBC: Treasury yields, deficit and AI borrowing](https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html)
+- [Washington Times: Fiscal 2026 deficit near $2 trillion](https://www.washingtontimes.com/news/2026/oct/8/federal-budget-deficit-climbed-2-trillion-fiscal-26/)
+- [CNBC: Asia tech rout, $1 trillion lost in AI and chip stocks](https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html)
+- [CNBC: Memory chip stocks fall on China competition](https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html)
+- [The National: Asian markets fall on tech rout (Kospi down 7.6%)](https://www.thenationalnews.com/business/markets/2026/10/15/asian-markets-fall-on-tech-stock-rout-as-high-us-inflation-weighs-on-wall-street/)
+- [FactSet: Earnings Insight (forward price to earnings)](https://www.factset.com/earningsinsight)
+- [GuruFocus: Total market value to gross domestic product](https://www.gurufocus.com/economic_indicators/4602/usa-ratio-of-total-market-cap-over-gdp)
+- [Motley Fool: JPMorgan third-quarter 2026 call transcript](https://www.fool.com/earnings/call-transcripts/2026/10/13/jpmorgan-chase-jpm-q3-2026-earnings-call-transcript/)
+- [Benzinga: Dimon warns on an extended rate cycle](https://www.benzinga.com/markets/equities/26/10/62348313/jamie-dimon-warns-aggressive-extended-rate-cycle-consumer-credit)
+- [CNBC: Bank earnings live updates](https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html)
+- [Banking Dive: Bank of America fined $1.21 billion](https://www.bankingdive.com/news/bofa-fined-1-21-billion-over-aml-bsa-occ-treasury/832915/)
+- [CNBC: CoreWeave credit default swaps at distress levels](https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html)
+- [24/7 Wall St.: Oracle falls as CoreWeave bond scare spreads](https://247wallst.com/investing/2026/10/15/oracle-fell-nearly-9-as-coreweaves-bond-scare-spread/)
+- [CNBC: Taiwan Semiconductor third-quarter profit](https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html)
+- [UnitedHealth Group: Third-quarter 2026 results](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-third-quarter-2026-results.pdf)
+- [Detroit News: Delta cuts outlook on fuel costs](https://www.detroitnews.com/story/business/2026/10/09/delta-cites-surging-fuel-costs-as-it-cuts-profit-outlook/92168374007/)
+- [Insurance Journal: Hurricane Isaias insured-loss estimates](https://www.insurancejournal.com/news/southeast/2026/10/15/889051.htm)
+- [International Energy Agency: Oil Market Report, October 2026](https://www.iea.org/reports/oil-market-report-october-2026)
+- [CNBC: Container ship sinks in the Strait of Hormuz](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
+- [Bloomberg: Aramco headquarters hit during Houthi attacks](https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia)
+- [Associated Press via Fox 11: Trump says no Iran strike before midterms](https://fox11online.com/news/nation-world/president-donald-trump-says-us-united-states-wont-strike-iran-islamic-republic-before-november-3-midterm-elections-as-blockade-continues-military-operations-operation-epic-fury)
+- [CNBC: Oil prices, October 15](https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html)
+- [US News (Associated Press): China's exports surge 36.3% in September](https://www.usnews.com/news/business/articles/2026-10-13/chinas-exports-surge-36-3-in-september-as-pressure-ramps-up-to-rebalance-trade)
+- [Fortune: International Monetary Fund global growth forecast](https://fortune.com/2026/10/13/imf-global-growth-forecast-2026-ai-economic-divide/)
+- [CNBC: Fairfax and IDBI Bank](https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html)

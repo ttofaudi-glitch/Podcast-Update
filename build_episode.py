@@ -50,14 +50,24 @@ def split_sentences(paragraph):
     return [p.strip() for p in parts if p.strip()]
 
 
-def to_speech(text):
+def _dollars_and_cents(m):
+    dollars, cents = int(m.group(1)), int(m.group(2))
+    if cents == 0:
+        return f"{dollars} dollars"
+    return f"{dollars} dollars and {cents} cent{'s' if cents != 1 else ''}"
+
+
+def to_speech(text, pronounce=None):
     """Rewrite display text into a form the voice reads correctly."""
     s = text
+    for word, spoken in (pronounce or {}).items():
+        s = re.sub(rf"\b{re.escape(word)}\b", spoken, s)
     s = s.replace("S&P", "S and P")
     s = s.replace("&", " and ")
     s = re.sub(r"(\d),(\d{3})", r"\1\2", s)
     s = re.sub(r"(\d),(\d{3})", r"\1\2", s)
     s = re.sub(r"\$([\d.]+)\s*(million|billion|trillion)", r"\1 \2 dollars", s)
+    s = re.sub(r"\$(\d+)\.(\d\d)\b", _dollars_and_cents, s)
     s = re.sub(r"\$([\d.]+)", r"\1 dollars", s)
     s = re.sub(r"(\d)\s*%", r"\1 percent", s)
     s = re.sub(r"(\d)\s*[–-]\s*(\d)", r"\1 to \2", s)
@@ -80,7 +90,8 @@ def synthesize(script):
             t += SECTION_GAP
         for pi, paragraph in enumerate(section["paragraphs"]):
             for sentence in split_sentences(paragraph):
-                samples, sr = kokoro.create(to_speech(sentence), voice=voice, speed=speed, lang="en-us")
+                spoken = to_speech(sentence, script.get("pronounce"))
+                samples, sr = kokoro.create(spoken, voice=voice, speed=speed, lang="en-us")
                 dur = len(samples) / sr
                 timings.append({"section": si, "paragraph": pi, "text": sentence,
                                 "start": round(t, 2), "end": round(t + dur, 2)})
