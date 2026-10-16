@@ -1,0 +1,231 @@
+<title>{{TITLE}}</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a ledger sheet. Sticky playback strip on top, the transcript is the main column,
+   a narrow ledger of the day's numbers sits beside it (below it on a phone). */
+:root {
+  --paper: #f3f5f0;
+  --sheet: #fbfcf9;
+  --ink: #1d2420;
+  --muted: #5d6a62;
+  --rule: #cdd8cf;
+  --ledger: #2d6a4c;
+  --gain: #2d6a4c;
+  --loss: #a8392a;
+  --mark: #e3edc4;
+  --display: "Libre Caslon Display", "Libre Caslon Text", Georgia, "Times New Roman", serif;
+  --body: "Newsreader", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #121714; --sheet: #171d19; --ink: #e2e8e2; --muted: #9aa89f; --rule: #2c3830;
+    --ledger: #86c4a1; --gain: #86c4a1; --loss: #e8836f; --mark: #2f3d27; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #121714; --sheet: #171d19; --ink: #e2e8e2; --muted: #9aa89f; --rule: #2c3830;
+  --ledger: #86c4a1; --gain: #86c4a1; --loss: #e8836f; --mark: #2f3d27; color-scheme: dark;
+}
+
+body { background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 1.0625rem; line-height: 1.6; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--sheet); }
+.wrap { max-width: 68rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+header.masthead { padding-block: 2rem 1.25rem; }
+.eyebrow { font-family: var(--mono); font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0; }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.1; margin: 0.35rem 0 0; text-wrap: balance; }
+
+.player { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--sheet); border-block: 1px solid var(--rule); }
+.player .wrap { display: flex; align-items: center; gap: 0.9rem; padding-block: 0.7rem; flex-wrap: wrap; }
+.play { width: 3rem; height: 3rem; border-radius: 50%; border: 0; background: var(--ledger); color: var(--sheet); cursor: pointer; display: grid; place-items: center; flex: none; }
+.play svg { width: 1.1rem; height: 1.1rem; fill: currentColor; }
+.play .i-pause, .playing .play .i-play { display: none; }
+.playing .play .i-pause { display: block; }
+.track { flex: 1 1 14rem; min-width: 0; display: flex; flex-direction: column; gap: 0.2rem; }
+.now { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#seek { width: 100%; accent-color: var(--ledger); margin: 0; }
+.time { font-family: var(--mono); font-size: 0.85rem; font-variant-numeric: tabular-nums; color: var(--muted); flex: none; }
+.ctl { display: flex; gap: 0.4rem; flex: none; }
+.ctl button { font-family: var(--mono); font-size: 0.78rem; background: transparent; color: var(--ink); border: 1px solid var(--rule); border-radius: 999px; padding: 0.3rem 0.7rem; cursor: pointer; }
+.ctl button[aria-pressed="true"] { border-color: var(--ledger); color: var(--ledger); }
+button:focus-visible, a:focus-visible, .s:focus-visible, input:focus-visible { outline: 2px solid var(--ledger); outline-offset: 2px; }
+
+main.wrap { display: grid; grid-template-columns: minmax(0, 1fr) 19rem; gap: 3rem; padding-block: 2rem 4rem; align-items: start; }
+.transcript { min-width: 0; max-width: 40rem; }
+.seg + .seg { margin-top: 2.2rem; }
+.seg h2 { margin: 0 0 0.6rem; font-size: 1rem; }
+.jump { display: flex; align-items: baseline; gap: 0.7rem; background: none; border: 0; padding: 0; color: var(--ledger); cursor: pointer; font-family: var(--mono); font-size: 0.8rem; font-weight: 500; letter-spacing: 0.07em; text-transform: uppercase; text-align: left; }
+.jump .ts { color: var(--muted); font-variant-numeric: tabular-nums; }
+.transcript p { margin: 0 0 0.9rem; }
+.s { cursor: pointer; border-radius: 3px; padding: 0.05em 0.1em; margin: 0 -0.1em; transition: background-color 0.2s; }
+.s:hover { background: color-mix(in srgb, var(--mark) 55%, transparent); }
+.s.on { background: var(--mark); }
+
+aside { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 6.5rem); display: grid; gap: 2rem; min-width: 0; }
+aside h3 { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0 0 0.5rem; }
+.ledger { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 0.8rem; font-variant-numeric: tabular-nums; background: var(--sheet); border: 1px solid var(--rule); }
+.ledger th, .ledger td { padding: 0.45rem 0.6rem; border-bottom: 1px solid var(--rule); text-align: right; }
+.ledger th { text-align: left; font-weight: 400; color: var(--ink); }
+.ledger td.v { border-left: 1px solid var(--rule); }
+.ledger td.c { border-left: 1px solid var(--rule); }
+.ledger tr:last-child th, .ledger tr:last-child td { border-bottom: 0; }
+.up { color: var(--gain); } .down { color: var(--loss); } .flat { color: var(--muted); }
+.note { font-size: 0.8rem; color: var(--muted); margin: 0.5rem 0 0; line-height: 1.45; }
+.sources { margin: 0; padding: 0 0 0 1.1rem; font-size: 0.85rem; line-height: 1.45; display: grid; gap: 0.35rem; }
+.sources a { color: var(--ink); text-decoration-color: var(--rule); text-underline-offset: 2px; overflow-wrap: anywhere; }
+.sources a:hover { text-decoration-color: var(--ledger); }
+
+@media (max-width: 860px) {
+  main.wrap { grid-template-columns: minmax(0, 1fr); gap: 2.5rem; }
+  aside { position: static; }
+}
+@media (max-width: 480px) {
+  .ctl button { padding: 0.3rem 0.55rem; }
+}
+@media (prefers-reduced-motion: reduce) { .s { transition: none; } }
+</style>
+
+<header class="masthead wrap">
+  <p class="eyebrow">{{DATELINE}} · {{DURATION}} listen</p>
+  <h1>{{TITLE}}</h1>
+</header>
+
+<div class="player" id="player">
+  <div class="wrap">
+    <button class="play" id="play" type="button" aria-label="Play">
+      <svg class="i-play" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 2.5v11l9-5.5z"/></svg>
+      <svg class="i-pause" viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 2.5h3v11h-3zM9.5 2.5h3v11h-3z"/></svg>
+    </button>
+    <div class="track">
+      <div class="now" id="now">Press play. The text follows the voice.</div>
+      <input id="seek" type="range" min="0" max="1000" value="0" step="1" aria-label="Position in the briefing">
+    </div>
+    <div class="time"><span id="cur">0:00</span> / {{DURATION}}</div>
+    <div class="ctl">
+      <button id="back" type="button" aria-label="Back 15 seconds">−15s</button>
+      <button id="speed" type="button" aria-label="Playback speed">1×</button>
+      <button id="follow" type="button" aria-pressed="true">Follow</button>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <article class="transcript" id="transcript">
+{{SECTIONS}}
+  </article>
+  <aside>
+    <section>
+      <h3>The numbers</h3>
+      <table class="ledger"><tbody>{{NUMBERS}}</tbody></table>
+      <p class="note">{{NUMBERS_NOTE}}</p>
+    </section>
+    <section>
+      <h3>Sources</h3>
+      <ol class="sources">{{SOURCES}}</ol>
+    </section>
+  </aside>
+</main>
+
+<audio id="audio" preload="auto" src="{{AUDIO_SRC}}"></audio>
+
+<script>
+(() => {
+  const audio = document.getElementById('audio');
+  const player = document.getElementById('player');
+  const playBtn = document.getElementById('play');
+  const seek = document.getElementById('seek');
+  const cur = document.getElementById('cur');
+  const now = document.getElementById('now');
+  const speedBtn = document.getElementById('speed');
+  const followBtn = document.getElementById('follow');
+  const sentences = [...document.querySelectorAll('.s')];
+  const segs = [...document.querySelectorAll('.seg')];
+  const starts = sentences.map(s => +s.dataset.start);
+  const speeds = [1, 1.25, 1.5, 0.85];
+  let speedIdx = 0, active = -1, follow = true, dragging = false;
+
+  const fmt = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
+  const total = () => (isFinite(audio.duration) && audio.duration > 0) ? audio.duration : +sentences.at(-1).dataset.end;
+
+  sentences.forEach(s => { s.tabIndex = 0; s.setAttribute('role', 'button'); });
+
+  function indexAt(t) {
+    let lo = 0, hi = starts.length - 1, ans = -1;
+    while (lo <= hi) { const m = (lo + hi) >> 1; if (starts[m] <= t + 0.05) { ans = m; lo = m + 1; } else hi = m - 1; }
+    return ans;
+  }
+
+  function sync() {
+    const t = audio.currentTime;
+    cur.textContent = fmt(t);
+    if (!dragging) seek.value = Math.round(t / total() * 1000);
+    const i = indexAt(t);
+    if (i === active) return;
+    if (active >= 0) sentences[active].classList.remove('on');
+    active = i;
+    if (i < 0) return;
+    const el = sentences[i];
+    el.classList.add('on');
+    const seg = el.closest('.seg');
+    now.textContent = seg.querySelector('.jump').textContent.replace(/^\d+:\d\d/, '');
+    if (follow && !audio.paused) {
+      const r = el.getBoundingClientRect();
+      const top = player.getBoundingClientRect().bottom + 24;
+      if (r.top < top || r.bottom > window.innerHeight - 60) {
+        const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+        window.scrollBy({ top: r.top - top - window.innerHeight * 0.18, behavior: reduce ? 'auto' : 'smooth' });
+      }
+    }
+  }
+
+  function go(t) { audio.currentTime = Math.max(0, Math.min(t, total() - 0.05)); sync(); }
+  function toggle() { audio.paused ? audio.play().catch(() => {}) : audio.pause(); }
+
+  playBtn.addEventListener('click', toggle);
+  audio.addEventListener('play', () => { player.classList.add('playing'); playBtn.setAttribute('aria-label', 'Pause'); });
+  audio.addEventListener('pause', () => { player.classList.remove('playing'); playBtn.setAttribute('aria-label', 'Play'); });
+  audio.addEventListener('timeupdate', sync);
+  audio.addEventListener('seeked', sync);
+  audio.addEventListener('ended', () => { player.classList.remove('playing'); });
+
+  seek.addEventListener('input', () => { dragging = true; cur.textContent = fmt(seek.value / 1000 * total()); });
+  seek.addEventListener('change', () => { dragging = false; go(seek.value / 1000 * total()); });
+
+  document.getElementById('back').addEventListener('click', () => go(audio.currentTime - 15));
+  speedBtn.addEventListener('click', () => {
+    speedIdx = (speedIdx + 1) % speeds.length;
+    audio.playbackRate = speeds[speedIdx];
+    speedBtn.textContent = `${speeds[speedIdx]}×`;
+  });
+  followBtn.addEventListener('click', () => {
+    follow = !follow;
+    followBtn.setAttribute('aria-pressed', String(follow));
+  });
+
+  sentences.forEach(s => {
+    const jump = () => { go(+s.dataset.start); if (audio.paused) audio.play().catch(() => {}); };
+    s.addEventListener('click', jump);
+    s.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); jump(); } });
+  });
+  document.querySelectorAll('.jump').forEach(b => b.addEventListener('click', () => {
+    go(+b.dataset.start); if (audio.paused) audio.play().catch(() => {});
+  }));
+
+  document.addEventListener('keydown', e => {
+    if (e.target.closest('input, button, .s, a')) return;
+    if (e.key === ' ') { e.preventDefault(); toggle(); }
+    else if (e.key === 'ArrowLeft') go(audio.currentTime - 10);
+    else if (e.key === 'ArrowRight') go(audio.currentTime + 10);
+  });
+
+  if ('mediaSession' in navigator) {
+    navigator.mediaSession.metadata = new MediaMetadata({ title: document.title, artist: 'Morning briefing' });
+    navigator.mediaSession.setActionHandler('seekbackward', () => go(audio.currentTime - 15));
+    navigator.mediaSession.setActionHandler('seekforward', () => go(audio.currentTime + 15));
+  }
+})();
+</script>
