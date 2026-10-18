@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-19",
+   "title": "Omaha Morning Brief",
+   "dateline": "Monday, October 19, 2026",
+   "summary": "Brent near $110, chip stocks' longest losing streak since 2008, Warsh gives no signal on a hike, and Travelers' quarter before Isaias.",
+   "duration": 308.93,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 21.5
+    },
+    {
+     "heading": "Markets",
+     "start": 72.09
+    },
+    {
+     "heading": "Companies",
+     "start": 119.68
+    },
+    {
+     "heading": "The world",
+     "start": 203.96
+    },
+    {
+     "heading": "Coming up",
+     "start": 284.34
+    }
+   ]
+  },
+  {
    "id": "2026-10-16",
    "title": "Omaha Morning Brief",
    "dateline": "Friday, October 16, 2026",

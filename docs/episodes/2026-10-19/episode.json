@@ -1,0 +1,657 @@
+{
+ "id": "2026-10-19",
+ "title": "Omaha Morning Brief",
+ "dateline": "Monday, October 19, 2026",
+ "summary": "Brent near $110, chip stocks' longest losing streak since 2008, Warsh gives no signal on a hike, and Travelers' quarter before Isaias.",
+ "duration": 308.93,
+ "audio": "episodes/2026-10-19/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Monday, October 19th.",
+      "start": 1.56,
+      "end": 3.71
+     },
+     {
+      "i": 2,
+      "text": "Three things matter this morning.",
+      "start": 3.99,
+      "end": 5.66
+     },
+     {
+      "i": 3,
+      "text": "Oil closed Friday at its highest level since May.",
+      "start": 5.94,
+      "end": 8.65
+     },
+     {
+      "i": 4,
+      "text": "Chip and artificial intelligence stocks had their worst week in months.",
+      "start": 8.93,
+      "end": 12.79
+     },
+     {
+      "i": 5,
+      "text": "And the chair of the Federal Reserve gave no signal on another rate increase, so markets now see one next week as unlikely.",
+      "start": 13.07,
+      "end": 20.37
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 21.5,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "Federal Reserve Chair Kevin Warsh spoke Friday at the International Monetary Fund meetings in Bangkok.",
+      "start": 21.5,
+      "end": 27.72
+     },
+     {
+      "i": 7,
+      "text": "He called the artificial intelligence spending boom a shock that raises demand now, before it raises supply, and said the road to higher productivity will be very bumpy.",
+      "start": 28.0,
+      "end": 38.33
+     },
+     {
+      "i": 8,
+      "text": "He would not say what the Federal Reserve will do on October 28.",
+      "start": 38.61,
+      "end": 42.47
+     },
+     {
+      "i": 9,
+      "text": "Futures now put the odds of a rate increase at roughly one in six.",
+      "start": 42.75,
+      "end": 46.57
+     }
+    ],
+    [
+     {
+      "i": 10,
+      "text": "The 10-year Treasury yield ended the week at 5.09%, down from 5.24% a week earlier.",
+      "start": 46.85,
+      "end": 54.4
+     },
+     {
+      "i": 11,
+      "text": "Three-month Treasury bills pay 4.26%.",
+      "start": 54.68,
+      "end": 57.97
+     },
+     {
+      "i": 12,
+      "text": "Industrial production rose 0.7% in September, the biggest gain since April.",
+      "start": 58.25,
+      "end": 64.14
+     },
+     {
+      "i": 13,
+      "text": "In Europe, inflation rose to 3.8% in September, a three-year high, driven by energy.",
+      "start": 64.42,
+      "end": 70.96
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 72.09,
+   "paragraphs": [
+    [
+     {
+      "i": 14,
+      "text": "On Friday the S&P 500 fell 1.1% to 7,659, and the Nasdaq fell 2.1%.",
+      "start": 72.09,
+      "end": 81.1
+     },
+     {
+      "i": 15,
+      "text": "The Dow slipped 0.3% but still gained 0.7% for the week.",
+      "start": 81.38,
+      "end": 86.65
+     },
+     {
+      "i": 16,
+      "text": "The S&P lost about 2% for the week and the Nasdaq 4.5%, both their worst week since June.",
+      "start": 86.93,
+      "end": 94.09
+     }
+    ],
+    [
+     {
+      "i": 17,
+      "text": "The Philadelphia semiconductor index fell for an eighth straight day, its longest losing streak since 2008.",
+      "start": 94.37,
+      "end": 101.18
+     },
+     {
+      "i": 18,
+      "text": "It is now about 24% below its June record.",
+      "start": 101.46,
+      "end": 104.66
+     }
+    ],
+    [
+     {
+      "i": 19,
+      "text": "On valuation, FactSet puts the S&P 500 at 19 times expected earnings, measured before Friday's drop.",
+      "start": 104.94,
+      "end": 112.98
+     },
+     {
+      "i": 20,
+      "text": "That is an earnings yield of about 5.3%, close to the 10-year Treasury yield.",
+      "start": 113.26,
+      "end": 118.55
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 119.68,
+   "paragraphs": [
+    [
+     {
+      "i": 21,
+      "text": "In artificial intelligence, the debt worries continued.",
+      "start": 119.68,
+      "end": 122.82
+     },
+     {
+      "i": 22,
+      "text": "CoreWeave, which carries about $50 billion of debt, fell about 12% on Friday and about 25% for the week.",
+      "start": 123.1,
+      "end": 130.95
+     },
+     {
+      "i": 23,
+      "text": "One of its bonds briefly yielded more than 16%.",
+      "start": 131.23,
+      "end": 134.49
+     }
+    ],
+    [
+     {
+      "i": 24,
+      "text": "Travelers earned $9.18 a share on a core basis.",
+      "start": 134.77,
+      "end": 138.87
+     },
+     {
+      "i": 25,
+      "text": "Its combined ratio was 86.8%, which means it kept about 13 cents of every premium dollar as underwriting profit.",
+      "start": 139.15,
+      "end": 147.9
+     },
+     {
+      "i": 26,
+      "text": "Net investment income was a record $908 million after tax, and it bought back $1.5 billion of stock.",
+      "start": 148.18,
+      "end": 156.45
+     },
+     {
+      "i": 27,
+      "text": "These results come before Hurricane Isaias, which made landfall October 9.",
+      "start": 156.73,
+      "end": 161.45
+     },
+     {
+      "i": 28,
+      "text": "Modelers put Isaias insured losses at $1 billion to $4.5 billion.",
+      "start": 161.73,
+      "end": 167.53
+     }
+    ],
+    [
+     {
+      "i": 29,
+      "text": "Truist took a $1.4 billion loss to sell $8.6 billion of old, low-yielding bonds and buy higher-yielding ones.",
+      "start": 167.81,
+      "end": 176.47
+     },
+     {
+      "i": 30,
+      "text": "Adjusted earnings rose 12%.",
+      "start": 176.75,
+      "end": 179.01
+     }
+    ],
+    [
+     {
+      "i": 31,
+      "text": "J.B.",
+      "start": 179.29,
+      "end": 180.19
+     },
+     {
+      "i": 32,
+      "text": "Hunt's revenue rose 20%, but its profit rose only about 1%.",
+      "start": 180.47,
+      "end": 185.31
+     },
+     {
+      "i": 33,
+      "text": "Driver pay, fuel and claims costs took the difference, and management says its prices must catch up in next year's contract season.",
+      "start": 185.59,
+      "end": 193.27
+     }
+    ],
+    [
+     {
+      "i": 34,
+      "text": "In deals, Proofpoint, owned by Thoma Bravo, agreed to buy the data security company Varonis for about $6.3 billion in cash.",
+      "start": 193.55,
+      "end": 202.83
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 203.96,
+   "paragraphs": [
+    [
+     {
+      "i": 35,
+      "text": "Brent crude settled at $109.86 on Friday, up 3.7%, its highest close since May.",
+      "start": 203.96,
+      "end": 212.09
+     },
+     {
+      "i": 36,
+      "text": "West Texas Intermediate closed at $101.41.",
+      "start": 212.37,
+      "end": 217.04
+     },
+     {
+      "i": 37,
+      "text": "Since Friday, Iran's Revolutionary Guards have said two supertankers hit mines in the Strait of Hormuz.",
+      "start": 217.32,
+      "end": 223.72
+     },
+     {
+      "i": 38,
+      "text": "Neither ship has been named, and the claims are not independently confirmed.",
+      "start": 224.0,
+      "end": 228.25
+     },
+     {
+      "i": 39,
+      "text": "A British maritime monitor reports the most attacks on shipping in a single week since the war began in February.",
+      "start": 228.53,
+      "end": 235.16
+     }
+    ],
+    [
+     {
+      "i": 40,
+      "text": "Iran's foreign minister says the strait could reopen within days if the United States accepts a seven-day plan sent through Qatar.",
+      "start": 235.44,
+      "end": 243.55
+     },
+     {
+      "i": 41,
+      "text": "It requires an end to the naval blockade and to oil sanctions.",
+      "start": 243.83,
+      "end": 247.65
+     },
+     {
+      "i": 42,
+      "text": "Washington wants Iran's nuclear program dealt with first.",
+      "start": 247.93,
+      "end": 251.47
+     },
+     {
+      "i": 43,
+      "text": "On Friday the Energy Department offered to lend up to 17 million barrels from the Strategic Petroleum Reserve.",
+      "start": 251.75,
+      "end": 258.96
+     }
+    ],
+    [
+     {
+      "i": 44,
+      "text": "A correction: on Friday we said China's pause on rare earth export controls ends November 10.",
+      "start": 259.24,
+      "end": 265.19
+     },
+     {
+      "i": 45,
+      "text": "The United States says the truce was extended in September to January 10.",
+      "start": 265.47,
+      "end": 270.1
+     }
+    ],
+    [
+     {
+      "i": 46,
+      "text": "China reports third-quarter growth at 10 o'clock this morning, Hong Kong time.",
+      "start": 270.38,
+      "end": 274.93
+     },
+     {
+      "i": 47,
+      "text": "Economists polled by Reuters expect 4.4%, below Beijing's target of 4.5% to 5%.",
+      "start": 275.21,
+      "end": 283.21
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 284.34,
+   "paragraphs": [
+    [
+     {
+      "i": 48,
+      "text": "Tuesday brings housing starts, General Motors and Netflix.",
+      "start": 284.34,
+      "end": 287.73
+     },
+     {
+      "i": 49,
+      "text": "Wednesday, Tesla, Meta and IBM report after the close.",
+      "start": 288.01,
+      "end": 291.87
+     },
+     {
+      "i": 50,
+      "text": "Procter & Gamble reports Thursday.",
+      "start": 292.15,
+      "end": 294.32
+     },
+     {
+      "i": 51,
+      "text": "Friday brings American Express and the final University of Michigan consumer survey.",
+      "start": 294.6,
+      "end": 299.87
+     },
+     {
+      "i": 52,
+      "text": "The Federal Reserve decides on October 28, and the European Central Bank on October 29.",
+      "start": 300.15,
+      "end": 306.21
+     },
+     {
+      "i": 53,
+      "text": "That is the briefing.",
+      "start": 306.49,
+      "end": 307.64
+     },
+     {
+      "i": 54,
+      "text": "Have a good day.",
+      "start": 307.92,
+      "end": 308.93
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,002.41",
+   "change": "(0.34%)",
+   "dir": "down"
+  },
+  {
+   "label": "Dow Jones Industrial Average, week",
+   "value": "",
+   "change": "+0.7%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,659.44",
+   "change": "(1.09%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500, week",
+   "value": "",
+   "change": "(1.95%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,140.03",
+   "change": "(2.14%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite, week",
+   "value": "",
+   "change": "(4.5%)",
+   "dir": "down"
+  },
+  {
+   "label": "Philadelphia Semiconductor Index",
+   "value": "11,137.29",
+   "change": "(3.83%)",
+   "dir": "down"
+  },
+  {
+   "label": "Philadelphia Semiconductor Index, week",
+   "value": "",
+   "change": "(11.41%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.09%",
+   "change": "(0.15)",
+   "dir": "down"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.74%",
+   "change": "(0.06)",
+   "dir": "down"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.26%",
+   "change": "+0.01",
+   "dir": "up"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.43%",
+   "change": "(0.17)",
+   "dir": "down"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$109.86",
+   "change": "+3.7%",
+   "dir": "up"
+  },
+  {
+   "label": "West Texas Intermediate crude",
+   "value": "$101.41",
+   "change": "+3.5%",
+   "dir": "up"
+  },
+  {
+   "label": "Euro area inflation, year over year (September)",
+   "value": "3.8%",
+   "change": "from 3.2%",
+   "dir": "flat"
+  },
+  {
+   "label": "Industrial production (September)",
+   "value": "+0.7%",
+   "change": "from +0.1%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500 forward price to earnings",
+   "value": "19.0×",
+   "change": "as of October 15",
+   "dir": "flat"
+  }
+ ],
+ "numbers_note": "Closing levels for Friday, October 16, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the week. Stock and oil changes are for the day unless marked. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Associated Press via ABC News: How major US stock indexes fared, October 16",
+   "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+  },
+  {
+   "title": "Yahoo Finance: Markets news, October 16, 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
+  },
+  {
+   "title": "Portfolio Terminal: Stock market week in review, October 16",
+   "url": "https://portfolio-terminal.com/blog/stock-market-week-in-review-october-16-2026"
+  },
+  {
+   "title": "24/7 Wall St.: Chip stocks fall 8 days in a row, longest streak since 2008",
+   "url": "https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/"
+  },
+  {
+   "title": "TECHi: Chip stocks fall an eighth straight day",
+   "url": "https://www.techi.com/chip-stocks-eighth-straight-day-longest-since-2008/"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "CNBC: Fed's Warsh withholds rate signal",
+   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html"
+  },
+  {
+   "title": "Benzinga: October hike odds fall after Warsh remarks",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62408879/fed-rate-hike-odds-warsh-ai"
+  },
+  {
+   "title": "Federal Reserve: Industrial production, September 2026",
+   "url": "https://www.federalreserve.gov/releases/g17/current/g17.pdf"
+  },
+  {
+   "title": "Eurostat: Annual inflation up to 3.8% in the euro area",
+   "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap"
+  },
+  {
+   "title": "FactSet: S&P 500 earnings season update, October 16, 2026",
+   "url": "https://insight.factset.com/sp-500-earnings-season-update-october-16-2026"
+  },
+  {
+   "title": "Reuters via US News: CoreWeave shares and bonds head for steep weekly losses",
+   "url": "https://money.usnews.com/investing/news/articles/2026-10-16/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount"
+  },
+  {
+   "title": "The Next Web: CoreWeave shares and bonds, weekly losses",
+   "url": "https://thenextweb.com/news/coreweave-shares-bonds-weekly-losses-ai-debt"
+  },
+  {
+   "title": "Motley Fool: Travelers third-quarter 2026 call transcript",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/10/16/travelers-trv-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "title": "GuruFocus: Travelers third-quarter 2026 highlights",
+   "url": "https://www.gurufocus.com/news/9128416/the-travelers-companies-inc-trv-q3-2026-earnings-call-highlights-record-core-income-of-195-billion-and-221-return-on-equity"
+  },
+  {
+   "title": "Artemis: Moody's estimates Isaias insured losses at $2.5 billion to $4.5 billion",
+   "url": "https://www.artemis.bm/news/moodys-estimates-insured-losses-from-hurricane-isaias-in-2-5bn-to-4-5bn-range/"
+  },
+  {
+   "title": "Insurance Business: Verisk puts Isaias insured losses at $1 billion to $2 billion",
+   "url": "https://www.insurancebusinessmag.com/us/news/catastrophe/verisk-puts-hurricane-isaias-insured-losses-at-1-billion-to-2-billion-593407.aspx"
+  },
+  {
+   "title": "Truist: Third-quarter 2026 earnings release (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm"
+  },
+  {
+   "title": "Investing.com: Truist third-quarter 2026 slides",
+   "url": "https://www.investing.com/news/company-news/truist-q3-2026-slides-strategic-reset-drives-146-adjusted-rotce-93CH-4954258"
+  },
+  {
+   "title": "J.B. Hunt: Third-quarter 2026 results",
+   "url": "https://investor.jbhunt.com/news/2026/10-15-2026-210616255"
+  },
+  {
+   "title": "CCJ: J.B. Hunt revenue up 20%, profit up 1%",
+   "url": "https://www.ccjdigital.com/business/article/15837715/jb-hunt-q3-2026-earnings-revenue-up-20-profit-up-just-1"
+  },
+  {
+   "title": "Varonis: Form 8-K on the Proofpoint agreement",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001361113/000121390026109901/ea030861001ex99-1.htm"
+  },
+  {
+   "title": "CyberScoop: Proofpoint to buy Varonis for $6.3 billion",
+   "url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/"
+  },
+  {
+   "title": "TokenPost: Brent settles at $109.86 as WTI closes above $100",
+   "url": "https://www.tokenpost.com/news/investing/33503"
+  },
+  {
+   "title": "Arkansas Democrat-Gazette: Oil at $110, highest since May",
+   "url": "https://www.arkansasonline.com/news/2026/oct/17/oil-at-110-per-barrel-its-highest-since-may/"
+  },
+  {
+   "title": "HNGN: Iran says two supertankers hit mines in Hormuz",
+   "url": "https://www.hngn.com/articles/273540/20261018/iran-says-two-supertankers-hit-mines-hormuz.htm"
+  },
+  {
+   "title": "Al Jazeera: US and Iran both claim control of the Strait of Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+  },
+  {
+   "title": "Yahoo News: Iran says offer to reopen the Strait of Hormuz still on",
+   "url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html"
+  },
+  {
+   "title": "BOE Report: US solicits exchange of up to 17 million barrels from the reserve",
+   "url": "https://boereport.com/2026/10/16/us-solicits-exchange-of-up-to-17-million-barrels-of-oil-from-strategic-reserve/"
+  },
+  {
+   "title": "CNBC: US-China trade truce extended to January 10",
+   "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+  },
+  {
+   "title": "Reuters via Investing.com: China third-quarter growth poll",
+   "url": "https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895"
+  },
+  {
+   "title": "CNBC: Meta, Tesla, Netflix earnings preview, week of October 19",
+   "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html"
+  },
+  {
+   "title": "IBM: Third-quarter 2026 earnings announcement",
+   "url": "https://www.ibm.com/investor/events/earnings-3q26"
+  },
+  {
+   "title": "American Express: 2026 earnings call dates",
+   "url": "https://www.americanexpress.com/en-us/newsroom/articles/financial-news/american-express-announces-fourth-quarter-2025-and-2026-earnings.html"
+  }
+ ]
+}

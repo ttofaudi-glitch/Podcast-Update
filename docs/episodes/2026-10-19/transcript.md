@@ -1,0 +1,84 @@
+# Omaha Morning Brief
+
+_Monday, October 19, 2026_
+
+## The short version
+
+Good morning, Warren. It is Monday, October 19th. Three things matter this morning. Oil closed Friday at its highest level since May. Chip and artificial intelligence stocks had their worst week in months. And the chair of the Federal Reserve gave no signal on another rate increase, so markets now see one next week as unlikely.
+
+## Rates and inflation
+
+Federal Reserve Chair Kevin Warsh spoke Friday at the International Monetary Fund meetings in Bangkok. He called the artificial intelligence spending boom a shock that raises demand now, before it raises supply, and said the road to higher productivity will be very bumpy. He would not say what the Federal Reserve will do on October 28. Futures now put the odds of a rate increase at roughly one in six.
+
+The 10-year Treasury yield ended the week at 5.09%, down from 5.24% a week earlier. Three-month Treasury bills pay 4.26%. Industrial production rose 0.7% in September, the biggest gain since April. In Europe, inflation rose to 3.8% in September, a three-year high, driven by energy.
+
+## Markets
+
+On Friday the S&P 500 fell 1.1% to 7,659, and the Nasdaq fell 2.1%. The Dow slipped 0.3% but still gained 0.7% for the week. The S&P lost about 2% for the week and the Nasdaq 4.5%, both their worst week since June.
+
+The Philadelphia semiconductor index fell for an eighth straight day, its longest losing streak since 2008. It is now about 24% below its June record.
+
+On valuation, FactSet puts the S&P 500 at 19 times expected earnings, measured before Friday's drop. That is an earnings yield of about 5.3%, close to the 10-year Treasury yield.
+
+## Companies
+
+In artificial intelligence, the debt worries continued. CoreWeave, which carries about $50 billion of debt, fell about 12% on Friday and about 25% for the week. One of its bonds briefly yielded more than 16%.
+
+Travelers earned $9.18 a share on a core basis. Its combined ratio was 86.8%, which means it kept about 13 cents of every premium dollar as underwriting profit. Net investment income was a record $908 million after tax, and it bought back $1.5 billion of stock. These results come before Hurricane Isaias, which made landfall October 9. Modelers put Isaias insured losses at $1 billion to $4.5 billion.
+
+Truist took a $1.4 billion loss to sell $8.6 billion of old, low-yielding bonds and buy higher-yielding ones. Adjusted earnings rose 12%.
+
+J.B. Hunt's revenue rose 20%, but its profit rose only about 1%. Driver pay, fuel and claims costs took the difference, and management says its prices must catch up in next year's contract season.
+
+In deals, Proofpoint, owned by Thoma Bravo, agreed to buy the data security company Varonis for about $6.3 billion in cash.
+
+## The world
+
+Brent crude settled at $109.86 on Friday, up 3.7%, its highest close since May. West Texas Intermediate closed at $101.41. Since Friday, Iran's Revolutionary Guards have said two supertankers hit mines in the Strait of Hormuz. Neither ship has been named, and the claims are not independently confirmed. A British maritime monitor reports the most attacks on shipping in a single week since the war began in February.
+
+Iran's foreign minister says the strait could reopen within days if the United States accepts a seven-day plan sent through Qatar. It requires an end to the naval blockade and to oil sanctions. Washington wants Iran's nuclear program dealt with first. On Friday the Energy Department offered to lend up to 17 million barrels from the Strategic Petroleum Reserve.
+
+A correction: on Friday we said China's pause on rare earth export controls ends November 10. The United States says the truce was extended in September to January 10.
+
+China reports third-quarter growth at 10 o'clock this morning, Hong Kong time. Economists polled by Reuters expect 4.4%, below Beijing's target of 4.5% to 5%.
+
+## Coming up
+
+Tuesday brings housing starts, General Motors and Netflix. Wednesday, Tesla, Meta and IBM report after the close. Procter & Gamble reports Thursday. Friday brings American Express and the final University of Michigan consumer survey. The Federal Reserve decides on October 28, and the European Central Bank on October 29. That is the briefing. Have a good day.
+
+## Sources
+
+- [Associated Press via ABC News: How major US stock indexes fared, October 16](https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951)
+- [Yahoo Finance: Markets news, October 16, 2026](https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html)
+- [Portfolio Terminal: Stock market week in review, October 16](https://portfolio-terminal.com/blog/stock-market-week-in-review-october-16-2026)
+- [24/7 Wall St.: Chip stocks fall 8 days in a row, longest streak since 2008](https://247wallst.com/investing/2026/10/17/chip-stocks-just-fell-8-days-in-a-row-their-longest-losing-streak-since-2008/)
+- [TECHi: Chip stocks fall an eighth straight day](https://www.techi.com/chip-stocks-eighth-straight-day-longest-since-2008/)
+- [United States Treasury: Daily Treasury par yield curve rates](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)
+- [CNBC: Fed's Warsh withholds rate signal](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html)
+- [Benzinga: October hike odds fall after Warsh remarks](https://www.benzinga.com/markets/prediction-markets/26/10/62408879/fed-rate-hike-odds-warsh-ai)
+- [Federal Reserve: Industrial production, September 2026](https://www.federalreserve.gov/releases/g17/current/g17.pdf)
+- [Eurostat: Annual inflation up to 3.8% in the euro area](https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap)
+- [FactSet: S&P 500 earnings season update, October 16, 2026](https://insight.factset.com/sp-500-earnings-season-update-october-16-2026)
+- [Reuters via US News: CoreWeave shares and bonds head for steep weekly losses](https://money.usnews.com/investing/news/articles/2026-10-16/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount)
+- [The Next Web: CoreWeave shares and bonds, weekly losses](https://thenextweb.com/news/coreweave-shares-bonds-weekly-losses-ai-debt)
+- [Motley Fool: Travelers third-quarter 2026 call transcript](https://www.fool.com/earnings/call-transcripts/2026/10/16/travelers-trv-q3-2026-earnings-call-transcript/)
+- [GuruFocus: Travelers third-quarter 2026 highlights](https://www.gurufocus.com/news/9128416/the-travelers-companies-inc-trv-q3-2026-earnings-call-highlights-record-core-income-of-195-billion-and-221-return-on-equity)
+- [Artemis: Moody's estimates Isaias insured losses at $2.5 billion to $4.5 billion](https://www.artemis.bm/news/moodys-estimates-insured-losses-from-hurricane-isaias-in-2-5bn-to-4-5bn-range/)
+- [Insurance Business: Verisk puts Isaias insured losses at $1 billion to $2 billion](https://www.insurancebusinessmag.com/us/news/catastrophe/verisk-puts-hurricane-isaias-insured-losses-at-1-billion-to-2-billion-593407.aspx)
+- [Truist: Third-quarter 2026 earnings release (Form 8-K)](https://www.sec.gov/Archives/edgar/data/0000092230/000009223026000108/ex991-3q26.htm)
+- [Investing.com: Truist third-quarter 2026 slides](https://www.investing.com/news/company-news/truist-q3-2026-slides-strategic-reset-drives-146-adjusted-rotce-93CH-4954258)
+- [J.B. Hunt: Third-quarter 2026 results](https://investor.jbhunt.com/news/2026/10-15-2026-210616255)
+- [CCJ: J.B. Hunt revenue up 20%, profit up 1%](https://www.ccjdigital.com/business/article/15837715/jb-hunt-q3-2026-earnings-revenue-up-20-profit-up-just-1)
+- [Varonis: Form 8-K on the Proofpoint agreement](https://www.sec.gov/Archives/edgar/data/0001361113/000121390026109901/ea030861001ex99-1.htm)
+- [CyberScoop: Proofpoint to buy Varonis for $6.3 billion](https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/)
+- [TokenPost: Brent settles at $109.86 as WTI closes above $100](https://www.tokenpost.com/news/investing/33503)
+- [Arkansas Democrat-Gazette: Oil at $110, highest since May](https://www.arkansasonline.com/news/2026/oct/17/oil-at-110-per-barrel-its-highest-since-may/)
+- [HNGN: Iran says two supertankers hit mines in Hormuz](https://www.hngn.com/articles/273540/20261018/iran-says-two-supertankers-hit-mines-hormuz.htm)
+- [Al Jazeera: US and Iran both claim control of the Strait of Hormuz](https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels)
+- [Yahoo News: Iran says offer to reopen the Strait of Hormuz still on](https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html)
+- [BOE Report: US solicits exchange of up to 17 million barrels from the reserve](https://boereport.com/2026/10/16/us-solicits-exchange-of-up-to-17-million-barrels-of-oil-from-strategic-reserve/)
+- [CNBC: US-China trade truce extended to January 10](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html)
+- [Reuters via Investing.com: China third-quarter growth poll](https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895)
+- [CNBC: Meta, Tesla, Netflix earnings preview, week of October 19](https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html)
+- [IBM: Third-quarter 2026 earnings announcement](https://www.ibm.com/investor/events/earnings-3q26)
+- [American Express: 2026 earnings call dates](https://www.americanexpress.com/en-us/newsroom/articles/financial-news/american-express-announces-fourth-quarter-2025-and-2026-earnings.html)
