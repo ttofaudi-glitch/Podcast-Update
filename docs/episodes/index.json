@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-20",
+   "title": "Omaha Morning Brief",
+   "dateline": "Tuesday, October 20, 2026",
+   "summary": "Chip stocks bounce but credit markets stay worried, China grows 4.5%, builder confidence hits a 14-year low, and Cleveland-Cliffs jumps.",
+   "duration": 298.78,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 20.77
+    },
+    {
+     "heading": "Markets",
+     "start": 64.48
+    },
+    {
+     "heading": "Companies",
+     "start": 113.82
+    },
+    {
+     "heading": "The world",
+     "start": 188.04
+    },
+    {
+     "heading": "Coming up",
+     "start": 274.77
+    }
+   ]
+  },
+  {
    "id": "2026-10-19",
    "title": "Omaha Morning Brief",
    "dateline": "Monday, October 19, 2026",

@@ -1,0 +1,591 @@
+{
+ "id": "2026-10-20",
+ "title": "Omaha Morning Brief",
+ "dateline": "Tuesday, October 20, 2026",
+ "summary": "Chip stocks bounce but credit markets stay worried, China grows 4.5%, builder confidence hits a 14-year low, and Cleveland-Cliffs jumps.",
+ "duration": 298.78,
+ "audio": "episodes/2026-10-20/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Tuesday, October 20th.",
+      "start": 1.56,
+      "end": 3.65
+     },
+     {
+      "i": 2,
+      "text": "Stocks bounced on Monday, led by the chip makers, but the bond market is still worried about how artificial intelligence is being financed.",
+      "start": 3.93,
+      "end": 12.38
+     },
+     {
+      "i": 3,
+      "text": "China's economy grew faster than expected.",
+      "start": 12.66,
+      "end": 15.35
+     },
+     {
+      "i": 4,
+      "text": "And American home builders are the gloomiest they have been in 14 years.",
+      "start": 15.63,
+      "end": 19.64
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 20.77,
+   "paragraphs": [
+    [
+     {
+      "i": 5,
+      "text": "The 10-year Treasury yield rose to 5.15% on Monday, from 5.09% on Friday.",
+      "start": 20.77,
+      "end": 28.13
+     },
+     {
+      "i": 6,
+      "text": "Three-month Treasury bills pay 4.27%.",
+      "start": 28.41,
+      "end": 31.76
+     },
+     {
+      "i": 7,
+      "text": "The Federal Reserve is in its quiet period before its October 28 decision.",
+      "start": 32.04,
+      "end": 36.77
+     },
+     {
+      "i": 8,
+      "text": "Futures put the odds of a rate increase then at roughly one in six, but see one in December as likely.",
+      "start": 37.05,
+      "end": 43.13
+     }
+    ],
+    [
+     {
+      "i": 9,
+      "text": "Higher rates are hitting housing.",
+      "start": 43.41,
+      "end": 45.14
+     },
+     {
+      "i": 10,
+      "text": "The home builders' confidence index fell to 29 in October, the lowest since June 2012.",
+      "start": 45.42,
+      "end": 51.69
+     },
+     {
+      "i": 11,
+      "text": "Forty-three percent of builders cut prices, the highest share since at least 2020, and the average cut was 6%.",
+      "start": 51.97,
+      "end": 59.48
+     },
+     {
+      "i": 12,
+      "text": "Their trade group says mortgage rates are well above 7%.",
+      "start": 59.76,
+      "end": 63.35
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 64.48,
+   "paragraphs": [
+    [
+     {
+      "i": 13,
+      "text": "The S&P 500 rose 0.4% to 7,691, and the Nasdaq rose 1.1%.",
+      "start": 64.48,
+      "end": 73.29
+     },
+     {
+      "i": 14,
+      "text": "The Dow was flat.",
+      "start": 73.57,
+      "end": 74.7
+     },
+     {
+      "i": 15,
+      "text": "The Philadelphia semiconductor index ended its eight-day losing streak.",
+      "start": 74.98,
+      "end": 79.09
+     }
+    ],
+    [
+     {
+      "i": 16,
+      "text": "The credit market did not follow.",
+      "start": 79.37,
+      "end": 81.15
+     },
+     {
+      "i": 17,
+      "text": "Oracle's credit default swaps, the price of insurance against a default, widened to about 315 basis points, more than four times a year ago.",
+      "start": 81.43,
+      "end": 91.2
+     },
+     {
+      "i": 18,
+      "text": "Oracle is still rated investment grade.",
+      "start": 91.48,
+      "end": 93.8
+     },
+     {
+      "i": 19,
+      "text": "CoreWeave's swaps were near 1,080 basis points, a level that usually signals distress, and one of its bonds yields about 15%.",
+      "start": 94.08,
+      "end": 103.17
+     },
+     {
+      "i": 20,
+      "text": "Goldman Sachs upgraded CoreWeave's stock on Monday and called the debt fears overblown, but the shares gave up most of an early 7% jump.",
+      "start": 103.45,
+      "end": 112.69
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 113.82,
+   "paragraphs": [
+    [
+     {
+      "i": 21,
+      "text": "Cleveland-Cliffs, the steel maker, beat forecasts and rose sharply.",
+      "start": 113.82,
+      "end": 117.64
+     },
+     {
+      "i": 22,
+      "text": "Its operating cash profit more than doubled from the second quarter to $612 million, as selling prices rose $53 a ton.",
+      "start": 117.92,
+      "end": 127.47
+     },
+     {
+      "i": 23,
+      "text": "It expects more than $4 billion of that profit in 2027 and plans to cut debt significantly this quarter.",
+      "start": 127.75,
+      "end": 135.45
+     }
+    ],
+    [
+     {
+      "i": 24,
+      "text": "In insurance, W.",
+      "start": 135.73,
+      "end": 137.16
+     },
+     {
+      "i": 25,
+      "text": "R.",
+      "start": 137.44,
+      "end": 138.17
+     },
+     {
+      "i": 26,
+      "text": "Berkley's combined ratio was 90.8%, with catastrophes adding 2.7 points.",
+      "start": 138.45,
+      "end": 144.57
+     },
+     {
+      "i": 27,
+      "text": "Its revenue missed estimates.",
+      "start": 144.85,
+      "end": 146.54
+     },
+     {
+      "i": 28,
+      "text": "Florida's insurance regulator counts about 47,000 claims and $582 million of insured losses from Hurricane Isaias so far, with most claims still open.",
+      "start": 146.82,
+      "end": 159.06
+     }
+    ],
+    [
+     {
+      "i": 29,
+      "text": "Among banks, Fifth Third's adjusted earnings beat forecasts, though revenue fell short.",
+      "start": 159.34,
+      "end": 164.33
+     },
+     {
+      "i": 30,
+      "text": "Its net charge-offs were a low 0.31% of loans.",
+      "start": 164.61,
+      "end": 168.56
+     }
+    ],
+    [
+     {
+      "i": 31,
+      "text": "In deals, Tradeweb agreed to buy Trumid, an electronic bond trading platform, for about $1.97 billion, mostly in cash on hand.",
+      "start": 168.84,
+      "end": 178.53
+     },
+     {
+      "i": 32,
+      "text": "Merck KGaA of Germany agreed to buy Silence Therapeutics for $20 a share in cash, a 130% premium.",
+      "start": 178.81,
+      "end": 186.91
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 188.04,
+   "paragraphs": [
+    [
+     {
+      "i": 33,
+      "text": "Brent crude settled at $109.55, down 0.3%.",
+      "start": 188.04,
+      "end": 193.82
+     },
+     {
+      "i": 34,
+      "text": "It fell more than $3 early on Trump's waiver of Russia sanctions, then recovered after the Houthis said they attacked a Saudi Aramco facility at Yanbu and the Shaybah oilfield.",
+      "start": 194.1,
+      "end": 205.35
+     },
+     {
+      "i": 35,
+      "text": "Saudi Arabia has not confirmed the attacks.",
+      "start": 205.63,
+      "end": 208.25
+     }
+    ],
+    [
+     {
+      "i": 36,
+      "text": "Over the weekend, Ukraine launched more than 1,000 drones at Russia and set fire to an oil export terminal in St.",
+      "start": 208.53,
+      "end": 215.95
+     },
+     {
+      "i": 37,
+      "text": "Petersburg.",
+      "start": 216.23,
+      "end": 217.22
+     },
+     {
+      "i": 38,
+      "text": "President Trump criticized Zelenskyy for the attack and said he will hold off on new sanctions against Russia.",
+      "start": 217.5,
+      "end": 224.15
+     },
+     {
+      "i": 39,
+      "text": "Russia's foreign minister, Sergei Lavrov, visited Tehran on Monday and called for the Strait of Hormuz to return to pre-war conditions.",
+      "start": 224.43,
+      "end": 232.79
+     }
+    ],
+    [
+     {
+      "i": 40,
+      "text": "China's economy grew 4.5% from a year earlier in the third quarter, a little above forecasts.",
+      "start": 233.07,
+      "end": 239.54
+     },
+     {
+      "i": 41,
+      "text": "Growth for the first nine months was 4.6%, inside Beijing's target of 4.5% to 5%.",
+      "start": 239.82,
+      "end": 247.52
+     },
+     {
+      "i": 42,
+      "text": "Retail sales rose 1.1% in September, the fastest since March, but property investment is down more than 20% this year.",
+      "start": 247.8,
+      "end": 256.65
+     }
+    ],
+    [
+     {
+      "i": 43,
+      "text": "In France, violent weekend protests over living costs pushed the 10-year government bond yield up about 10 basis points to near 4.9%, now above Italy's.",
+      "start": 256.93,
+      "end": 268.24
+     },
+     {
+      "i": 44,
+      "text": "Prime Minister Lecornu's minority government still has to pass next year's budget.",
+      "start": 268.52,
+      "end": 273.64
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 274.77,
+   "paragraphs": [
+    [
+     {
+      "i": 45,
+      "text": "Today in New York, General Motors reports before the open and Netflix after the close, along with September housing starts.",
+      "start": 274.77,
+      "end": 282.19
+     },
+     {
+      "i": 46,
+      "text": "On Wednesday, Tesla, Meta and IBM report, and Britain publishes September inflation.",
+      "start": 282.47,
+      "end": 288.17
+     },
+     {
+      "i": 47,
+      "text": "Procter & Gamble reports Thursday, a test of pricing power against higher costs, and American Express reports Friday.",
+      "start": 288.45,
+      "end": 296.07
+     },
+     {
+      "i": 48,
+      "text": "That is the briefing.",
+      "start": 296.35,
+      "end": 297.5
+     },
+     {
+      "i": 49,
+      "text": "Have a good day.",
+      "start": 297.78,
+      "end": 298.78
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "51,966.03",
+   "change": "(0.07%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,690.73",
+   "change": "+0.41%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,430.89",
+   "change": "+1.11%",
+   "dir": "up"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.15%",
+   "change": "+0.06",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.77%",
+   "change": "+0.03",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.27%",
+   "change": "+0.01",
+   "dir": "up"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.48%",
+   "change": "+0.05",
+   "dir": "up"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$109.55",
+   "change": "(0.28%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, December contract",
+   "value": "$98.54",
+   "change": "(0.5%)",
+   "dir": "down"
+  },
+  {
+   "label": "Home builders' confidence index (October)",
+   "value": "29",
+   "change": "from 32",
+   "dir": "down"
+  },
+  {
+   "label": "China gross domestic product, third quarter, year over year",
+   "value": "4.5%",
+   "change": "from 4.3%",
+   "dir": "up"
+  },
+  {
+   "label": "Oracle 5-year credit default swap",
+   "value": "≈315 basis points",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "CoreWeave 5-year credit default swap",
+   "value": "≈1,082 basis points",
+   "change": "",
+   "dir": "flat"
+  }
+ ],
+ "numbers_note": "Closing levels for Monday, October 19, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Associated Press via KRMG: How major US stock indexes fared, October 19",
+   "url": "https://krmg.com/2026/10/19/how-major-us-stock-indexes-fared-monday-10-19-2026/"
+  },
+  {
+   "title": "TheStreet: Stock market today, October 19, 2026",
+   "url": "https://thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+  },
+  {
+   "title": "CNBC: Stock market news for October 19, 2026",
+   "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Virginia Business: Nasdaq climbs as chip and AI stocks rebound",
+   "url": "https://virginiabusiness.com/nasdaq-climbs-chip-ai-stocks-rebound-after-selloff/"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "FXStreet: Markets now see no hike in October",
+   "url": "https://www.fxstreet.com/analysis/markets-now-see-no-hike-in-october-but-inflation-is-still-a-major-concern-202610191410"
+  },
+  {
+   "title": "National Association of Home Builders: Builder sentiment falls on rising rates",
+   "url": "https://www.nahb.org/news-and-economics/press-releases/2026/10/builder-sentiment-falls-on-rising-rates"
+  },
+  {
+   "title": "HousingWire: Builder confidence at a 14-year low",
+   "url": "https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/"
+  },
+  {
+   "title": "CNBC: Stock investors are ready to move on from the AI rout; credit investors are not",
+   "url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html"
+  },
+  {
+   "title": "CNBC: Oracle debt faces an AI stress test",
+   "url": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html"
+  },
+  {
+   "title": "Bloomberg: CoreWeave upgraded to buy at Goldman",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-19/coreweave-upgraded-to-buy-at-goldman-on-overblown-debt-worries"
+  },
+  {
+   "title": "Yahoo Finance: Goldman Sachs upgrades CoreWeave",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-upgrades-coreweave-despite-132132995.html"
+  },
+  {
+   "title": "Cleveland-Cliffs: Third-quarter 2026 results",
+   "url": "https://www.clevelandcliffs.com/news/news-releases/detail/705/cleveland-cliffs-reports-third-quarter-2026-results"
+  },
+  {
+   "title": "Yahoo Finance: Cleveland-Cliffs shares rise on third-quarter results",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-shares-rise-over-103554615.html"
+  },
+  {
+   "title": "W. R. Berkley: Third-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000011544/000001154426000046/wrb93020268-kex991.htm"
+  },
+  {
+   "title": "Investing.com: W. R. Berkley stock slips on revenue miss",
+   "url": "https://ca.investing.com/news/earnings/wr-berkley-stock-slips-over-3-on-q3-topline-miss-4889135"
+  },
+  {
+   "title": "Insurance Journal: Florida claims from Hurricane Isaias",
+   "url": "https://www.insurancejournal.com/news/southeast/2026/10/19/889539.htm"
+  },
+  {
+   "title": "Fifth Third: Third-quarter 2026 earnings",
+   "url": "https://ir.53.com/news/news-details/2026/Fifth-Third-Bancorp-Reports-Third-Quarter-2026-Earnings/default.aspx"
+  },
+  {
+   "title": "StockStory: Fifth Third sales below estimates",
+   "url": "https://stockstory.org/us/stocks/nasdaq/fitb/news/earnings/fifth-third-bancorp-nasdaqfitb-reports-sales-below-analyst-estimates-in-q3-2026-earnings"
+  },
+  {
+   "title": "Tradeweb: Form 8-K on the Trumid agreement",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001758730/000119312526425378/d140509dex991.htm"
+  },
+  {
+   "title": "Investing.com: Tradeweb to acquire Trumid for $1.97 billion",
+   "url": "https://www.investing.com/news/company-news/tradeweb-to-acquire-trumid-for-197-billion-in-cash-and-equity-93CH-4958328"
+  },
+  {
+   "title": "Business Wire: Silence Therapeutics to be acquired by Merck KGaA",
+   "url": "https://www.businesswire.com/news/home/20261019615040/en/Silence-Therapeutics-Enters-into-Agreement-to-be-Acquired-by-Merck-KGaA-Darmstadt-Germany"
+  },
+  {
+   "title": "Rigzone: Oil prices hover near five-month high",
+   "url": "https://www.rigzone.com/news/wire/oil_prices_hover_near_fivemonth_high-19-oct-2026-184878-article/"
+  },
+  {
+   "title": "Moneyweb: Oil falls from five-month high",
+   "url": "https://www.moneyweb.co.za/news-fast-news/oil-falls-from-five-month-high-as-supply-intact-despite-fighting/"
+  },
+  {
+   "title": "CNN: Trump criticizes Zelenskyy after major attack on Russia",
+   "url": "https://edition.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
+  },
+  {
+   "title": "Al Jazeera: Ukrainian drone attack on St. Petersburg hits energy sites",
+   "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
+  },
+  {
+   "title": "The New Arab: Lavrov urges return to pre-war conditions in Hormuz",
+   "url": "https://www.newarab.com/news/tehran-lavrov-urges-return-pre-war-conditions-hormuz"
+  },
+  {
+   "title": "CNBC: China's third-quarter growth quickens to 4.5%",
+   "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html"
+  },
+  {
+   "title": "investingLive: China third-quarter growth beats forecasts",
+   "url": "https://investinglive.com/news/china-q3-gdp-beats-forecasts-at-4-5-retail-sales-grow-at-fastest-pace-since-march/"
+  },
+  {
+   "title": "CNBC: France protests push bond yields higher",
+   "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html"
+  },
+  {
+   "title": "CNBC: Meta, Tesla, Netflix earnings preview",
+   "url": "https://www.cnbc.com/2026/10/18/meta-tesla-netflix-earnings-preview.html"
+  },
+  {
+   "title": "Procter & Gamble: First-quarter results webcast, October 22",
+   "url": "https://www.pginvestor.com/news/news-details/2026/PG-to-Webcast-Discussion-of-First-Quarter-2627-Earnings-Results-on-October-22/default.aspx"
+  }
+ ]
+}
