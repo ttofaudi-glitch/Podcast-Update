@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-21",
+   "title": "Omaha Morning Brief",
+   "dateline": "Wednesday, October 21, 2026",
+   "summary": "Pending home sales hit a record low, GM authorizes a $20 billion buyback but warns on costs, Netflix cuts its ad forecast, and defense makers raise outlooks.",
+   "duration": 301.99,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 22.11
+    },
+    {
+     "heading": "Markets",
+     "start": 68.85
+    },
+    {
+     "heading": "Companies",
+     "start": 102.8
+    },
+    {
+     "heading": "The world",
+     "start": 219.74
+    },
+    {
+     "heading": "Coming up",
+     "start": 271.44
+    }
+   ]
+  },
+  {
    "id": "2026-10-20",
    "title": "Omaha Morning Brief",
    "dateline": "Tuesday, October 20, 2026",

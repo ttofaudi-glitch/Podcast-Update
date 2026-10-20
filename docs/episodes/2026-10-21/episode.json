@@ -1,0 +1,559 @@
+{
+ "id": "2026-10-21",
+ "title": "Omaha Morning Brief",
+ "dateline": "Wednesday, October 21, 2026",
+ "summary": "Pending home sales hit a record low, GM authorizes a $20 billion buyback but warns on costs, Netflix cuts its ad forecast, and defense makers raise outlooks.",
+ "duration": 301.99,
+ "audio": "episodes/2026-10-21/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Wednesday, October 21st.",
+      "start": 1.56,
+      "end": 3.86
+     },
+     {
+      "i": 2,
+      "text": "Housing is buckling under higher mortgage rates: signed contracts to buy homes fell to a record low.",
+      "start": 4.14,
+      "end": 10.12
+     },
+     {
+      "i": 3,
+      "text": "Companies, meanwhile, reported strong quarters.",
+      "start": 10.4,
+      "end": 13.21
+     },
+     {
+      "i": 4,
+      "text": "General Motors approved a $20 billion buyback, and three big defense and aerospace makers raised their outlooks.",
+      "start": 13.49,
+      "end": 20.98
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 22.11,
+   "paragraphs": [
+    [
+     {
+      "i": 5,
+      "text": "The 10-year Treasury yield eased to 5.12% after the weak housing data.",
+      "start": 22.11,
+      "end": 27.12
+     },
+     {
+      "i": 6,
+      "text": "Three-month Treasury bills pay 4.26%.",
+      "start": 27.4,
+      "end": 30.69
+     },
+     {
+      "i": 7,
+      "text": "Futures still put the odds of a Federal Reserve rate increase on October 28 at roughly one in six, and see one by December as likely.",
+      "start": 30.97,
+      "end": 39.65
+     }
+    ],
+    [
+     {
+      "i": 8,
+      "text": "Pending home sales, which count signed contracts, fell 7.3% in September to the lowest level since the series began in 2001.",
+      "start": 39.93,
+      "end": 49.38
+     },
+     {
+      "i": 9,
+      "text": "Economists expected a small drop.",
+      "start": 49.66,
+      "end": 51.78
+     },
+     {
+      "i": 10,
+      "text": "The Realtors' chief economist, Lawrence Yun, blamed fast-rising mortgage rates.",
+      "start": 52.06,
+      "end": 57.05
+     },
+     {
+      "i": 11,
+      "text": "Housing starts fell 5.2% to an annual rate of 1.22 million, well below forecasts, and permits for single-family homes fell 4%.",
+      "start": 57.33,
+      "end": 67.72
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 68.85,
+   "paragraphs": [
+    [
+     {
+      "i": 12,
+      "text": "The Dow rose 1% to 52,496, led by 3M.",
+      "start": 68.85,
+      "end": 74.16
+     },
+     {
+      "i": 13,
+      "text": "The S&P 500 rose 0.3% to 7,713, and health care stocks reached a record.",
+      "start": 74.44,
+      "end": 82.74
+     },
+     {
+      "i": 14,
+      "text": "The Nasdaq was flat as money moved out of technology and into industrial companies and smaller companies.",
+      "start": 83.02,
+      "end": 89.35
+     }
+    ],
+    [
+     {
+      "i": 15,
+      "text": "Brent crude touched $112 during the day, then settled down 0.7% at $108.79 on hopes for talks between the United States and Iran.",
+      "start": 89.63,
+      "end": 101.67
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 102.8,
+   "paragraphs": [
+    [
+     {
+      "i": 16,
+      "text": "General Motors earned $3.70 a share, above forecasts, on record revenue of $50 billion.",
+      "start": 102.8,
+      "end": 110.33
+     },
+     {
+      "i": 17,
+      "text": "Its board approved a new $20 billion buyback, after it finished a $6 billion one.",
+      "start": 110.61,
+      "end": 116.26
+     },
+     {
+      "i": 18,
+      "text": "Shares outstanding are down about 6% since the end of last year.",
+      "start": 116.54,
+      "end": 120.55
+     },
+     {
+      "i": 19,
+      "text": "But the stock fell about 6%.",
+      "start": 120.83,
+      "end": 122.77
+     },
+     {
+      "i": 20,
+      "text": "Chief financial officer Paul Jacobson said steel, aluminum and shipping costs rose sharply in the last two months, and could cost about $2 billion next year if they stay high.",
+      "start": 123.05,
+      "end": 134.81
+     }
+    ],
+    [
+     {
+      "i": 21,
+      "text": "Netflix earned 87 cents a share against 82 expected, with an operating margin of 34.6%, up from 28.2% a year ago.",
+      "start": 135.09,
+      "end": 145.35
+     },
+     {
+      "i": 22,
+      "text": "But it cut its advertising revenue forecast for the year to about $2.7 billion from about $3 billion, and the shares fell after hours.",
+      "start": 145.63,
+      "end": 155.23
+     }
+    ],
+    [
+     {
+      "i": 23,
+      "text": "Defense and aerospace demand is strong.",
+      "start": 155.51,
+      "end": 157.73
+     },
+     {
+      "i": 24,
+      "text": "RTX raised its profit and sales outlook, with a record backlog of $340 billion.",
+      "start": 158.01,
+      "end": 164.68
+     },
+     {
+      "i": 25,
+      "text": "Northrop Grumman also raised its outlook, with a record backlog near $110 billion.",
+      "start": 164.96,
+      "end": 171.15
+     },
+     {
+      "i": 26,
+      "text": "GE Aerospace raised its forecast for the second time this year, but its shares fell because cash flow was lighter than expected.",
+      "start": 171.43,
+      "end": 179.22
+     }
+    ],
+    [
+     {
+      "i": 27,
+      "text": "3M rose 6% after beating forecasts and raising its outlook.",
+      "start": 179.5,
+      "end": 183.89
+     },
+     {
+      "i": 28,
+      "text": "Amazon agreed to buy up to $6 billion of 3M's data center connectors over seven years, and in return can buy up to about 3.2 million 3M shares.",
+      "start": 184.17,
+      "end": 195.01
+     }
+    ],
+    [
+     {
+      "i": 29,
+      "text": "SpaceX reported its first quarterly profit since going public, $4.4 billion, on revenue of $14.6 billion.",
+      "start": 195.29,
+      "end": 204.4
+     },
+     {
+      "i": 30,
+      "text": "Its artificial intelligence business is now larger than Starlink.",
+      "start": 204.68,
+      "end": 208.65
+     }
+    ],
+    [
+     {
+      "i": 31,
+      "text": "In deals, Salesforce agreed to buy Braze, a marketing software company, for about $5.7 billion in cash, a 58% premium.",
+      "start": 208.93,
+      "end": 218.61
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 219.74,
+   "paragraphs": [
+    [
+     {
+      "i": 32,
+      "text": "Iran's Revolutionary Guards said on Tuesday that mines stopped more tankers south of the Strait of Hormuz.",
+      "start": 219.74,
+      "end": 225.86
+     },
+     {
+      "i": 33,
+      "text": "The United States military called the claims false and said the shipping lanes are clear of mines.",
+      "start": 226.14,
+      "end": 231.37
+     },
+     {
+      "i": 34,
+      "text": "Tanker traffic through the strait remains a small fraction of normal, and a United States official said the blockade of Iranian ports stays in full force.",
+      "start": 231.65,
+      "end": 240.91
+     }
+    ],
+    [
+     {
+      "i": 35,
+      "text": "Saudi Arabia postponed its Future Investment Initiative conference, planned for next week in Riyadh, to 2027.",
+      "start": 241.19,
+      "end": 249.32
+     },
+     {
+      "i": 36,
+      "text": "The organizers did not give security as a reason, but it follows Houthi attacks on Saudi targets, including a strike on Riyadh's airport this month that killed at least 12 people.",
+      "start": 249.6,
+      "end": 260.41
+     }
+    ],
+    [
+     {
+      "i": 37,
+      "text": "In France, the 10-year government bond yield rose again to near 5%, its highest in about 24 years, as more protests are planned for Saturday.",
+      "start": 260.69,
+      "end": 270.31
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 271.44,
+   "paragraphs": [
+    [
+     {
+      "i": 38,
+      "text": "Today, Britain reports September inflation, expected to rise to about 3.4%.",
+      "start": 271.44,
+      "end": 277.2
+     },
+     {
+      "i": 39,
+      "text": "After the New York close, Tesla, Meta and IBM report.",
+      "start": 277.48,
+      "end": 281.22
+     },
+     {
+      "i": 40,
+      "text": "On Thursday, Procter & Gamble and Lockheed Martin report, along with weekly jobless claims.",
+      "start": 281.5,
+      "end": 287.17
+     },
+     {
+      "i": 41,
+      "text": "On Friday, American Express reports, Japan publishes consumer prices, and the University of Michigan releases its final October survey.",
+      "start": 287.45,
+      "end": 296.67
+     },
+     {
+      "i": 42,
+      "text": "The Federal Reserve decides next Wednesday.",
+      "start": 296.95,
+      "end": 299.27
+     },
+     {
+      "i": 43,
+      "text": "That is the briefing.",
+      "start": 299.55,
+      "end": 300.71
+     },
+     {
+      "i": 44,
+      "text": "Have a good day.",
+      "start": 300.99,
+      "end": 301.99
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,495.88",
+   "change": "+1.02%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,712.57",
+   "change": "+0.28%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,424.82",
+   "change": "(0.02%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.12%",
+   "change": "(0.03)",
+   "dir": "down"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.79%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.26%",
+   "change": "(0.01)",
+   "dir": "down"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.42%",
+   "change": "(0.06)",
+   "dir": "down"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, December, per barrel",
+   "value": "$108.79",
+   "change": "(0.7%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, December",
+   "value": "$98.28",
+   "change": "(0.26%)",
+   "dir": "down"
+  },
+  {
+   "label": "Pending home sales index (September)",
+   "value": "66.0",
+   "change": "(7.3%)",
+   "dir": "down"
+  },
+  {
+   "label": "Housing starts, annual rate (September)",
+   "value": "1.221 million",
+   "change": "(5.2%)",
+   "dir": "down"
+  }
+ ],
+ "numbers_note": "Closing levels for Tuesday, October 20, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Kiplinger: Dow gains 529 points on 3M",
+   "url": "https://www.kiplinger.com/investing/stocks/dow-gains-529-points-on-3m-data-center-deal-stock-market-today"
+  },
+  {
+   "title": "CNBC: Dow jumps 500 points as earnings optimism steadies market",
+   "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Benzinga: Health care stocks hit record highs",
+   "url": "https://www.benzinga.com/markets/equities/26/10/62475717/health-care-stocks-hit-record-highs-gm-drops-nearly-8-stock-market-today"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "CNBC: Treasury yields, October 20",
+   "url": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html"
+  },
+  {
+   "title": "FXStreet: Rate hike bets after oil gains",
+   "url": "https://www.fxstreet.com/news/gold-extends-losses-as-rising-oil-prices-reinforce-fed-rate-hike-bets-202610201130"
+  },
+  {
+   "title": "National Association of Realtors: Pending home sales decreased 7.3% in September",
+   "url": "https://www.globenewswire.com/news-release/2026/10/20/3384603/0/en/pending-home-sales-decreased-7-3-in-september.html"
+  },
+  {
+   "title": "Reuters via Investing.com: Pending home sales tumble to record low",
+   "url": "https://www.investing.com/news/economic-indicators/us-pending-home-sales-tumble-to-record-low-in-september-4960466"
+  },
+  {
+   "title": "United States Census Bureau: New residential construction",
+   "url": "https://www.census.gov/construction/nrc/current/index.html"
+  },
+  {
+   "title": "The MortgagePoint: Housing starts fall unexpectedly in September",
+   "url": "https://themortgagepoint.com/2026/10/20/housing-starts-fall-unexpectedly-in-september-building-permits-were-flat/"
+  },
+  {
+   "title": "CNBC: Oil prices fall on hopes for diplomatic progress",
+   "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html"
+  },
+  {
+   "title": "General Motors: Third-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001467858/000146785826000056/gmq32026pressreleaseandfin.htm"
+  },
+  {
+   "title": "CNBC: General Motors third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+  },
+  {
+   "title": "Motley Fool: GM third-quarter 2026 call transcript",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/gm-gm-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "title": "Netflix: Third-quarter 2026 shareholder letter",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001065280/000106528026000290/ex991_q326.htm"
+  },
+  {
+   "title": "CNBC: Netflix third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html"
+  },
+  {
+   "title": "Screen Daily: Netflix lowers 2026 ad revenue forecast",
+   "url": "https://www.screendaily.com/news/netflix-reports-solid-q3-financials-lowers-2026-ad-revenue-forecast/5221637.article"
+  },
+  {
+   "title": "RTX: Third-quarter 2026 results",
+   "url": "https://www.rtx.com/news/news-center/2026/10/20/rtx-reports-q3-2026-results"
+  },
+  {
+   "title": "CTV News (Reuters): Aerospace and military contractors raise 2026 forecasts",
+   "url": "https://www.ctvnews.ca/business/article/us-aerospace-and-military-contractors-raise-2026-profit-forecasts/"
+  },
+  {
+   "title": "GE Aerospace: Third-quarter 2026 results",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm"
+  },
+  {
+   "title": "Motley Fool: Why 3M stock jumped",
+   "url": "https://www.fool.com/investing/2026/10/20/why-3m-stock-jumped-today/"
+  },
+  {
+   "title": "3M: Form 8-K on the Amazon warrant",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000066740/000006674026000303/mmm-20261019.htm"
+  },
+  {
+   "title": "Fortune: SpaceX posts first operating profit as a public company",
+   "url": "https://fortune.com/2026/10/20/spacex-q3-profit-ai-si-elon-musk/"
+  },
+  {
+   "title": "Axios: SpaceX earnings soar past expectations",
+   "url": "https://www.axios.com/2026/10/20/spacex-earnings-ai-elon-musk"
+  },
+  {
+   "title": "CNBC: Salesforce to acquire Braze",
+   "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html"
+  },
+  {
+   "title": "Al Arabiya: Iran's Revolutionary Guards say mines halted tankers",
+   "url": "https://english.alarabiya.net/News/middle-east/2026/10/20/iran-s-irgc-says-mines-halted-two-tankers-crossing-strait-of-hormuz"
+  },
+  {
+   "title": "Newsquawk: Central Command calls Iran's mine claims false",
+   "url": "https://www.newsquawk.com/headlines/irans-claims-about-oil-tankers-colliding-with-sea-mines-in-the-strait-of-hormuz-are-false-a-us-centcom-spokesman-says"
+  },
+  {
+   "title": "gCaptain: Iran claims more tankers hit mines, evidence elusive",
+   "url": "https://gcaptain.com/iran-claims-more-tankers-hit-mines-in-hormuz-but-evidence-remains-elusive/"
+  },
+  {
+   "title": "Fox News: Iran war live updates, October 20",
+   "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20"
+  },
+  {
+   "title": "CNBC: Saudi Arabia postpones investment conference to 2027",
+   "url": "https://cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+  },
+  {
+   "title": "Gulf News: Saudi Arabia postpones FII conference",
+   "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-postpones-flagship-fii-investment-conference-to-2027-amid-regional-tensions-1.500716629"
+  },
+  {
+   "title": "US News (Reuters): French bond yields near 24-year high",
+   "url": "https://money.usnews.com/investing/news/articles/2026-10-20/french-bond-yields-near-24-year-high-as-new-protests-loom"
+  },
+  {
+   "title": "MoneyWeek: UK inflation, September 2026",
+   "url": "https://moneyweek.com/economy/news/live/inflation-cpi-september-2026-report"
+  },
+  {
+   "title": "Lockheed Martin: Third-quarter 2026 results timing",
+   "url": "https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martin-announces-third-quarter-2026-earnings-results"
+  }
+ ]
+}
