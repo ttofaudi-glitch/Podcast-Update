@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-22",
+   "title": "Omaha Morning Brief",
+   "dateline": "Thursday, October 22, 2026",
+   "summary": "Meta's spending outruns its cash, Tesla's margins recover, Britain's inflation hits 3.5%, and French bond yields touch 5%.",
+   "duration": 306.78,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 24.03
+    },
+    {
+     "heading": "Markets",
+     "start": 80.13
+    },
+    {
+     "heading": "Companies",
+     "start": 113.58
+    },
+    {
+     "heading": "The world",
+     "start": 234.01
+    },
+    {
+     "heading": "Coming up",
+     "start": 277.97
+    }
+   ]
+  },
+  {
    "id": "2026-10-21",
    "title": "Omaha Morning Brief",
    "dateline": "Wednesday, October 21, 2026",

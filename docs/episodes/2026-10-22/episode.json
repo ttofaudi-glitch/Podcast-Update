@@ -1,0 +1,579 @@
+{
+ "id": "2026-10-22",
+ "title": "Omaha Morning Brief",
+ "dateline": "Thursday, October 22, 2026",
+ "summary": "Meta's spending outruns its cash, Tesla's margins recover, Britain's inflation hits 3.5%, and French bond yields touch 5%.",
+ "duration": 306.78,
+ "audio": "episodes/2026-10-22/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Thursday, October 22nd.",
+      "start": 1.56,
+      "end": 3.91
+     },
+     {
+      "i": 2,
+      "text": "The S&P 500 rose for a third day and is close to its record again.",
+      "start": 4.19,
+      "end": 9.03
+     },
+     {
+      "i": 3,
+      "text": "Meta's sales grew 26%, but its spending on artificial intelligence now exceeds the cash its business produces.",
+      "start": 9.31,
+      "end": 16.86
+     },
+     {
+      "i": 4,
+      "text": "Tesla's margins recovered.",
+      "start": 17.14,
+      "end": 18.85
+     },
+     {
+      "i": 5,
+      "text": "And inflation and government debt are pressing on Britain and France.",
+      "start": 19.13,
+      "end": 22.9
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 24.03,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "The 10-year Treasury yield ended at 5.13%.",
+      "start": 24.03,
+      "end": 27.38
+     },
+     {
+      "i": 7,
+      "text": "The Treasury sold $13 billion of 20-year bonds at a yield of 5.469%, with demand above average.",
+      "start": 27.66,
+      "end": 36.0
+     },
+     {
+      "i": 8,
+      "text": "Three-month Treasury bills pay 4.25%.",
+      "start": 36.28,
+      "end": 39.66
+     },
+     {
+      "i": 9,
+      "text": "Futures put the odds of a Federal Reserve rate increase next Wednesday at about one in six, and see one by December as very likely.",
+      "start": 39.94,
+      "end": 48.13
+     },
+     {
+      "i": 10,
+      "text": "The average 30-year mortgage rate eased to 7.41% from 7.50%, its highest since late 2023, and mortgage applications to buy homes fell 7% in a week.",
+      "start": 48.41,
+      "end": 62.64
+     }
+    ],
+    [
+     {
+      "i": 11,
+      "text": "In Britain, consumer prices rose 3.5% from a year earlier in September, above the 3.4% expected and up from 3.1%, driven by fuel.",
+      "start": 62.92,
+      "end": 74.24
+     },
+     {
+      "i": 12,
+      "text": "Markets now expect the Bank of England to raise its rate on November 5.",
+      "start": 74.52,
+      "end": 79.0
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 80.13,
+   "paragraphs": [
+    [
+     {
+      "i": 13,
+      "text": "The S&P 500 rose 0.6% to 7,757.",
+      "start": 80.13,
+      "end": 86.49
+     },
+     {
+      "i": 14,
+      "text": "The Dow rose 0.7% and the Nasdaq 1.1%.",
+      "start": 86.77,
+      "end": 91.23
+     },
+     {
+      "i": 15,
+      "text": "For the week so far, the S&P is up 1.3%.",
+      "start": 91.51,
+      "end": 95.09
+     },
+     {
+      "i": 16,
+      "text": "Netflix fell another 5%, to its lowest close since August 2024, after cutting its advertising forecast.",
+      "start": 95.37,
+      "end": 103.33
+     },
+     {
+      "i": 17,
+      "text": "Brent crude stayed near $109.",
+      "start": 103.61,
+      "end": 106.51
+     },
+     {
+      "i": 18,
+      "text": "United States crude stocks fell by 3.1 million barrels last week, more than expected.",
+      "start": 106.79,
+      "end": 112.45
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 113.58,
+   "paragraphs": [
+    [
+     {
+      "i": 19,
+      "text": "Meta's revenue rose 26% to $64.6 billion, ahead of forecasts, and it guided to $73 billion to $76 billion for the fourth quarter.",
+      "start": 113.58,
+      "end": 125.52
+     },
+     {
+      "i": 20,
+      "text": "But capital spending was $34.9 billion in the quarter, and free cash flow was negative, about $2.1 billion.",
+      "start": 125.8,
+      "end": 134.38
+     },
+     {
+      "i": 21,
+      "text": "Profit included a $9.9 billion charge for its settlement with state attorneys general over teenagers' mental health.",
+      "start": 134.66,
+      "end": 142.98
+     },
+     {
+      "i": 22,
+      "text": "Separately, a New Mexico judge ordered Meta to pay $25 billion in a privacy case; Meta is expected to appeal.",
+      "start": 143.26,
+      "end": 151.3
+     },
+     {
+      "i": 23,
+      "text": "Meta also plans a new class of non-voting shares.",
+      "start": 151.58,
+      "end": 154.5
+     },
+     {
+      "i": 24,
+      "text": "The stock rose after hours.",
+      "start": 154.78,
+      "end": 156.43
+     }
+    ],
+    [
+     {
+      "i": 25,
+      "text": "Tesla's revenue was flat at $28 billion.",
+      "start": 156.71,
+      "end": 159.8
+     },
+     {
+      "i": 26,
+      "text": "Its gross margin rose to 19.6% from 16.8% in the second quarter, and free cash flow was $1.5 billion after a negative second quarter.",
+      "start": 160.08,
+      "end": 171.86
+     },
+     {
+      "i": 27,
+      "text": "Operating income still fell 56%, as spending on artificial intelligence and its Optimus robot grew.",
+      "start": 172.14,
+      "end": 179.35
+     },
+     {
+      "i": 28,
+      "text": "Separately, Tesla and SpaceX have each formed board committees to study a merger.",
+      "start": 179.63,
+      "end": 184.49
+     },
+     {
+      "i": 29,
+      "text": "Elon Musk said a deal is not certain.",
+      "start": 184.77,
+      "end": 186.9
+     }
+    ],
+    [
+     {
+      "i": 30,
+      "text": "IBM's revenue rose 5% to $17.1 billion, ahead of forecasts, with software up 8%.",
+      "start": 187.18,
+      "end": 195.25
+     },
+     {
+      "i": 31,
+      "text": "It raised its outlook for free cash flow.",
+      "start": 195.53,
+      "end": 197.64
+     }
+    ],
+    [
+     {
+      "i": 32,
+      "text": "AT&T beat forecasts, raised its profit outlook and plans about $10 billion of buybacks this year.",
+      "start": 197.92,
+      "end": 204.75
+     },
+     {
+      "i": 33,
+      "text": "But the stock fell about 5% on worries that SpaceX's planned Starlink mobile service will add competition.",
+      "start": 205.03,
+      "end": 212.11
+     }
+    ],
+    [
+     {
+      "i": 34,
+      "text": "In insurance, Chubb's catastrophe losses rose to $705 million from $285 million a year ago, from weather and a Latin American earthquake.",
+      "start": 212.39,
+      "end": 224.1
+     },
+     {
+      "i": 35,
+      "text": "Its combined ratio rose to 84.1% from 81.8%.",
+      "start": 224.38,
+      "end": 229.95
+     },
+     {
+      "i": 36,
+      "text": "Excluding catastrophes, it was about flat.",
+      "start": 230.23,
+      "end": 232.88
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 234.01,
+   "paragraphs": [
+    [
+     {
+      "i": 37,
+      "text": "France's 10-year government bond yield briefly topped 5% on Wednesday, for the first time since 2002, before easing just below it.",
+      "start": 234.01,
+      "end": 242.97
+     },
+     {
+      "i": 38,
+      "text": "The gap over German yields is the widest in about 15 years.",
+      "start": 243.25,
+      "end": 247.09
+     },
+     {
+      "i": 39,
+      "text": "Moody's is due to review France's credit rating on Friday.",
+      "start": 247.37,
+      "end": 250.69
+     }
+    ],
+    [
+     {
+      "i": 40,
+      "text": "Iran's foreign minister, Abbas Araghchi, said the Strait of Hormuz stays closed until the United States accepts Iran's conditions, starting with an end to the naval blockade.",
+      "start": 250.97,
+      "end": 261.92
+     },
+     {
+      "i": 41,
+      "text": "He said talks continue through Pakistan and Qatar.",
+      "start": 262.2,
+      "end": 265.08
+     },
+     {
+      "i": 42,
+      "text": "The White House says the blockade remains in full force.",
+      "start": 265.36,
+      "end": 268.37
+     }
+    ],
+    [
+     {
+      "i": 43,
+      "text": "Japan's September exports rose 16.7% from a year earlier, helped by demand for artificial intelligence chips.",
+      "start": 268.65,
+      "end": 276.84
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 277.97,
+   "paragraphs": [
+    [
+     {
+      "i": 44,
+      "text": "Today, Procter & Gamble, Lockheed Martin, Blackstone and Union Pacific report, along with weekly jobless claims.",
+      "start": 277.97,
+      "end": 285.35
+     },
+     {
+      "i": 45,
+      "text": "On Friday, American Express reports, Japan publishes consumer prices, the University of Michigan releases its final October survey, and Moody's reviews France.",
+      "start": 285.63,
+      "end": 296.64
+     },
+     {
+      "i": 46,
+      "text": "Next week brings the British budget and the Federal Reserve decision on Wednesday, and the European Central Bank on Thursday.",
+      "start": 296.92,
+      "end": 304.06
+     },
+     {
+      "i": 47,
+      "text": "That is the briefing.",
+      "start": 304.34,
+      "end": 305.5
+     },
+     {
+      "i": 48,
+      "text": "Have a good day.",
+      "start": 305.78,
+      "end": 306.78
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,856.09",
+   "change": "+0.69%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,757.17",
+   "change": "+0.58%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,702.86",
+   "change": "+1.05%",
+   "dir": "up"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.13%",
+   "change": "+0.01",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.81%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.25%",
+   "change": "(0.01)",
+   "dir": "down"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.42%",
+   "change": "0.00",
+   "dir": "flat"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, December, per barrel",
+   "value": "≈$109",
+   "change": "little changed",
+   "dir": "flat"
+  },
+  {
+   "label": "30-year mortgage rate (Mortgage Bankers Association)",
+   "value": "7.41%",
+   "change": "from 7.50%",
+   "dir": "down"
+  },
+  {
+   "label": "United Kingdom consumer prices, year over year (September)",
+   "value": "3.5%",
+   "change": "from 3.1%",
+   "dir": "up"
+  },
+  {
+   "label": "France 10-year government bond yield, intraday high",
+   "value": "≈5.00%",
+   "change": "highest since 2002",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Wednesday, October 21, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Associated Press via KRMG: How major US stock indexes fared, October 21",
+   "url": "https://krmg.com/2026/10/21/how-major-us-stock-indexes-fared-wednesday-10-21-2026/"
+  },
+  {
+   "title": "Associated Press via KVUE: How major US stock indexes fared, October 21",
+   "url": "https://www.kvue.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-wednesday-10212026/616-7b5f5e36-88da-4c68-b7a1-1ed8d1bc2cb5"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "HousingWire: Mortgage applications drop 5.3%",
+   "url": "https://www.housingwire.com/articles/mba-applications-drop-53/"
+  },
+  {
+   "title": "FX Leaders: December Fed hike odds",
+   "url": "https://fxleaders.com/news/2026/10/21/gold-price-forecast-xau-usd-4076-december-fed-hike-odds"
+  },
+  {
+   "title": "Office for National Statistics: Consumer price inflation, September 2026",
+   "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026"
+  },
+  {
+   "title": "CNBC: UK inflation and interest rates",
+   "url": "https://cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+  },
+  {
+   "title": "Reuters via Investing.com: UK inflation picks up to 3.5%",
+   "url": "https://www.investing.com/news/economy-news/uk-inflation-picks-up-more-than-expected-to-35-in-september-4961639"
+  },
+  {
+   "title": "Investing.com: US crude inventories drop 3.06 million barrels",
+   "url": "https://www.investing.com/news/commodities-news/us-crude-oil-inventories-drop-306-million-barrels-93CH-4963561"
+  },
+  {
+   "title": "CNBC: Oil prices, October 21",
+   "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"
+  },
+  {
+   "title": "Meta: Third-quarter 2026 results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+  },
+  {
+   "title": "Fortune: Meta's revenue surges 26%, spending squeezes free cash flow",
+   "url": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/"
+  },
+  {
+   "title": "CBS News: Meta ordered to pay $25 billion to New Mexico",
+   "url": "https://www.cbsnews.com/news/meta-new-mexico-25-billion-privacy-ruling/"
+  },
+  {
+   "title": "The Hill: Judge orders Meta to pay $25 billion",
+   "url": "https://thehill.com/policy/technology/6163378-judge-orders-meta-25b-penalty/"
+  },
+  {
+   "title": "CNBC: Tesla third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+  },
+  {
+   "title": "Electrek: Tesla third-quarter 2026 financial results",
+   "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+  },
+  {
+   "title": "TechCrunch: SpaceX and Tesla boards form special committees",
+   "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
+  },
+  {
+   "title": "IBM: Third-quarter 2026 results",
+   "url": "https://newsroom.ibm.com/2026-10-21-IBM-RELEASES-THIRD-QUARTER-RESULTS"
+  },
+  {
+   "title": "Benzinga: IBM stock jumps after results",
+   "url": "https://www.benzinga.com/markets/earnings/26/10/62512362/ibm-stock-jumps-after-q3-results-top-expectations"
+  },
+  {
+   "title": "Yahoo Finance: AT&T falls 5% despite raising its outlook",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/t-stock-falls-5-raising-141234735.html"
+  },
+  {
+   "title": "Bloomberg: AT&T beats and raises annual guidance",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-21/at-t-beats-on-profit-expectations-raises-annual-guidance"
+  },
+  {
+   "title": "Insurance Journal: Chubb third-quarter results",
+   "url": "https://www.insurancejournal.com/news/national/2026/10/21/889758.htm"
+  },
+  {
+   "title": "The Insurer: Chubb operating income drops on higher catastrophe losses",
+   "url": "https://www.theinsurer.com/ti/news/chubbs-operating-income-drops-on-higher-cat-losses-in-q3-beat-2026-10-20/"
+  },
+  {
+   "title": "CNBC: French 10-year yield hits 5%",
+   "url": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html"
+  },
+  {
+   "title": "Reuters via Investing.com: French 10-year yields hit 5%",
+   "url": "https://www.investing.com/news/economy-news/french-10year-bond-yields-hit-5-highest-since-2002-4962104"
+  },
+  {
+   "title": "Agence France Trésor: France's credit ratings",
+   "url": "https://www.aft.gouv.fr/en/frances-credit-ratings"
+  },
+  {
+   "title": "The National: Araghchi says Hormuz stays closed until US agrees",
+   "url": "https://thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms"
+  },
+  {
+   "title": "The Tribune: Hormuz is closed until America accepts our conditions",
+   "url": "https://www.tribuneindia.com/news/abbas-araghchi/hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments"
+  },
+  {
+   "title": "Fox News: Iran war live updates, October 20",
+   "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-russia-october-20"
+  },
+  {
+   "title": "Nikkei Asia: Japan's September exports rise 16.7%",
+   "url": "https://asia.nikkei.com/economy/trade/japan-s-september-exports-rise-16.7-helped-by-chip-demand"
+  },
+  {
+   "title": "investingLive: Treasury sells $13 billion of 20-year bonds at 5.469%",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/"
+  },
+  {
+   "title": "RTTNews: Twenty-year bond auction attracts above-average demand",
+   "url": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx"
+  },
+  {
+   "title": "Fast Company: Netflix stock sinks to two-year low",
+   "url": "https://www.fastcompany.com/91627396/netflix-stock-price-sinks-2-year-low-nflx-ad-business-in-trouble"
+  },
+  {
+   "title": "Newsquawk: US earnings, October 22",
+   "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-earnings-estimates---22nd-october-2026-bx-lmt-vlo-pg-unp-wdc-nem-spot"
+  }
+ ]
+}
