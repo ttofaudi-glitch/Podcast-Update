@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-23",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, October 23, 2026",
+   "summary": "Technology stocks fall on artificial intelligence spending doubts, the 10-year yield drops below 5%, oil nears $112, and Procter & Gamble and Lockheed Martin beat.",
+   "duration": 295.13,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 28.26
+    },
+    {
+     "heading": "Markets",
+     "start": 73.93
+    },
+    {
+     "heading": "Companies",
+     "start": 128.9
+    },
+    {
+     "heading": "The world",
+     "start": 220.26
+    },
+    {
+     "heading": "Next week",
+     "start": 267.4
+    }
+   ]
+  },
+  {
    "id": "2026-10-22",
    "title": "Omaha Morning Brief",
    "dateline": "Thursday, October 22, 2026",

@@ -1,0 +1,110 @@
+{
+  "title": "Omaha Morning Brief",
+  "dateline": "Friday, October 23, 2026",
+  "summary": "Technology stocks fall on artificial intelligence spending doubts, the 10-year yield drops below 5%, oil nears $112, and Procter & Gamble and Lockheed Martin beat.",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "pronounce": {
+    "Krishna": "Krish-na",
+    "Hormuz": "Hor-mooz",
+    "Houthi": "Hoothee",
+    "Dammam": "Dam-mam",
+    "Valero": "Vuh-lair-oh"
+  },
+  "sections": [
+    {
+      "heading": "The short version",
+      "paragraphs": [
+        "Good morning, Warren. It is Friday, October 23rd. Doubts about spending on artificial intelligence returned on Thursday. The Nasdaq had its worst day since June, and Meta fell 7%. Investors moved into government bonds, and the 10-year Treasury yield fell below 5%. Oil rose to its highest level since May after more Houthi attacks in Saudi Arabia. And consumer and defense companies reported solid quarters."
+      ]
+    },
+    {
+      "heading": "Rates and inflation",
+      "paragraphs": [
+        "The 10-year Treasury yield fell 17 basis points to 4.96%, its biggest one-day drop since March 2023 and its first close below 5% since late September. The 2-year yield fell to 4.65%. Three-month Treasury bills pay 4.22%.",
+        "The job market stays firm. First-time claims for unemployment benefits fell to 194,000, a three-month low, below the 200,000 expected. Initial claims are near the lowest levels since 1969, but hiring is slow. Futures still put the odds of a Federal Reserve rate increase next Wednesday at about one in six, and see one in December as likely."
+      ]
+    },
+    {
+      "heading": "Markets",
+      "paragraphs": [
+        "The S&P 500 fell 1.2% to 7,663, and the Nasdaq fell 2.6%. The Dow was flat. Chip stocks led the fall: AMD dropped more than 8%, Micron about 6% and Nvidia about 4%. Consumer staples stocks rose as investors looked for safety.",
+        "Meta fell 7% after reporting its first quarter of negative free cash flow since it went public in 2012, as capital spending reached nearly $35 billion. IBM fell about 5% even after beating forecasts, after chief executive Arvind Krishna said large clients are questioning the return on their artificial intelligence spending. IBM also left its revenue growth target unchanged at 4% to 5%. Tesla fell about 3%."
+      ]
+    },
+    {
+      "heading": "Companies",
+      "paragraphs": [
+        "Procter & Gamble's organic sales rose 4%, with every category and region growing. Most of the growth came from selling more units, not from raising prices. Core earnings were $2.00 a share, ahead of forecasts. Costs for materials, energy and freight are rising, but it kept its guidance, and the stock rose about 6%.",
+        "Lockheed Martin's sales rose 11% to $20.7 billion, and its backlog reached a record $292 billion, including a $52.5 billion order for Patriot missile interceptors. It raised its outlook for the second quarter in a row and lifted its dividend for the 24th straight year. One risk: its costs on the next batch of F-35 fighters now exceed the funding the government has authorized, and talks on that contract continue.",
+        "Valero, the refiner, earned a record $6.8 billion, as its refining margin tripled to about $39 a barrel. Airlines are paying for it. Southwest paid $3.92 a gallon for jet fuel last quarter, expects up to $4.55 this quarter, and cut its 2026 profit forecast, and American Airlines now expects a bigger loss for the year after fuel costs rose 67%.",
+        "In deals, the London Stock Exchange Group agreed to buy the credit data company Octus for about $3.5 billion in cash."
+      ]
+    },
+    {
+      "heading": "The world",
+      "paragraphs": [
+        "Brent crude rose as high as about $112, its highest since May. The Houthis struck Saudi Arabia's Eastern Province, and Saudi authorities said two people were killed at the airport in Dammam. The New York Times reported that the United States and Israel have drawn up plans to resume strikes on Iran after the November 3 midterm elections. The White House said there will be no attack before the elections, and that the President keeps all options on the table. The Times said President Trump has not approved any plan.",
+        "Iran again claimed that its mines stopped tankers in the Strait of Hormuz. The United States military calls those claims false.",
+        "In Europe, France's 10-year yield moved above 5%. Moody's reviews France's credit rating today."
+      ]
+    },
+    {
+      "heading": "Next week",
+      "paragraphs": [
+        "Verizon reports Monday, and Coca-Cola on Tuesday. Wednesday is busy: the Federal Reserve decides, Britain presents its budget, and Microsoft and Alphabet report after the close. On Thursday, the European Central Bank decides, the United States publishes third-quarter gross domestic product and September inflation, and Amazon and Intel report. The Bank of Japan decides Friday. That is the briefing. Have a good day."
+      ]
+    }
+  ],
+  "numbers_note": "Closing levels for Thursday, October 22, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+  "numbers": [
+    { "label": "Dow Jones Industrial Average", "value": "52,867.98", "change": "+0.02%", "dir": "up" },
+    { "label": "S&P 500", "value": "7,663.43", "change": "(1.21%)", "dir": "down" },
+    { "label": "Nasdaq Composite", "value": "26,008.86", "change": "(2.60%)", "dir": "down" },
+    { "label": "10-year Treasury yield", "value": "4.96%", "change": "(0.17)", "dir": "down" },
+    { "label": "2-year Treasury yield", "value": "4.65%", "change": "(0.16)", "dir": "down" },
+    { "label": "3-month Treasury bill", "value": "4.22%", "change": "(0.03)", "dir": "down" },
+    { "label": "30-year Treasury yield", "value": "5.29%", "change": "(0.13)", "dir": "down" },
+    { "label": "Federal funds target", "value": "3.75–4.00%", "change": "", "dir": "flat" },
+    { "label": "Brent crude, intraday high", "value": "≈$112", "change": "highest since May", "dir": "up" },
+    { "label": "Initial jobless claims (week to October 17)", "value": "194,000", "change": "from 200,000", "dir": "down" },
+    { "label": "Meta Platforms", "value": "$648.85", "change": "(6.98%)", "dir": "down" }
+  ],
+  "sources": [
+    { "title": "Associated Press via CT Post: How major US stock indexes fared, October 22", "url": "https://www.ctpost.com/business/article/how-major-us-stock-indexes-fared-thursday-22489836.php" },
+    { "title": "Yahoo Finance: S&P 500, Nasdaq end sharply lower on AI doubts", "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html" },
+    { "title": "Yahoo Finance: Stock market today, October 22", "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html" },
+    { "title": "CNBC: Stocks making the biggest moves midday, October 22", "url": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-midday-pg-lrcx-bx-luv-ttmi-.html" },
+    { "title": "United States Treasury: Daily Treasury par yield curve rates", "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026" },
+    { "title": "CNBC: 10-year Treasury yield tumbles below 5%", "url": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html" },
+    { "title": "Bloomberg: Initial jobless claims fall to three-month low", "url": "https://www.bloomberg.com/news/articles/2026-10-22/us-initial-jobless-claims-fall-to-three-month-low" },
+    { "title": "FXStreet: Initial jobless claims dropped to 194,000", "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-194k-last-week-202610221240" },
+    { "title": "FXStreet: Fed preview, on hold in October", "url": "https://fxstreet.com/analysis/fed-preview-on-hold-in-october-hiking-resumes-later-202610221047" },
+    { "title": "Investing.com: Meta free cash flow and stock futures", "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498" },
+    { "title": "24/7 Wall St.: IBM sinks on chief executive's AI spending caution", "url": "https://247wallst.com/investing/2026/10/22/ibm-sinks-7-as-ceos-ai-spending-caution-overshadows-earnings-beat-accenture-and-infosys-ease-back/" },
+    { "title": "Benzinga: IBM shares are falling Thursday", "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62520678/ibm-shares-are-falling-thursday-whats-happening" },
+    { "title": "Procter & Gamble: Fiscal 2027 first-quarter results", "url": "https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2027-First-Quarter-Results/default.aspx" },
+    { "title": "CNBC: Procter & Gamble first-quarter earnings", "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html" },
+    { "title": "24/7 Wall St.: Procter & Gamble jumps 6%", "url": "https://247wallst.com/investing/2026/10/22/procter-gamble-jumps-6-as-earnings-beat-draws-defensive-buyers-johnson-johnson-rises-3-coca-cola-ticks-up/" },
+    { "title": "Lockheed Martin: Third-quarter 2026 results", "url": "https://news.lockheedmartin.com/2026-10-22-Lockheed-Martin-Reports-Third-Quarter-2026-Financial-Results" },
+    { "title": "Motley Fool: Lockheed Martin third-quarter call transcript", "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/lockheed-martin-lmt-q3-2026-earnings-call-transcript/" },
+    { "title": "Valero: Third-quarter 2026 results (Form 8-K)", "url": "https://www.sec.gov/Archives/edgar/data/0001035002/000162828026066795/a9302026exh9901earningsrel.htm" },
+    { "title": "BOE Report: Valero record quarterly profit", "url": "https://boereport.com/2026/10/22/valero-kicks-off-refiner-results-with-record-quarterly-profit-on-higher-margins/" },
+    { "title": "CNBC: Southwest cuts 2026 profit forecast on fuel", "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html" },
+    { "title": "CNBC: American Airlines forecasts bigger 2026 loss on fuel", "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html" },
+    { "title": "MarketScreener: LSEG acquires Octus", "url": "https://www.marketscreener.com/news/lseg-raises-full-year-targets-and-acquires-octus-for-3-5bn-ce785cd9d18ff320" },
+    { "title": "FinTech Global: LSEG bets $3.535 billion on Octus", "url": "https://fintech.global/2026/10/22/lseg-bets-3-535bn-on-octus-as-private-credit-reshapes-data/" },
+    { "title": "Korea Times: Oil hits five-month high on Houthi attacks", "url": "https://www.koreatimes.co.kr/world/20261023/oil-hits-5-month-high-as-houthi-attacks-stoke-supply-fears" },
+    { "title": "OilPrice: Oil surges above $111 as Houthis strike Saudi targets", "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Above-111-as-Houthis-Strike-Saudi-Targets.html" },
+    { "title": "Al Jazeera: Attack on Saudi Arabia's King Fahd airport", "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2" },
+    { "title": "ABC News: US and Israel drawing up plans to resume attacks on Iran", "url": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897" },
+    { "title": "Times of Israel: US, Israel said to draft plans for resumed strikes", "url": "https://www.timesofisrael.com/us-israel-said-to-draft-plans-for-resumed-strikes-on-iran-after-midterm-elections/" },
+    { "title": "Washington Times: Trump rejects Iranian claims of tanker strikes", "url": "https://www.washingtontimes.com/news/2026/oct/22/trump-rejects-iranian-claims-tanker-strikes-strait-hormuz-oil-prices/" },
+    { "title": "FXStreet: France's 10-year yield moves above 5.10%", "url": "https://fxstreet.com/analysis/frances-10-year-yield-moves-above-510-level-202610220948" },
+    { "title": "Agence France Trésor: France's credit ratings", "url": "https://www.aft.gouv.fr/en/frances-credit-ratings" },
+    { "title": "United States Bureau of Economic Analysis: Release schedule", "url": "https://www.bea.gov/news/schedule" },
+    { "title": "Microsoft: Quarterly earnings release date", "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/" },
+    { "title": "Verizon: Third-quarter earnings on October 26", "url": "https://www.globenewswire.com/news-release/2026/09/28/3369995/0/en/verizon-to-report-third-quarter-earnings-october-26-2026.html" },
+    { "title": "Coca-Cola: Timing of third-quarter 2026 earnings", "url": "https://www.coca-colacompany.com/media-center/the-coca-cola-company-announces-timing-of-third-quarter-2026-earnings-release" }
+  ]
+}
