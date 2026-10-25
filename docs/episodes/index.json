@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-26",
+   "title": "Omaha Morning Brief",
+   "dateline": "Monday, October 26, 2026",
+   "summary": "Brent at $116.72, a big week for central banks and technology earnings, American Express cuts jobs and raises its outlook, and Moody's spares France.",
+   "duration": 297.7,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 23.79
+    },
+    {
+     "heading": "Markets",
+     "start": 84.55
+    },
+    {
+     "heading": "Companies",
+     "start": 130.3
+    },
+    {
+     "heading": "The world",
+     "start": 205.65
+    },
+    {
+     "heading": "Coming up",
+     "start": 262.23
+    }
+   ]
+  },
+  {
    "id": "2026-10-23",
    "title": "Omaha Morning Brief",
    "dateline": "Friday, October 23, 2026",

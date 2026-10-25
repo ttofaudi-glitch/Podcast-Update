@@ -1,0 +1,577 @@
+{
+ "id": "2026-10-26",
+ "title": "Omaha Morning Brief",
+ "dateline": "Monday, October 26, 2026",
+ "summary": "Brent at $116.72, a big week for central banks and technology earnings, American Express cuts jobs and raises its outlook, and Moody's spares France.",
+ "duration": 297.7,
+ "audio": "episodes/2026-10-26/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Monday, October 26th.",
+      "start": 1.56,
+      "end": 3.76
+     },
+     {
+      "i": 2,
+      "text": "Oil ended last week at its highest price since April, because of Houthi attacks on Saudi Arabia and the risk of new American strikes on Iran.",
+      "start": 4.04,
+      "end": 12.85
+     },
+     {
+      "i": 3,
+      "text": "This is a heavy week: the Federal Reserve, the European Central Bank and the Bank of Japan all decide, and Microsoft, Alphabet and Amazon report.",
+      "start": 13.13,
+      "end": 22.66
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 23.79,
+   "paragraphs": [
+    [
+     {
+      "i": 4,
+      "text": "The 10-year Treasury yield ended Friday at 5.00%, down from 5.09% a week earlier.",
+      "start": 23.79,
+      "end": 31.79
+     },
+     {
+      "i": 5,
+      "text": "Three-month Treasury bills pay 4.22%.",
+      "start": 32.07,
+      "end": 35.27
+     },
+     {
+      "i": 6,
+      "text": "Futures put the odds of a Federal Reserve rate increase on Wednesday at about one in ten, and see an increase in December as more likely than not.",
+      "start": 35.55,
+      "end": 44.09
+     }
+    ],
+    [
+     {
+      "i": 7,
+      "text": "Price pressure is still building.",
+      "start": 44.37,
+      "end": 46.05
+     },
+     {
+      "i": 8,
+      "text": "A survey of American businesses by S&P Global showed selling prices rising at the fastest pace since August 2022.",
+      "start": 46.33,
+      "end": 54.87
+     },
+     {
+      "i": 9,
+      "text": "The University of Michigan's consumer sentiment index ended October at 48, near record lows, and households expect 4.7% inflation over the next year.",
+      "start": 55.15,
+      "end": 65.71
+     }
+    ],
+    [
+     {
+      "i": 10,
+      "text": "In Japan, core consumer prices rose 2.1% in September, above the Bank of Japan's 2% target for the first time in nine months.",
+      "start": 65.99,
+      "end": 75.56
+     },
+     {
+      "i": 11,
+      "text": "The Bank of Japan is expected to hold its rate at 1.25% on Friday, with an increase in December possible.",
+      "start": 75.84,
+      "end": 83.42
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 84.55,
+   "paragraphs": [
+    [
+     {
+      "i": 12,
+      "text": "On Friday the Dow fell 1.2% to 52,215, and the S&P 500 fell 0.5% to 7,624.",
+      "start": 84.55,
+      "end": 96.0
+     },
+     {
+      "i": 13,
+      "text": "The Nasdaq slipped 0.2%.",
+      "start": 96.28,
+      "end": 98.61
+     },
+     {
+      "i": 14,
+      "text": "For the week, the S&P lost 0.5% and the Nasdaq 0.7%, while the Dow gained 0.4%, its third weekly gain in a row.",
+      "start": 98.89,
+      "end": 110.09
+     }
+    ],
+    [
+     {
+      "i": 15,
+      "text": "Brent crude settled at $116.72, up 3.1% on the day and about 6% for the week, its highest close since late April.",
+      "start": 110.37,
+      "end": 120.67
+     },
+     {
+      "i": 16,
+      "text": "West Texas Intermediate closed at $103.27.",
+      "start": 120.95,
+      "end": 125.75
+     },
+     {
+      "i": 17,
+      "text": "Energy was the only clear winner among stock sectors.",
+      "start": 126.03,
+      "end": 129.17
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 130.3,
+   "paragraphs": [
+    [
+     {
+      "i": 18,
+      "text": "American Express earned $4.68 a share on an adjusted basis, above the $4.49 expected, on revenue of $20.1 billion, up 9%.",
+      "start": 130.3,
+      "end": 142.93
+     },
+     {
+      "i": 19,
+      "text": "Its net write-off rate fell to 1.8% from 1.9% a year ago, so card credit is holding up.",
+      "start": 143.21,
+      "end": 150.21
+     },
+     {
+      "i": 20,
+      "text": "It raised its full-year profit outlook.",
+      "start": 150.49,
+      "end": 152.53
+     },
+     {
+      "i": 21,
+      "text": "But it will cut about 5% of its workforce, roughly 3,500 jobs, and took a $336 million charge.",
+      "start": 152.81,
+      "end": 161.54
+     },
+     {
+      "i": 22,
+      "text": "The chief financial officer said the cuts remove management layers and prepare for automation and artificial intelligence.",
+      "start": 161.82,
+      "end": 169.14
+     },
+     {
+      "i": 23,
+      "text": "The stock fell about 3%.",
+      "start": 169.42,
+      "end": 171.23
+     }
+    ],
+    [
+     {
+      "i": 24,
+      "text": "Telephone companies fell after Bloomberg reported that SpaceX is negotiating access to at least 80,000 American cell sites for its Starlink mobile service.",
+      "start": 171.51,
+      "end": 182.11
+     },
+     {
+      "i": 25,
+      "text": "AT&T and T-Mobile fell sharply, and tower owner Crown Castle rose.",
+      "start": 182.39,
+      "end": 186.81
+     },
+     {
+      "i": 26,
+      "text": "These are talks, not a deal.",
+      "start": 187.09,
+      "end": 188.6
+     }
+    ],
+    [
+     {
+      "i": 27,
+      "text": "On Saturday, President Trump announced that Audi will build its first American factory, near Macon, Georgia.",
+      "start": 188.88,
+      "end": 195.5
+     },
+     {
+      "i": 28,
+      "text": "It will cost about $4 billion and employ about 4,500 people, with production starting in the early 2030s.",
+      "start": 195.78,
+      "end": 204.52
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 205.65,
+   "paragraphs": [
+    [
+     {
+      "i": 29,
+      "text": "On Sunday, President Trump said there would be no strike on Iran that day, and that he is weighing a deal against further military action.",
+      "start": 205.65,
+      "end": 213.16
+     },
+     {
+      "i": 30,
+      "text": "Qatari mediators were in Tehran on Sunday, in an effort coordinated with the United States.",
+      "start": 213.44,
+      "end": 219.29
+     },
+     {
+      "i": 31,
+      "text": "Iran's parliament speaker warned of a strong response to any attack.",
+      "start": 219.57,
+      "end": 223.26
+     },
+     {
+      "i": 32,
+      "text": "Iran says it would reopen the Strait of Hormuz if the American naval blockade is lifted.",
+      "start": 223.54,
+      "end": 228.77
+     }
+    ],
+    [
+     {
+      "i": 33,
+      "text": "The Houthis claimed new attacks on Saudi oil facilities on Saturday, including Yanbu.",
+      "start": 229.05,
+      "end": 234.27
+     },
+     {
+      "i": 34,
+      "text": "Saudi forces said they intercepted the missiles, and no damage has been confirmed.",
+      "start": 234.55,
+      "end": 239.31
+     }
+    ],
+    [
+     {
+      "i": 35,
+      "text": "Moody's kept France's credit rating at Aa3 with a negative outlook on Friday, avoiding the downgrade many investors expected.",
+      "start": 239.59,
+      "end": 247.65
+     },
+     {
+      "i": 36,
+      "text": "It said the rating depends on France passing a budget that cuts the deficit, with debt at about 119% of gross domestic product.",
+      "start": 247.93,
+      "end": 256.91
+     },
+     {
+      "i": 37,
+      "text": "Hundreds of thousands of people protested across France on Saturday.",
+      "start": 257.19,
+      "end": 261.1
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 262.23,
+   "paragraphs": [
+    [
+     {
+      "i": 38,
+      "text": "Verizon reports today.",
+      "start": 262.23,
+      "end": 263.83
+     },
+     {
+      "i": 39,
+      "text": "Tuesday brings Coca-Cola, Boeing and Visa.",
+      "start": 264.11,
+      "end": 266.67
+     },
+     {
+      "i": 40,
+      "text": "On Wednesday, the Federal Reserve decides, the Bank of Canada decides, Britain presents its budget, and Microsoft and Alphabet report after the close.",
+      "start": 266.95,
+      "end": 276.31
+     },
+     {
+      "i": 41,
+      "text": "Thursday brings the first estimate of third-quarter gross domestic product, September inflation, the European Central Bank, and reports from Eli Lilly, Caterpillar, Amazon and Intel.",
+      "start": 276.59,
+      "end": 288.35
+     },
+     {
+      "i": 42,
+      "text": "On Friday, the Bank of Japan decides, and Exxon and Chevron report.",
+      "start": 288.63,
+      "end": 293.09
+     },
+     {
+      "i": 43,
+      "text": "Apple reports next Monday.",
+      "start": 293.37,
+      "end": 294.99
+     },
+     {
+      "i": 44,
+      "text": "That is the briefing.",
+      "start": 295.27,
+      "end": 296.42
+     },
+     {
+      "i": 45,
+      "text": "Have a good day.",
+      "start": 296.7,
+      "end": 297.7
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,215.16",
+   "change": "(1.23%)",
+   "dir": "down"
+  },
+  {
+   "label": "Dow Jones Industrial Average, week",
+   "value": "",
+   "change": "+0.4%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,623.68",
+   "change": "(0.52%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500, week",
+   "value": "",
+   "change": "(0.5%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "25,955.34",
+   "change": "(0.21%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite, week",
+   "value": "",
+   "change": "(0.7%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.00%",
+   "change": "(0.09)",
+   "dir": "down"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.69%",
+   "change": "(0.05)",
+   "dir": "down"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.22%",
+   "change": "(0.04)",
+   "dir": "down"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.33%",
+   "change": "(0.10)",
+   "dir": "down"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$116.72",
+   "change": "+3.1%",
+   "dir": "up"
+  },
+  {
+   "label": "Brent crude, week",
+   "value": "",
+   "change": "+6%",
+   "dir": "up"
+  },
+  {
+   "label": "West Texas Intermediate, December",
+   "value": "$103.27",
+   "change": "+3.8%",
+   "dir": "up"
+  },
+  {
+   "label": "University of Michigan sentiment (October, final)",
+   "value": "48.0",
+   "change": "from 48.1",
+   "dir": "flat"
+  },
+  {
+   "label": "Japan core consumer prices, year over year (September)",
+   "value": "2.1%",
+   "change": "from 1.7%",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Friday, October 23, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the week. Stock and oil changes are for the day unless marked. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Associated Press via Yahoo Finance: How major US stock indexes fared, October 23",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
+  },
+  {
+   "title": "Associated Press via KRMG: How major US stock indexes fared, October 23",
+   "url": "https://krmg.com/2026/10/23/how-major-us-stock-indexes-fared-friday-10-23-2026/"
+  },
+  {
+   "title": "Spokesman-Review: Dow, S&P 500 fall, tech steadies to end rocky week",
+   "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "CNBC: Treasury yields, October 23",
+   "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html"
+  },
+  {
+   "title": "Seoul Economic Daily: Economists see the Fed holding on the 28th",
+   "url": "https://en.sedaily.com/international/2026/10/26/us-economists-see-fed-holding-rates-on-the-28th-hiking-in"
+  },
+  {
+   "title": "France 24 (AFP): Fed expected to hold rates steady",
+   "url": "https://france24.com/en/live-news/20261025-fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms"
+  },
+  {
+   "title": "Finimize: US business growth cooled, but prices kept rising",
+   "url": "https://finimize.com/content/us-business-growth-cooled-but-prices-kept-rising"
+  },
+  {
+   "title": "Seeking Alpha: US flash PMI signals further inflation uplift",
+   "url": "https://seekingalpha.com/article/4957160-us-flash-pmi-signals-sustained-strong-growth-further-inflation-uplift-in-october"
+  },
+  {
+   "title": "Advisor Perspectives: Consumer sentiment at five-month low",
+   "url": "https://www.advisorperspectives.com/dshort/updates/2026/10/23/consumer-sentiment-at-five-month-low"
+  },
+  {
+   "title": "investingLive: University of Michigan final October sentiment",
+   "url": "https://investinglive.com/news/umich-final-october-final-consumer-sentiment-48-0-vs-46-3-expected/"
+  },
+  {
+   "title": "CNBC: Japan core inflation rises to 2.1%",
+   "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html"
+  },
+  {
+   "title": "The Star (Reuters): Japan core inflation exceeds Bank of Japan target",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/23/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance"
+  },
+  {
+   "title": "CNBC: Oil prices, October 23",
+   "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"
+  },
+  {
+   "title": "Lufkin Daily News (Reuters): Brent crude jumps to highest since April",
+   "url": "https://lufkindailynews.com/news_reuters/business/brent-crude-jumps-to-highest-since-april-on-houthi-attacks-uae-oil-spill/article_0ba7dd55-f133-52f0-af6c-83de5c3326e5.html"
+  },
+  {
+   "title": "American Express: Third-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm"
+  },
+  {
+   "title": "CNBC: American Express job cuts",
+   "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
+  },
+  {
+   "title": "WRAL (Associated Press): American Express to cut about 3,500 jobs",
+   "url": "https://www.wral.com/news/ap/fbe9d-american-express-profits-rise-company-plans-to-cut-workforce-by-5-or-about-3-500-employees/"
+  },
+  {
+   "title": "Forbes: Telecom shares slip on SpaceX cell tower talks",
+   "url": "https://www.forbes.com/sites/siladityaray/2026/10/23/att-verizon-t-mobile-shares-slip-as-spacex-reportedly-holds-cell-tower-talks-for-starlink-mobile/"
+  },
+  {
+   "title": "Global Banking and Finance: US telecom stocks fall as SpaceX eyes cell sites",
+   "url": "https://www.globalbankingandfinance.com/us-telecom-operators-wobble-report-spacex-talks-cell-sites/"
+  },
+  {
+   "title": "CNBC: Trump announces Audi factory in Georgia",
+   "url": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html"
+  },
+  {
+   "title": "ABC News (Associated Press): Audi to build new factory in Georgia",
+   "url": "https://abcnews.com/US/wireStory/trump-announces-georgia-campaign-rally-audi-build-new-137546022"
+  },
+  {
+   "title": "Al Jazeera: Trump says no strike today; Qatar mediators visit Tehran",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached"
+  },
+  {
+   "title": "TASS (Reuters): Qatari mediators visit Tehran",
+   "url": "https://tass.com/world/2207557"
+  },
+  {
+   "title": "Washington Post (Associated Press): Pakistan, Iran and US talks on Hormuz",
+   "url": "https://washingtonpost.com/world/2026/10/24/pakistan-iran-us-talks-hormuz/c2142ec0-cfc2-11f1-ac04-9f58578a68b4_story.html"
+  },
+  {
+   "title": "Al Jazeera: Houthis launch attacks on Saudi Arabia",
+   "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
+  },
+  {
+   "title": "CNBC: Moody's holds steady on France's credit rating",
+   "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html"
+  },
+  {
+   "title": "IndexBox: Moody's keeps France at Aa3 as debt hits 119% of GDP",
+   "url": "https://www.indexbox.io/blog/moodys-spares-france-a-downgrade-but-warns-political-gridlock-threatens-deficit-reduction/"
+  },
+  {
+   "title": "CNN: France weekend protests",
+   "url": "https://www.cnn.com/2026/10/24/europe/france-weekend-protests-detained-latam-intl"
+  },
+  {
+   "title": "StockTitan: Earnings calendar, week of October 26",
+   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
+  },
+  {
+   "title": "United States Bureau of Economic Analysis: Release schedule",
+   "url": "https://www.bea.gov/news/schedule"
+  },
+  {
+   "title": "Apple: Fourth-quarter fiscal 2026 results event",
+   "url": "https://investor.apple.com/investor-relations/event-details/2026/FY-26-Fourth-Quarter-Results/default.aspx"
+  }
+ ]
+}
