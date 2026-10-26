@@ -1,0 +1,597 @@
+{
+ "id": "2026-10-27",
+ "title": "Omaha Morning Brief",
+ "dateline": "Tuesday, October 27, 2026",
+ "summary": "Anthropic files to go public, Meta plans to raise up to $95 billion in stock, EQT buys Range Resources, and Brazil's markets fall after Lula wins.",
+ "duration": 308.99,
+ "audio": "episodes/2026-10-27/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Tuesday, October 27th.",
+      "start": 1.56,
+      "end": 3.91
+     },
+     {
+      "i": 2,
+      "text": "Stocks rose on Monday after the artificial intelligence company Anthropic filed to go public.",
+      "start": 4.19,
+      "end": 10.07
+     },
+     {
+      "i": 3,
+      "text": "Meta announced plans to raise up to $95 billion by selling stock.",
+      "start": 10.35,
+      "end": 15.3
+     },
+     {
+      "i": 4,
+      "text": "Oil eased as Saudi, Pakistani and Turkish officials met Iran's leaders in Tehran.",
+      "start": 15.58,
+      "end": 21.11
+     },
+     {
+      "i": 5,
+      "text": "And Brazil's markets fell sharply after President Lula won re-election.",
+      "start": 21.39,
+      "end": 25.85
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 26.98,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "The 10-year Treasury yield was little changed, near 4.99%.",
+      "start": 26.98,
+      "end": 31.63
+     },
+     {
+      "i": 7,
+      "text": "The 2-year rose to about 4.72%.",
+      "start": 31.91,
+      "end": 35.04
+     },
+     {
+      "i": 8,
+      "text": "Three-month Treasury bills pay about 4.2%.",
+      "start": 35.32,
+      "end": 38.44
+     },
+     {
+      "i": 9,
+      "text": "The Federal Reserve begins its meeting today and decides on Wednesday.",
+      "start": 38.72,
+      "end": 42.71
+     },
+     {
+      "i": 10,
+      "text": "Futures put the odds of a rate increase this week at under one in ten, and about three in four for an increase by December.",
+      "start": 42.99,
+      "end": 49.82
+     }
+    ],
+    [
+     {
+      "i": 11,
+      "text": "Gasoline averages about $4.29 a gallon, against $3.05 a year ago.",
+      "start": 50.1,
+      "end": 56.94
+     },
+     {
+      "i": 12,
+      "text": "By AAA's figures, the average price during President Trump's second term has now edged past the average under President Biden, a week before the midterm elections.",
+      "start": 57.22,
+      "end": 67.57
+     },
+     {
+      "i": 13,
+      "text": "The first estimate of third-quarter gross domestic product and the September inflation figures come out on Thursday.",
+      "start": 67.85,
+      "end": 74.76
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 75.89,
+   "paragraphs": [
+    [
+     {
+      "i": 14,
+      "text": "The S&P 500 rose 0.7% to 7,677, and the Nasdaq rose 0.8%.",
+      "start": 75.89,
+      "end": 85.04
+     },
+     {
+      "i": 15,
+      "text": "The Dow rose 0.3%.",
+      "start": 85.32,
+      "end": 87.5
+     },
+     {
+      "i": 16,
+      "text": "Chip stocks rose about 3%.",
+      "start": 87.78,
+      "end": 89.85
+     }
+    ],
+    [
+     {
+      "i": 17,
+      "text": "Brent crude settled at $115.81, down 0.8%, after briefly topping $117.",
+      "start": 90.13,
+      "end": 99.62
+     },
+     {
+      "i": 18,
+      "text": "West Texas Intermediate fell 1.5% to $101.76.",
+      "start": 99.9,
+      "end": 105.92
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 107.05,
+   "paragraphs": [
+    [
+     {
+      "i": 19,
+      "text": "Anthropic filed its prospectus to list on the Nasdaq under the ticker A N T.",
+      "start": 107.05,
+      "end": 111.93
+     },
+     {
+      "i": 20,
+      "text": "It reported revenue of about $16.3 billion for the first half of this year, against about $1.2 billion a year earlier.",
+      "start": 112.21,
+      "end": 120.9
+     },
+     {
+      "i": 21,
+      "text": "It also reported a net loss of $80.7 billion, most of it an accounting charge that does not involve cash.",
+      "start": 121.18,
+      "end": 128.96
+     },
+     {
+      "i": 22,
+      "text": "The price and the number of shares are not yet set.",
+      "start": 129.24,
+      "end": 131.87
+     },
+     {
+      "i": 23,
+      "text": "Note that Anthropic makes the system that writes this briefing.",
+      "start": 132.15,
+      "end": 135.86
+     }
+    ],
+    [
+     {
+      "i": 24,
+      "text": "Meta plans to sell $35 billion of stock and convertible preferred shares now, and up to $60 billion more later, to pay for its artificial intelligence build-out.",
+      "start": 136.14,
+      "end": 147.4
+     },
+     {
+      "i": 25,
+      "text": "Nvidia, AMD and Broadcom have said they may buy up to $5 billion.",
+      "start": 147.68,
+      "end": 152.5
+     },
+     {
+      "i": 26,
+      "text": "Meta's stock fell about 2%.",
+      "start": 152.78,
+      "end": 154.75
+     },
+     {
+      "i": 27,
+      "text": "The new shares would dilute existing owners.",
+      "start": 155.03,
+      "end": 157.59
+     },
+     {
+      "i": 28,
+      "text": "Last quarter, Meta's capital spending exceeded the cash its business produced.",
+      "start": 157.87,
+      "end": 162.5
+     }
+    ],
+    [
+     {
+      "i": 29,
+      "text": "EQT agreed to buy Range Resources in an all-stock deal worth about $12.8 billion, creating the largest natural gas producer in the United States.",
+      "start": 162.78,
+      "end": 173.53
+     },
+     {
+      "i": 30,
+      "text": "Fortune puts the premium at nearly 21%.",
+      "start": 173.81,
+      "end": 176.8
+     },
+     {
+      "i": 31,
+      "text": "The companies expect $325 million a year in savings, and the deal should close in early 2027.",
+      "start": 177.08,
+      "end": 185.1
+     }
+    ],
+    [
+     {
+      "i": 32,
+      "text": "Verizon added 406,000 phone customers on monthly plans, its best third quarter in five years, and raised its outlook for the third quarter in a row.",
+      "start": 185.38,
+      "end": 195.45
+     },
+     {
+      "i": 33,
+      "text": "But revenue missed forecasts, and the shares fell.",
+      "start": 195.73,
+      "end": 198.26
+     }
+    ],
+    [
+     {
+      "i": 34,
+      "text": "In insurance, The Hartford's catastrophe losses rose to $198 million from $70 million a year ago, from tornadoes, wind and hail.",
+      "start": 198.54,
+      "end": 208.83
+     },
+     {
+      "i": 35,
+      "text": "Cincinnati Financial's combined ratio worsened to 90.9% from 88.2%.",
+      "start": 209.11,
+      "end": 215.89
+     },
+     {
+      "i": 36,
+      "text": "Nucor earned $5.80 a share, above its own guidance.",
+      "start": 216.17,
+      "end": 220.35
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 221.48,
+   "paragraphs": [
+    [
+     {
+      "i": 37,
+      "text": "Saudi Arabia's defense minister, Pakistan's army chief Asim Munir and Turkey's intelligence chief met President Pezeshkian and other Iranian officials in Tehran on Monday.",
+      "start": 221.48,
+      "end": 233.09
+     },
+     {
+      "i": 38,
+      "text": "They agreed to keep talking.",
+      "start": 233.37,
+      "end": 234.84
+     },
+     {
+      "i": 39,
+      "text": "Iran says it would reopen the Strait of Hormuz if the United States lifts its naval blockade.",
+      "start": 235.12,
+      "end": 240.75
+     },
+     {
+      "i": 40,
+      "text": "President Trump says it is getting to be decision time on whether to make a deal with Iran or resume strikes.",
+      "start": 241.03,
+      "end": 247.41
+     }
+    ],
+    [
+     {
+      "i": 41,
+      "text": "In Brazil, President Lula won the runoff with about 52% of the vote.",
+      "start": 247.69,
+      "end": 252.17
+     },
+     {
+      "i": 42,
+      "text": "Investors had positioned for his opponent, Flavio Bolsonaro.",
+      "start": 252.45,
+      "end": 256.16
+     },
+     {
+      "i": 43,
+      "text": "Brazil's main stock index fell about 15%, trading was halted once, and the real lost more than 10% against the dollar.",
+      "start": 256.44,
+      "end": 264.38
+     },
+     {
+      "i": 44,
+      "text": "Bolsonaro has not conceded.",
+      "start": 264.66,
+      "end": 266.54
+     }
+    ],
+    [
+     {
+      "i": 45,
+      "text": "The Kremlin says preparations have begun for a meeting of Presidents Putin, Trump and Xi at the Asia-Pacific summit in Shenzhen next month.",
+      "start": 266.82,
+      "end": 275.43
+     },
+     {
+      "i": 46,
+      "text": "Washington and Beijing have not confirmed it.",
+      "start": 275.71,
+      "end": 278.45
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 279.58,
+   "paragraphs": [
+    [
+     {
+      "i": 47,
+      "text": "Today, Coca-Cola, Boeing and UPS report before the New York open, and Visa after the close.",
+      "start": 279.58,
+      "end": 286.02
+     },
+     {
+      "i": 48,
+      "text": "The Conference Board publishes consumer confidence.",
+      "start": 286.3,
+      "end": 289.33
+     },
+     {
+      "i": 49,
+      "text": "On Wednesday, the Federal Reserve and the Bank of Canada decide, Britain presents its budget, and Microsoft and Alphabet report.",
+      "start": 289.61,
+      "end": 297.35
+     },
+     {
+      "i": 50,
+      "text": "Thursday brings gross domestic product, inflation, the European Central Bank, Amazon and Intel.",
+      "start": 297.63,
+      "end": 303.99
+     },
+     {
+      "i": 51,
+      "text": "The Bank of Japan decides Friday.",
+      "start": 304.27,
+      "end": 306.27
+     },
+     {
+      "i": 52,
+      "text": "That is the briefing.",
+      "start": 306.55,
+      "end": 307.71
+     },
+     {
+      "i": 53,
+      "text": "Have a good day.",
+      "start": 307.99,
+      "end": 308.99
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,361.58",
+   "change": "+0.28%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,676.77",
+   "change": "+0.70%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,169.38",
+   "change": "+0.82%",
+   "dir": "up"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "≈4.99%",
+   "change": "≈(0.01)",
+   "dir": "flat"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "≈4.72%",
+   "change": "≈+0.03",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "≈4.2%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$115.81",
+   "change": "(0.78%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, December",
+   "value": "$101.76",
+   "change": "(1.46%)",
+   "dir": "down"
+  },
+  {
+   "label": "Gasoline, national average per gallon",
+   "value": "≈$4.29",
+   "change": "from $3.05 a year ago",
+   "dir": "up"
+  },
+  {
+   "label": "Brazil Bovespa index",
+   "value": "",
+   "change": "≈(15%)",
+   "dir": "down"
+  }
+ ],
+ "numbers_note": "Closing levels for Monday, October 26, 2026. Treasury yields are late-session market readings because the official curve was not available; changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Associated Press via KRMG: How major US stock indexes fared, October 26",
+   "url": "https://krmg.com/2026/10/26/how-major-us-stock-indexes-fared-monday-10-26-2026/"
+  },
+  {
+   "title": "CNBC: Stock market live updates, October 26",
+   "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "investingLive: Americas wrap, October 26",
+   "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-26-oct-anthropic-ipo-puts-ai-back-in-focus-as-stocks-rebound"
+  },
+  {
+   "title": "CNBC: Treasury yields little changed ahead of the Fed",
+   "url": "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html"
+  },
+  {
+   "title": "CNBC: What to expect from the Fed's October meeting",
+   "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html"
+  },
+  {
+   "title": "US News (Reuters): Average gasoline price under Trump now exceeds Biden's",
+   "url": "https://www.usnews.com/news/politics/articles/2026-10-26/average-price-of-gasoline-during-trumps-term-now-exceeds-bidens-as-midterms-loom"
+  },
+  {
+   "title": "AAA: National average gas prices",
+   "url": "https://gasprices.aaa.com/?state=US"
+  },
+  {
+   "title": "CNBC: Oil prices, October 26",
+   "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+  },
+  {
+   "title": "Yahoo Finance (Reuters): Oil prices down almost 1%",
+   "url": "https://finance.yahoo.com/news/oil-prices-down-almost-1-232445179.html"
+  },
+  {
+   "title": "Anthropic: S-1 filing announcement",
+   "url": "https://www.anthropic.com/news/s1-sec"
+  },
+  {
+   "title": "Fortune: Anthropic's prospectus shows $16.3 billion in revenue",
+   "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+  },
+  {
+   "title": "Axios: Anthropic IPO filing",
+   "url": "https://www.axios.com/2026/10/26/anthropic-ipo"
+  },
+  {
+   "title": "CNBC: Meta launches plan for $95 billion stock offering",
+   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+  },
+  {
+   "title": "Bloomberg: Meta seeks up to $95 billion in equity",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending"
+  },
+  {
+   "title": "EQT: Acquisition of Range Resources",
+   "url": "https://ir.eqt.com/investor-relations/news/news-release-details/2026/EQT-Announces-Strategic-Acquisition-of-Range-Resources-Creating-Americas-Undisputed-Natural-Gas-Champion/default.aspx"
+  },
+  {
+   "title": "Bloomberg: EQT to buy Range Resources",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/eqt-to-buy-range-resources-in-an-all-stock-transaction"
+  },
+  {
+   "title": "Verizon: Record-breaking third quarter 2026",
+   "url": "https://www.verizon.com/about/news/verizon-delivers-another-record-breaking-quarter"
+  },
+  {
+   "title": "Yahoo Finance: Verizon beats profit estimates and raises guidance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-beats-third-quarter-profit-134526221.html"
+  },
+  {
+   "title": "The Insurer: The Hartford's core earnings drop 6%",
+   "url": "https://www.theinsurer.com/ti/news/the-hartfords-core-earnings-drop-6-as-business-insurance-combined-ratio-worsens-to-91-3-2026-10-26/"
+  },
+  {
+   "title": "Cincinnati Financial: Third-quarter 2026 results",
+   "url": "https://www.prnewswire.com/news-releases/cincinnati-financial-reports-third-quarter-2026-results-302919728.html"
+  },
+  {
+   "title": "Nucor: Third-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000073309/000119312526432117/d129328dex991.htm"
+  },
+  {
+   "title": "The National: Saudi defence minister leads delegation to Tehran",
+   "url": "https://www.thenationalnews.com/news/2026/10/26/saudi-minister-of-defence-heading-delegation-to-tehran-with-makkah-pact-countries/"
+  },
+  {
+   "title": "The News (Pakistan): Four countries pledge continued dialogue",
+   "url": "https://www.thenews.pk/story/1445225-pakistan-iran-saudi-arabia-turkiye-pledge-continued-dialogue-on-regional-security"
+  },
+  {
+   "title": "Bloomberg: Trump says decision time nears on Iran",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-25/trump-says-decision-time-nears-on-iran-deal-or-finish-it-off"
+  },
+  {
+   "title": "Quartz: Brazil stocks and real post historic losses",
+   "url": "https://qz.com/brazil-stocks-real-historic-losses-lula-win-102626"
+  },
+  {
+   "title": "Al Jazeera: Brazil's real sinks after Lula's re-election",
+   "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory"
+  },
+  {
+   "title": "Washington Times: Kremlin says trilateral summit preparations under way",
+   "url": "https://www.washingtontimes.com/news/2026/oct/26/kremlin-says-preparations-underway-trilateral-summit-putin-trump-xi/"
+  },
+  {
+   "title": "Kyiv Post: Preparations under way for Putin-Trump-Xi summit",
+   "url": "https://www.kyivpost.com/post/88117"
+  },
+  {
+   "title": "OilPrice (Reuters): Iran war pushes Trump's average gasoline prices above Biden's",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html"
+  },
+  {
+   "title": "Fortune: EQT becomes the leading natural gas producer with a $13 billion deal",
+   "url": "https://fortune.com/2026/10/26/eqt-nations-leading-natural-gas-juggernaut-data-center-export-demand-surges"
+  },
+  {
+   "title": "Washington Post (Associated Press): Pakistan, Iran and US talks on Hormuz",
+   "url": "https://washingtonpost.com/world/2026/10/24/pakistan-iran-us-talks-hormuz/c2142ec0-cfc2-11f1-ac04-9f58578a68b4_story.html"
+  },
+  {
+   "title": "Benzinga: Visa and Coca-Cola on deck Tuesday",
+   "url": "https://www.benzinga.com/news/26/10/62602650/visa-coca-cola-on-deck-tuesday-as-payments-growth-global-demand-face-test"
+  }
+ ]
+}

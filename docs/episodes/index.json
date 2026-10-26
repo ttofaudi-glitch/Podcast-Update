@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-27",
+   "title": "Omaha Morning Brief",
+   "dateline": "Tuesday, October 27, 2026",
+   "summary": "Anthropic files to go public, Meta plans to raise up to $95 billion in stock, EQT buys Range Resources, and Brazil's markets fall after Lula wins.",
+   "duration": 308.99,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 26.98
+    },
+    {
+     "heading": "Markets",
+     "start": 75.89
+    },
+    {
+     "heading": "Companies",
+     "start": 107.05
+    },
+    {
+     "heading": "The world",
+     "start": 221.48
+    },
+    {
+     "heading": "Coming up",
+     "start": 279.58
+    }
+   ]
+  },
+  {
    "id": "2026-10-26",
    "title": "Omaha Morning Brief",
    "dateline": "Monday, October 26, 2026",
