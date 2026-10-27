@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-28",
+   "title": "Omaha Morning Brief",
+   "dateline": "Wednesday, October 28, 2026",
+   "summary": "Federal Reserve decision day, consumer confidence jumps, Boeing's 737 ramp slips, Meta prices its stock sale, and Israel's election is deadlocked.",
+   "duration": 291.63,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 24.61
+    },
+    {
+     "heading": "Markets",
+     "start": 75.75
+    },
+    {
+     "heading": "Companies",
+     "start": 102.36
+    },
+    {
+     "heading": "The world",
+     "start": 195.89
+    },
+    {
+     "heading": "Coming up",
+     "start": 266.0
+    }
+   ]
+  },
+  {
    "id": "2026-10-27",
    "title": "Omaha Morning Brief",
    "dateline": "Tuesday, October 27, 2026",

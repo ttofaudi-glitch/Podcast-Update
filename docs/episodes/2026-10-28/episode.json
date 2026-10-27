@@ -1,0 +1,589 @@
+{
+ "id": "2026-10-28",
+ "title": "Omaha Morning Brief",
+ "dateline": "Wednesday, October 28, 2026",
+ "summary": "Federal Reserve decision day, consumer confidence jumps, Boeing's 737 ramp slips, Meta prices its stock sale, and Israel's election is deadlocked.",
+ "duration": 291.63,
+ "audio": "episodes/2026-10-28/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Wednesday, October 28th.",
+      "start": 1.56,
+      "end": 3.8
+     },
+     {
+      "i": 2,
+      "text": "The Federal Reserve decides on rates today, with a hold widely expected.",
+      "start": 4.08,
+      "end": 8.26
+     },
+     {
+      "i": 3,
+      "text": "American consumers turned more confident as gasoline prices eased.",
+      "start": 8.54,
+      "end": 12.81
+     },
+     {
+      "i": 4,
+      "text": "Boeing fell sharply after pushing back its production plans.",
+      "start": 13.09,
+      "end": 16.63
+     },
+     {
+      "i": 5,
+      "text": "And Meta sold $25 billion of stock, part of a plan to raise nearly $100 billion.",
+      "start": 16.91,
+      "end": 23.48
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 24.61,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "The 10-year Treasury yield ended at 4.99%, and three-month Treasury bills pay 4.22%.",
+      "start": 24.61,
+      "end": 31.78
+     },
+     {
+      "i": 7,
+      "text": "The Treasury sold $70 billion of five-year notes at 4.845%, with average demand.",
+      "start": 32.06,
+      "end": 39.14
+     },
+     {
+      "i": 8,
+      "text": "Futures put the odds of a rate increase today at about one in ten, and about three in four for one in December.",
+      "start": 39.42,
+      "end": 45.74
+     },
+     {
+      "i": 9,
+      "text": "The decision comes at 2 a.m.",
+      "start": 46.02,
+      "end": 47.98
+     },
+     {
+      "i": 10,
+      "text": "Thursday, Hong Kong time.",
+      "start": 48.26,
+      "end": 49.92
+     }
+    ],
+    [
+     {
+      "i": 11,
+      "text": "The Conference Board's consumer confidence index jumped to 91.7 in October from 84.2, far above the 81 expected, the highest since June.",
+      "start": 50.2,
+      "end": 61.02
+     },
+     {
+      "i": 12,
+      "text": "The board credited easing gasoline prices.",
+      "start": 61.3,
+      "end": 63.71
+     },
+     {
+      "i": 13,
+      "text": "Consumers still expect inflation of close to 6% over the next year.",
+      "start": 63.99,
+      "end": 68.62
+     },
+     {
+      "i": 14,
+      "text": "Home prices rose 2.1% from a year earlier in August, which is less than inflation.",
+      "start": 68.9,
+      "end": 74.62
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 75.75,
+   "paragraphs": [
+    [
+     {
+      "i": 15,
+      "text": "The S&P 500 rose 0.6% to 7,723, and the Nasdaq rose 1.2%.",
+      "start": 75.75,
+      "end": 84.36
+     },
+     {
+      "i": 16,
+      "text": "The Dow was flat, held back by Boeing.",
+      "start": 84.64,
+      "end": 86.99
+     },
+     {
+      "i": 17,
+      "text": "Chip stocks rose for a second day.",
+      "start": 87.27,
+      "end": 89.21
+     }
+    ],
+    [
+     {
+      "i": 18,
+      "text": "Brent crude settled at $113.88, down 1.7%, as talks in Tehran continued.",
+      "start": 89.49,
+      "end": 97.32
+     },
+     {
+      "i": 19,
+      "text": "West Texas Intermediate fell back below $100.",
+      "start": 97.6,
+      "end": 101.23
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 102.36,
+   "paragraphs": [
+    [
+     {
+      "i": 20,
+      "text": "Boeing's shares fell about 10%, their worst day since 2020.",
+      "start": 102.36,
+      "end": 106.77
+     },
+     {
+      "i": 21,
+      "text": "It lost 34 cents a share on a core basis, more than expected, though free cash flow was positive at $464 million.",
+      "start": 107.05,
+      "end": 115.74
+     },
+     {
+      "i": 22,
+      "text": "Steady production of 47 of its 737 jets a month has slipped into 2027, and its target of $10 billion a year of free cash flow now points to 2029.",
+      "start": 116.02,
+      "end": 129.65
+     },
+     {
+      "i": 23,
+      "text": "Net debt fell to $25.2 billion from $30.4 billion a year ago.",
+      "start": 129.93,
+      "end": 135.73
+     }
+    ],
+    [
+     {
+      "i": 24,
+      "text": "Coca-Cola's organic revenue rose 7%, with unit case volume up 5%.",
+      "start": 136.01,
+      "end": 141.71
+     },
+     {
+      "i": 25,
+      "text": "It raised its full-year outlook for the third quarter in a row, now expecting comparable earnings per share to grow at least 11%.",
+      "start": 141.99,
+      "end": 150.03
+     },
+     {
+      "i": 26,
+      "text": "North American volume was flat, while Latin America grew strongly.",
+      "start": 150.31,
+      "end": 154.3
+     }
+    ],
+    [
+     {
+      "i": 27,
+      "text": "Meta priced $25 billion of common stock at $625 a share, about 3% below Friday's close, and the sale drew about five times as many orders as shares on offer.",
+      "start": 154.58,
+      "end": 167.61
+     },
+     {
+      "i": 28,
+      "text": "It also sold $12.5 billion of preferred stock that will convert into common shares.",
+      "start": 167.89,
+      "end": 174.06
+     },
+     {
+      "i": 29,
+      "text": "Nvidia will invest $3 billion and AMD $1 billion.",
+      "start": 174.34,
+      "end": 178.99
+     }
+    ],
+    [
+     {
+      "i": 30,
+      "text": "After the close, Visa's revenue rose 13% to $12.1 billion and cross-border volume grew 14%.",
+      "start": 179.27,
+      "end": 187.38
+     },
+     {
+      "i": 31,
+      "text": "It expects slower earnings growth next year, and the shares fell about 2% after hours.",
+      "start": 187.66,
+      "end": 192.73
+     },
+     {
+      "i": 32,
+      "text": "UPS raised its outlook.",
+      "start": 193.01,
+      "end": 194.76
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 195.89,
+   "paragraphs": [
+    [
+     {
+      "i": 33,
+      "text": "The Houthis said they hit Saudi Arabia's Ras Tanura refinery and export terminal with a missile.",
+      "start": 195.89,
+      "end": 202.08
+     },
+     {
+      "i": 34,
+      "text": "Saudi Arabia says it intercepted missiles, and a fire near the terminal was contained.",
+      "start": 202.36,
+      "end": 207.61
+     },
+     {
+      "i": 35,
+      "text": "Damage is not confirmed.",
+      "start": 207.89,
+      "end": 209.42
+     },
+     {
+      "i": 36,
+      "text": "Iran's leaders say the war ends only when their conditions are met, starting with an end to the American blockade.",
+      "start": 209.7,
+      "end": 216.21
+     }
+    ],
+    [
+     {
+      "i": 37,
+      "text": "Israel held an election on Tuesday.",
+      "start": 216.49,
+      "end": 218.52
+     },
+     {
+      "i": 38,
+      "text": "Exit polls show neither Prime Minister Netanyahu's bloc nor Gadi Eisenkot's opposition bloc with a majority, so coalition talks could take weeks.",
+      "start": 218.8,
+      "end": 228.38
+     }
+    ],
+    [
+     {
+      "i": 39,
+      "text": "China's industrial profits rose 14.4% from a year earlier in September, led by electronics tied to artificial intelligence and by mining.",
+      "start": 228.66,
+      "end": 238.9
+     },
+     {
+      "i": 40,
+      "text": "Other industries are squeezed by weak demand at home.",
+      "start": 239.18,
+      "end": 242.18
+     }
+    ],
+    [
+     {
+      "i": 41,
+      "text": "A correction: on Tuesday we said Brazil's stock index fell about 15% after President Lula's re-election.",
+      "start": 242.46,
+      "end": 249.7
+     },
+     {
+      "i": 42,
+      "text": "It fell more than 15% during the day but closed down 13.9%.",
+      "start": 249.98,
+      "end": 254.86
+     },
+     {
+      "i": 43,
+      "text": "On Tuesday it slipped another half percent, and the real firmed.",
+      "start": 255.14,
+      "end": 258.64
+     }
+    ],
+    [
+     {
+      "i": 44,
+      "text": "Britain presents its budget today, with markets watching whether it rebuilds room under its borrowing rules.",
+      "start": 258.92,
+      "end": 264.87
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 266.0,
+   "paragraphs": [
+    [
+     {
+      "i": 45,
+      "text": "Today, the Federal Reserve and the Bank of Canada decide, Britain presents its budget, and Microsoft and Alphabet report after the close.",
+      "start": 266.0,
+      "end": 274.39
+     },
+     {
+      "i": 46,
+      "text": "Thursday brings third-quarter gross domestic product, September inflation, the European Central Bank, and Amazon, Intel, Caterpillar and Mastercard.",
+      "start": 274.67,
+      "end": 284.42
+     },
+     {
+      "i": 47,
+      "text": "The Bank of Japan decides on Friday, and Exxon and Chevron report.",
+      "start": 284.7,
+      "end": 288.92
+     },
+     {
+      "i": 48,
+      "text": "That is the briefing.",
+      "start": 289.2,
+      "end": 290.35
+     },
+     {
+      "i": 49,
+      "text": "Have a good day.",
+      "start": 290.63,
+      "end": 291.63
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,377.57",
+   "change": "+0.03%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,722.60",
+   "change": "+0.60%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,477.81",
+   "change": "+1.18%",
+   "dir": "up"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "4.99%",
+   "change": "(0.01)",
+   "dir": "down"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.70%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.22%",
+   "change": "0.00",
+   "dir": "flat"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.30%",
+   "change": "(0.01)",
+   "dir": "down"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$113.88",
+   "change": "(1.67%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, December",
+   "value": "≈$99.90",
+   "change": "(1.8%)",
+   "dir": "down"
+  },
+  {
+   "label": "Consumer confidence (Conference Board, October)",
+   "value": "91.7",
+   "change": "from 84.2",
+   "dir": "up"
+  },
+  {
+   "label": "Brazil Bovespa, Monday close",
+   "value": "176,608",
+   "change": "(13.9%)",
+   "dir": "down"
+  }
+ ],
+ "numbers_note": "Closing levels for Tuesday, October 27, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Yahoo Finance: Stock market today, October 27",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-135043351.html"
+  },
+  {
+   "title": "TheStreet: Stock market today, October 27, 2026",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+  },
+  {
+   "title": "Investing.com: US stocks higher at close of trade",
+   "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-003-4976864"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "RTTNews: Five-year note auction attracts average demand",
+   "url": "https://www.rttnews.com/3703693/five-year-note-auction-attracts-average-demand.aspx"
+  },
+  {
+   "title": "Newsquawk: US sells $70 billion of 5-year notes",
+   "url": "https://www.newsquawk.com/headlines/us-sells-usd-70bln-of-5-year-notes-tail-04bps"
+  },
+  {
+   "title": "CBS News: Federal Reserve October meeting",
+   "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/"
+  },
+  {
+   "title": "Forbes: Markets predict over 90% odds the Fed holds",
+   "url": "https://www.forbes.com/sites/digital-assets/2026/10/27/markets-predict-over-90-odds-fed-will-leave-rates-unchanged-this-month/"
+  },
+  {
+   "title": "Conference Board: US consumer confidence increased in October",
+   "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
+  },
+  {
+   "title": "Reuters via Investing.com: US consumer confidence improves",
+   "url": "https://investing.com/news/economic-indicators/us-consumer-confidence-improves-in-october-4976114"
+  },
+  {
+   "title": "CFO Dive: Consumer confidence edges up on lower gas prices",
+   "url": "https://www.cfodive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/872949/"
+  },
+  {
+   "title": "S&P Cotality Case-Shiller: Annual gain in August 2026",
+   "url": "https://www.prnewswire.com/news-releases/sp-cotality-case-shiller-index-reports-annual-gain-in-august-2026-302920916.html"
+  },
+  {
+   "title": "Rigzone: Oil slips as Iran diplomacy picks up",
+   "url": "https://www.rigzone.com/news/oil_slips_as_iran_diplomacy_picks_up-27-oct-2026-184947-article"
+  },
+  {
+   "title": "Boeing: Third-quarter 2026 results",
+   "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-Third-Quarter-Results/default.aspx"
+  },
+  {
+   "title": "Yahoo Finance: Boeing has its worst day since 2020",
+   "url": "https://finance.yahoo.com/markets/article/boeing-stock-heads-for-its-worst-day-since-april-2025-as-the-737-ramp-slips-into-2027-191207233.html"
+  },
+  {
+   "title": "CNBC: Boeing third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html"
+  },
+  {
+   "title": "Coca-Cola: Third-quarter 2026 results",
+   "url": "https://investors.coca-colacompany.com/news-events/press-releases/detail/1176/coca-cola-reports-third-quarter-2026-results-and-raises-full-year-guidance"
+  },
+  {
+   "title": "CNBC: Coca-Cola third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html"
+  },
+  {
+   "title": "Meta: Pricing of common and mandatory convertible preferred offerings",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx"
+  },
+  {
+   "title": "Quartz: Meta's $25 billion offering draws five times demand",
+   "url": "https://qz.com/meta-25-billion-stock-offering-demand-five-times-102726"
+  },
+  {
+   "title": "CNBC: Nvidia to invest in Meta",
+   "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html"
+  },
+  {
+   "title": "Visa: Fiscal fourth-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001403161/000140316126000126/q42026earningsrelease.htm"
+  },
+  {
+   "title": "Investing.com: Visa shares fall on 2027 outlook",
+   "url": "https://www.investing.com/news/earnings/visa-q4-revenue-rises-13-as-payment-volumes-remain-strong-4976751"
+  },
+  {
+   "title": "CNBC: UPS third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html"
+  },
+  {
+   "title": "Anadolu: Houthis claim missile attack on Ras Tanura",
+   "url": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-claim-missile-attack-on-saudi-arabia-s-ras-tanura-oil-refinery/4102578"
+  },
+  {
+   "title": "KSL (Reuters): Houthis say they hit Ras Tanura refinery",
+   "url": "https://www.ksl.com/article/51641527/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-with-missile"
+  },
+  {
+   "title": "Middle East Monitor: Iran's Supreme Leader calls for meeting Tehran's conditions",
+   "url": "https://www.middleeastmonitor.com/20261027-irans-supreme-leader-calls-for-meeting-tehrans-conditions-to-end-war"
+  },
+  {
+   "title": "CNN: Israel election live results",
+   "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+  },
+  {
+   "title": "NBC News: Exit polls indicate no clear winner in Israeli election",
+   "url": "https://www.nbcnews.com/world/israel/live-blog/israel-election-live-updates-netanyahu-eisenkot-voters-war-iran-gaza-rcna604979"
+  },
+  {
+   "title": "CNBC: China industrial profits, September",
+   "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
+  },
+  {
+   "title": "Investing.com: Bovespa down 13.88% at close",
+   "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-1388-4973624"
+  },
+  {
+   "title": "InfoMoney: Ibovespa modest fall on Tuesday",
+   "url": "https://www.infomoney.com.br/mercados/ibovespa-tem-queda-modesta-em-dia-de-acomodacao-apos-tombo-incertezas-persistem/"
+  },
+  {
+   "title": "CNBC: UK budget and the bond market",
+   "url": "https://www.cnbc.com/2026/10/27/uk-budget-2026-john-healey-bond-market.html"
+  },
+  {
+   "title": "StockTitan: Earnings calendar, week of October 26",
+   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
+  }
+ ]
+}
