@@ -26,7 +26,7 @@ Coca-Cola's organic revenue rose 7%, with unit case volume up 5%. It raised its 
 
 Meta priced $25 billion of common stock at $625 a share, about 3% below Friday's close, and the sale drew about five times as many orders as shares on offer. It also sold $12.5 billion of preferred stock that will convert into common shares. Nvidia will invest $3 billion and AMD $1 billion.
 
-After the close, Visa's revenue rose 13% to $12.1 billion and cross-border volume grew 14%. It expects slower earnings growth next year, and the shares fell about 2% after hours. UPS raised its outlook.
+UPS raised its full-year outlook on Tuesday morning. After the close, Visa's revenue rose 13% to $12.1 billion and cross-border volume grew 14%. It expects slower earnings growth next year, and the shares fell about 2% after hours.
 
 ## The world
 

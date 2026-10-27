@@ -3,7 +3,7 @@
  "title": "Omaha Morning Brief",
  "dateline": "Wednesday, October 28, 2026",
  "summary": "Federal Reserve decision day, consumer confidence jumps, Boeing's 737 ramp slips, Meta prices its stock sale, and Israel's election is deadlocked.",
- "duration": 291.63,
+ "duration": 293.21,
  "audio": "episodes/2026-10-28/briefing.mp3",
  "sections": [
   {
@@ -227,147 +227,147 @@
     [
      {
       "i": 30,
-      "text": "After the close, Visa's revenue rose 13% to $12.1 billion and cross-border volume grew 14%.",
+      "text": "UPS raised its full-year outlook on Tuesday morning.",
       "start": 179.27,
-      "end": 187.38
+      "end": 182.6
      },
      {
       "i": 31,
-      "text": "It expects slower earnings growth next year, and the shares fell about 2% after hours.",
-      "start": 187.66,
-      "end": 192.73
+      "text": "After the close, Visa's revenue rose 13% to $12.1 billion and cross-border volume grew 14%.",
+      "start": 182.88,
+      "end": 190.98
      },
      {
       "i": 32,
-      "text": "UPS raised its outlook.",
-      "start": 193.01,
-      "end": 194.76
+      "text": "It expects slower earnings growth next year, and the shares fell about 2% after hours.",
+      "start": 191.26,
+      "end": 196.34
      }
     ]
    ]
   },
   {
    "heading": "The world",
-   "start": 195.89,
+   "start": 197.47,
    "paragraphs": [
     [
      {
       "i": 33,
       "text": "The Houthis said they hit Saudi Arabia's Ras Tanura refinery and export terminal with a missile.",
-      "start": 195.89,
-      "end": 202.08
+      "start": 197.47,
+      "end": 203.66
      },
      {
       "i": 34,
       "text": "Saudi Arabia says it intercepted missiles, and a fire near the terminal was contained.",
-      "start": 202.36,
-      "end": 207.61
+      "start": 203.94,
+      "end": 209.19
      },
      {
       "i": 35,
       "text": "Damage is not confirmed.",
-      "start": 207.89,
-      "end": 209.42
+      "start": 209.47,
+      "end": 211.0
      },
      {
       "i": 36,
       "text": "Iran's leaders say the war ends only when their conditions are met, starting with an end to the American blockade.",
-      "start": 209.7,
-      "end": 216.21
+      "start": 211.28,
+      "end": 217.79
      }
     ],
     [
      {
       "i": 37,
       "text": "Israel held an election on Tuesday.",
-      "start": 216.49,
-      "end": 218.52
+      "start": 218.07,
+      "end": 220.1
      },
      {
       "i": 38,
       "text": "Exit polls show neither Prime Minister Netanyahu's bloc nor Gadi Eisenkot's opposition bloc with a majority, so coalition talks could take weeks.",
-      "start": 218.8,
-      "end": 228.38
+      "start": 220.38,
+      "end": 229.95
      }
     ],
     [
      {
       "i": 39,
       "text": "China's industrial profits rose 14.4% from a year earlier in September, led by electronics tied to artificial intelligence and by mining.",
-      "start": 228.66,
-      "end": 238.9
+      "start": 230.23,
+      "end": 240.47
      },
      {
       "i": 40,
       "text": "Other industries are squeezed by weak demand at home.",
-      "start": 239.18,
-      "end": 242.18
+      "start": 240.75,
+      "end": 243.76
      }
     ],
     [
      {
       "i": 41,
       "text": "A correction: on Tuesday we said Brazil's stock index fell about 15% after President Lula's re-election.",
-      "start": 242.46,
-      "end": 249.7
+      "start": 244.04,
+      "end": 251.27
      },
      {
       "i": 42,
       "text": "It fell more than 15% during the day but closed down 13.9%.",
-      "start": 249.98,
-      "end": 254.86
+      "start": 251.55,
+      "end": 256.44
      },
      {
       "i": 43,
       "text": "On Tuesday it slipped another half percent, and the real firmed.",
-      "start": 255.14,
-      "end": 258.64
+      "start": 256.72,
+      "end": 260.22
      }
     ],
     [
      {
       "i": 44,
       "text": "Britain presents its budget today, with markets watching whether it rebuilds room under its borrowing rules.",
-      "start": 258.92,
-      "end": 264.87
+      "start": 260.5,
+      "end": 266.45
      }
     ]
    ]
   },
   {
    "heading": "Coming up",
-   "start": 266.0,
+   "start": 267.58,
    "paragraphs": [
     [
      {
       "i": 45,
       "text": "Today, the Federal Reserve and the Bank of Canada decide, Britain presents its budget, and Microsoft and Alphabet report after the close.",
-      "start": 266.0,
-      "end": 274.39
+      "start": 267.58,
+      "end": 275.96
      },
      {
       "i": 46,
       "text": "Thursday brings third-quarter gross domestic product, September inflation, the European Central Bank, and Amazon, Intel, Caterpillar and Mastercard.",
-      "start": 274.67,
-      "end": 284.42
+      "start": 276.24,
+      "end": 285.99
      },
      {
       "i": 47,
       "text": "The Bank of Japan decides on Friday, and Exxon and Chevron report.",
-      "start": 284.7,
-      "end": 288.92
+      "start": 286.27,
+      "end": 290.5
      },
      {
       "i": 48,
       "text": "That is the briefing.",
-      "start": 289.2,
-      "end": 290.35
+      "start": 290.78,
+      "end": 291.93
      },
      {
       "i": 49,
       "text": "Have a good day.",
-      "start": 290.63,
-      "end": 291.63
+      "start": 292.21,
+      "end": 293.21
      }
     ]
    ]
