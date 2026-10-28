@@ -1,0 +1,79 @@
+# Omaha Morning Brief
+
+_Thursday, October 29, 2026_
+
+## The short version
+
+Good morning, Warren. It is Thursday, October 29th. The Federal Reserve held rates, but two officials voted for an increase. Canada's central bank did raise rates. Microsoft beat forecasts and rose after hours, while Alphabet missed and fell. And the United States reportedly told Gulf allies to prepare for renewed strikes on Iran after next week's election.
+
+## Rates and inflation
+
+The Federal Reserve kept its rate between 3.75% and 4%, by a vote of 10 to 2. Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a quarter-point increase. The statement said inflation remains elevated. Chair Kevin Warsh said, quote, we will deliver price stability, no ifs, ands or buts. He gave no signal for December, saying he does not believe in forward guidance outside a crisis. Futures now put the odds of a December increase at roughly four in five.
+
+The 10-year Treasury yield rose to 5.05%, while three-month Treasury bills fell to 4.18%.
+
+The Bank of Canada raised its rate by a quarter point to 2.5%, its first increase in three years, citing high energy prices that could spread to other prices.
+
+## Markets
+
+The S&P 500 rose 0.3% to 7,744, its third gain in a row, and about 1% below its record from early October. The Dow and Nasdaq each rose about 0.2 to 0.3%.
+
+Brent crude rose 1.3% to $115.32, and West Texas Intermediate rose 2.9% to $102.78. The Wall Street Journal reported that Washington told several Gulf states to prepare for a short but intense campaign against Iran after the November 3 midterms. President Trump has not made a final decision.
+
+## Companies
+
+Microsoft's revenue rose 19% to $92.3 billion, above forecasts. Azure, its cloud business, grew 48%, faster than expected. Capital spending, including leases, was $45.2 billion, below what analysts expected, but free cash flow still fell 27%. The shares rose about 4% after hours.
+
+Alphabet's revenue rose 25% to $127.6 billion, and Google Cloud more than doubled to $30.7 billion with a much higher profit margin. But earnings missed forecasts, search revenue fell short, and capital spending hit a record $51.4 billion. Free cash flow was negative $9.1 billion. Alphabet said spending will rise significantly next year. The shares fell about 10% after hours.
+
+Oracle rose 11% after its investor day. It targets at least $225 billion of revenue by fiscal 2030, positive free cash flow from the second half of fiscal 2028, and a cap of $20 billion on new outside capital.
+
+GE Vernova's orders nearly doubled to $29 billion, and its backlog reached $197 billion. It raised its outlook, doubled its buyback authorization to $20 billion and agreed to buy Trench Group, a grid equipment maker, for $9 billion.
+
+In insurance, Everest Group's catastrophe losses rose to $322 million from $50 million a year ago, from a Colombian earthquake, Middle East events and weather.
+
+## The world
+
+Britain's budget passed with little market reaction. The budget office cut the government's cushion under its borrowing rules to £15 billion from £23.6 billion, mainly because of higher energy prices. Banks will pay a higher surcharge on profits for 15 months, and the money helps fund energy bill support. The 10-year government bond yield eased slightly.
+
+In Israel, with nearly all votes counted, Prime Minister Netanyahu's bloc has about 53 seats and Gadi Eisenkot's about 48, so neither side has the 61 needed to govern. That reverses the order in the exit polls we reported yesterday. Eisenkot has ruled out serving under Netanyahu, and another election is possible.
+
+The Houthis claimed a missile strike on Saudi Arabia's Ras Tanura refinery on Tuesday. Saudi Arabia has not confirmed damage.
+
+## Coming up
+
+Today brings the first estimate of third-quarter gross domestic product, expected at about 3%, and September inflation, both before the New York open. The European Central Bank decides, with no change expected. Caterpillar, Eli Lilly, Merck and Mastercard report in the morning, and Amazon, Intel and Starbucks after the close. The Bank of Japan decides on Friday, and Exxon and Chevron report. That is the briefing. Have a good day.
+
+## Sources
+
+- [Federal Reserve: Statement, October 28, 2026](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
+- [CNBC: Fed holds rates steady](https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html)
+- [Fortune: Fed holds rates steady days before the midterms](https://fortune.com/2026/10/28/fed-rates-steady-midterms-october-3-75-to-4-percent-cook-hammack-dissent/)
+- [Yahoo Finance: Fed meeting live updates](https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html)
+- [Yahoo Finance: Stock market today, October 28](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html)
+- [CNBC: S&P 500 and Dow rise for a third day](https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html)
+- [RTTNews: US stocks close modestly higher after Fed](https://www.rttnews.com/3704581/u-s-stocks-close-modestly-higher-following-fed-announcement.aspx)
+- [United States Treasury: Daily Treasury par yield curve rates](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026)
+- [Bank of Canada: Policy rate raised to 2.5%](https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/)
+- [Al Jazeera: Bank of Canada raises rates for first time in three years](https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years)
+- [CNBC: Oil prices rise on reported US warning to Gulf states](https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html)
+- [The National: Oil prices up on Houthi strikes and US threat](https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/)
+- [CNBC: Microsoft fiscal first-quarter 2027 results](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html)
+- [Phemex: Microsoft revenue $92.3 billion, Azure up 48%](https://phemex.com/news/article/microsoft-q1-fy2027-revenue-hits-923b-as-azure-grows-48-yoy-101615)
+- [Alphabet: Third-quarter 2026 results (Form 8-K)](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm)
+- [CNBC: Alphabet third-quarter 2026 earnings](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html)
+- [Fortune: Google Cloud revenue doubles as cash flow stays negative](https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/)
+- [CNBC: Oracle stock pops 11% on long-term forecast](https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html)
+- [StreetInsider: Oracle sets $225 billion revenue target](https://www.streetinsider.com/Corporate+News/Oracle+sets+%24225+billion+revenue+target+for+FY30+at+investor+day/27248381.html)
+- [GE Vernova: Third-quarter 2026 results (Form 8-K)](https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm)
+- [Yahoo Finance: GE Vernova beats, raises guidance and buys Trench Group](https://finance.yahoo.com/markets/stocks/articles/ge-vernova-beats-raises-guidance-131326911.html)
+- [Everest Group: Third-quarter 2026 results](https://www.financialcontent.com/article/bizwire-2026-10-28-everest-reports-third-quarter-2026-results)
+- [Commercial Risk: Everest profit slips as Iran-related catastrophe losses rise](https://www.commercialriskonline.com/everest-profit-slips-as-iran-related-catastrophe-losses-rise/)
+- [CNBC: UK budget cuts energy bills, taxes banks](https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html)
+- [Portfolio Adviser: Key takeaways from Healey's budget](https://portfolio-adviser.com/autumn-budget-2026-key-takeaways-from-healeys-budget/)
+- [MarketScreener: Gilt yields ease in muted reaction to budget](https://www.marketscreener.com/news/gilt-yields-ease-sterling-falls-slightly-in-muted-reaction-to-u-k-budget-update-ce785cd2de8ff526)
+- [Ynet: Netanyahu bloc at 53 seats, Eisenkot bloc at 48](https://www.ynetnews.com/article/hjnatbkaml)
+- [Jerusalem Post: Israel election results](https://www.jpost.com/israel-election-2026/article-913122)
+- [Marine Insight: Houthis claim strike on Saudi oil export hub](https://www.marineinsight.com/houthis-claim-missile-strike-on-saudi-arabias-major-oil-export-hub/)
+- [Morningstar: September PCE expected to show rising inflation](https://www.morningstar.com/economy/september-pce-expected-show-rising-inflation)
+- [Caterpillar: Third-quarter 2026 results on October 29](https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-announce-3Q-2026-financial-results-on-oct-29.html)

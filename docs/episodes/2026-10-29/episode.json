@@ -1,0 +1,559 @@
+{
+ "id": "2026-10-29",
+ "title": "Omaha Morning Brief",
+ "dateline": "Thursday, October 29, 2026",
+ "summary": "The Federal Reserve holds with two dissents for a hike, Canada raises rates, Microsoft beats while Alphabet falls, and Britain's budget passes quietly.",
+ "duration": 304.83,
+ "audio": "episodes/2026-10-29/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Thursday, October 29th.",
+      "start": 1.56,
+      "end": 3.74
+     },
+     {
+      "i": 2,
+      "text": "The Federal Reserve held rates, but two officials voted for an increase.",
+      "start": 4.02,
+      "end": 8.03
+     },
+     {
+      "i": 3,
+      "text": "Canada's central bank did raise rates.",
+      "start": 8.31,
+      "end": 10.57
+     },
+     {
+      "i": 4,
+      "text": "Microsoft beat forecasts and rose after hours, while Alphabet missed and fell.",
+      "start": 10.85,
+      "end": 15.58
+     },
+     {
+      "i": 5,
+      "text": "And the United States reportedly told Gulf allies to prepare for renewed strikes on Iran after next week's election.",
+      "start": 15.86,
+      "end": 23.18
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 24.31,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "The Federal Reserve kept its rate between 3.75% and 4%, by a vote of 10 to 2.",
+      "start": 24.31,
+      "end": 30.8
+     },
+     {
+      "i": 7,
+      "text": "Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a quarter-point increase.",
+      "start": 31.08,
+      "end": 36.39
+     },
+     {
+      "i": 8,
+      "text": "The statement said inflation remains elevated.",
+      "start": 36.67,
+      "end": 39.4
+     },
+     {
+      "i": 9,
+      "text": "Chair Kevin Warsh said, quote, we will deliver price stability, no ifs, ands or buts.",
+      "start": 39.68,
+      "end": 44.74
+     },
+     {
+      "i": 10,
+      "text": "He gave no signal for December, saying he does not believe in forward guidance outside a crisis.",
+      "start": 45.02,
+      "end": 50.88
+     },
+     {
+      "i": 11,
+      "text": "Futures now put the odds of a December increase at roughly four in five.",
+      "start": 51.16,
+      "end": 55.19
+     }
+    ],
+    [
+     {
+      "i": 12,
+      "text": "The 10-year Treasury yield rose to 5.05%, while three-month Treasury bills fell to 4.18%.",
+      "start": 55.47,
+      "end": 63.24
+     }
+    ],
+    [
+     {
+      "i": 13,
+      "text": "The Bank of Canada raised its rate by a quarter point to 2.5%, its first increase in three years, citing high energy prices that could spread to other prices.",
+      "start": 63.52,
+      "end": 74.08
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 75.21,
+   "paragraphs": [
+    [
+     {
+      "i": 14,
+      "text": "The S&P 500 rose 0.3% to 7,744, its third gain in a row, and about 1% below its record from early October.",
+      "start": 75.21,
+      "end": 86.81
+     },
+     {
+      "i": 15,
+      "text": "The Dow and Nasdaq each rose about 0.2 to 0.3%.",
+      "start": 87.09,
+      "end": 91.79
+     }
+    ],
+    [
+     {
+      "i": 16,
+      "text": "Brent crude rose 1.3% to $115.32, and West Texas Intermediate rose 2.9% to $102.78.",
+      "start": 92.07,
+      "end": 103.74
+     },
+     {
+      "i": 17,
+      "text": "The Wall Street Journal reported that Washington told several Gulf states to prepare for a short but intense campaign against Iran after the November 3 midterms.",
+      "start": 104.02,
+      "end": 113.81
+     },
+     {
+      "i": 18,
+      "text": "President Trump has not made a final decision.",
+      "start": 114.09,
+      "end": 116.71
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 117.84,
+   "paragraphs": [
+    [
+     {
+      "i": 19,
+      "text": "Microsoft's revenue rose 19% to $92.3 billion, above forecasts.",
+      "start": 117.84,
+      "end": 124.07
+     },
+     {
+      "i": 20,
+      "text": "Azure, its cloud business, grew 48%, faster than expected.",
+      "start": 124.35,
+      "end": 128.64
+     },
+     {
+      "i": 21,
+      "text": "Capital spending, including leases, was $45.2 billion, below what analysts expected, but free cash flow still fell 27%.",
+      "start": 128.92,
+      "end": 139.05
+     },
+     {
+      "i": 22,
+      "text": "The shares rose about 4% after hours.",
+      "start": 139.33,
+      "end": 141.87
+     }
+    ],
+    [
+     {
+      "i": 23,
+      "text": "Alphabet's revenue rose 25% to $127.6 billion, and Google Cloud more than doubled to $30.7 billion with a much higher profit margin.",
+      "start": 142.15,
+      "end": 154.16
+     },
+     {
+      "i": 24,
+      "text": "But earnings missed forecasts, search revenue fell short, and capital spending hit a record $51.4 billion.",
+      "start": 154.44,
+      "end": 161.89
+     },
+     {
+      "i": 25,
+      "text": "Free cash flow was negative $9.1 billion.",
+      "start": 162.17,
+      "end": 165.56
+     },
+     {
+      "i": 26,
+      "text": "Alphabet said spending will rise significantly next year.",
+      "start": 165.84,
+      "end": 169.25
+     },
+     {
+      "i": 27,
+      "text": "The shares fell about 10% after hours.",
+      "start": 169.53,
+      "end": 171.9
+     }
+    ],
+    [
+     {
+      "i": 28,
+      "text": "Oracle rose 11% after its investor day.",
+      "start": 172.18,
+      "end": 175.34
+     },
+     {
+      "i": 29,
+      "text": "It targets at least $225 billion of revenue by fiscal 2030, positive free cash flow from the second half of fiscal 2028, and a cap of $20 billion on new outside capital.",
+      "start": 175.62,
+      "end": 189.72
+     }
+    ],
+    [
+     {
+      "i": 30,
+      "text": "GE Vernova's orders nearly doubled to $29 billion, and its backlog reached $197 billion.",
+      "start": 190.0,
+      "end": 198.32
+     },
+     {
+      "i": 31,
+      "text": "It raised its outlook, doubled its buyback authorization to $20 billion and agreed to buy Trench Group, a grid equipment maker, for $9 billion.",
+      "start": 198.6,
+      "end": 208.39
+     }
+    ],
+    [
+     {
+      "i": 32,
+      "text": "In insurance, Everest Group's catastrophe losses rose to $322 million from $50 million a year ago, from a Colombian earthquake, Middle East events and weather.",
+      "start": 208.67,
+      "end": 220.34
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 221.47,
+   "paragraphs": [
+    [
+     {
+      "i": 33,
+      "text": "Britain's budget passed with little market reaction.",
+      "start": 221.47,
+      "end": 224.22
+     },
+     {
+      "i": 34,
+      "text": "The budget office cut the government's cushion under its borrowing rules to £15 billion from £23.6 billion, mainly because of higher energy prices.",
+      "start": 224.5,
+      "end": 235.11
+     },
+     {
+      "i": 35,
+      "text": "Banks will pay a higher surcharge on profits for 15 months, and the money helps fund energy bill support.",
+      "start": 235.39,
+      "end": 241.36
+     },
+     {
+      "i": 36,
+      "text": "The 10-year government bond yield eased slightly.",
+      "start": 241.64,
+      "end": 244.2
+     }
+    ],
+    [
+     {
+      "i": 37,
+      "text": "In Israel, with nearly all votes counted, Prime Minister Netanyahu's bloc has about 53 seats and Gadi Eisenkot's about 48, so neither side has the 61 needed to govern.",
+      "start": 244.48,
+      "end": 256.6
+     },
+     {
+      "i": 38,
+      "text": "That reverses the order in the exit polls we reported yesterday.",
+      "start": 256.88,
+      "end": 260.72
+     },
+     {
+      "i": 39,
+      "text": "Eisenkot has ruled out serving under Netanyahu, and another election is possible.",
+      "start": 261.0,
+      "end": 266.07
+     }
+    ],
+    [
+     {
+      "i": 40,
+      "text": "The Houthis claimed a missile strike on Saudi Arabia's Ras Tanura refinery on Tuesday.",
+      "start": 266.35,
+      "end": 272.18
+     },
+     {
+      "i": 41,
+      "text": "Saudi Arabia has not confirmed damage.",
+      "start": 272.46,
+      "end": 274.95
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 276.08,
+   "paragraphs": [
+    [
+     {
+      "i": 42,
+      "text": "Today brings the first estimate of third-quarter gross domestic product, expected at about 3%, and September inflation, both before the New York open.",
+      "start": 276.08,
+      "end": 286.3
+     },
+     {
+      "i": 43,
+      "text": "The European Central Bank decides, with no change expected.",
+      "start": 286.58,
+      "end": 290.25
+     },
+     {
+      "i": 44,
+      "text": "Caterpillar, Eli Lilly, Merck and Mastercard report in the morning, and Amazon, Intel and Starbucks after the close.",
+      "start": 290.53,
+      "end": 297.62
+     },
+     {
+      "i": 45,
+      "text": "The Bank of Japan decides on Friday, and Exxon and Chevron report.",
+      "start": 297.9,
+      "end": 302.12
+     },
+     {
+      "i": 46,
+      "text": "That is the briefing.",
+      "start": 302.4,
+      "end": 303.55
+     },
+     {
+      "i": 47,
+      "text": "Have a good day.",
+      "start": 303.83,
+      "end": 304.83
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,475.10",
+   "change": "+0.19%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,743.98",
+   "change": "+0.28%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "26,549.85",
+   "change": "+0.27%",
+   "dir": "up"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.05%",
+   "change": "+0.06",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.67%",
+   "change": "(0.03)",
+   "dir": "down"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.18%",
+   "change": "(0.04)",
+   "dir": "down"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.37%",
+   "change": "+0.07",
+   "dir": "up"
+  },
+  {
+   "label": "Federal funds target",
+   "value": "3.75–4.00%",
+   "change": "unchanged",
+   "dir": "flat"
+  },
+  {
+   "label": "Bank of Canada policy rate",
+   "value": "2.50%",
+   "change": "+0.25",
+   "dir": "up"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$115.32",
+   "change": "+1.3%",
+   "dir": "up"
+  },
+  {
+   "label": "West Texas Intermediate, December",
+   "value": "$102.78",
+   "change": "+2.9%",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Wednesday, October 28, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Federal Reserve: Statement, October 28, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+  },
+  {
+   "title": "CNBC: Fed holds rates steady",
+   "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+  },
+  {
+   "title": "Fortune: Fed holds rates steady days before the midterms",
+   "url": "https://fortune.com/2026/10/28/fed-rates-steady-midterms-october-3-75-to-4-percent-cook-hammack-dissent/"
+  },
+  {
+   "title": "Yahoo Finance: Fed meeting live updates",
+   "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html"
+  },
+  {
+   "title": "Yahoo Finance: Stock market today, October 28",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html"
+  },
+  {
+   "title": "CNBC: S&P 500 and Dow rise for a third day",
+   "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "RTTNews: US stocks close modestly higher after Fed",
+   "url": "https://www.rttnews.com/3704581/u-s-stocks-close-modestly-higher-following-fed-announcement.aspx"
+  },
+  {
+   "title": "United States Treasury: Daily Treasury par yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "title": "Bank of Canada: Policy rate raised to 2.5%",
+   "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+  },
+  {
+   "title": "Al Jazeera: Bank of Canada raises rates for first time in three years",
+   "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years"
+  },
+  {
+   "title": "CNBC: Oil prices rise on reported US warning to Gulf states",
+   "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html"
+  },
+  {
+   "title": "The National: Oil prices up on Houthi strikes and US threat",
+   "url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/"
+  },
+  {
+   "title": "CNBC: Microsoft fiscal first-quarter 2027 results",
+   "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+  },
+  {
+   "title": "Phemex: Microsoft revenue $92.3 billion, Azure up 48%",
+   "url": "https://phemex.com/news/article/microsoft-q1-fy2027-revenue-hits-923b-as-azure-grows-48-yoy-101615"
+  },
+  {
+   "title": "Alphabet: Third-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm"
+  },
+  {
+   "title": "CNBC: Alphabet third-quarter 2026 earnings",
+   "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+  },
+  {
+   "title": "Fortune: Google Cloud revenue doubles as cash flow stays negative",
+   "url": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/"
+  },
+  {
+   "title": "CNBC: Oracle stock pops 11% on long-term forecast",
+   "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html"
+  },
+  {
+   "title": "StreetInsider: Oracle sets $225 billion revenue target",
+   "url": "https://www.streetinsider.com/Corporate+News/Oracle+sets+%24225+billion+revenue+target+for+FY30+at+investor+day/27248381.html"
+  },
+  {
+   "title": "GE Vernova: Third-quarter 2026 results (Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
+  },
+  {
+   "title": "Yahoo Finance: GE Vernova beats, raises guidance and buys Trench Group",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-beats-raises-guidance-131326911.html"
+  },
+  {
+   "title": "Everest Group: Third-quarter 2026 results",
+   "url": "https://www.financialcontent.com/article/bizwire-2026-10-28-everest-reports-third-quarter-2026-results"
+  },
+  {
+   "title": "Commercial Risk: Everest profit slips as Iran-related catastrophe losses rise",
+   "url": "https://www.commercialriskonline.com/everest-profit-slips-as-iran-related-catastrophe-losses-rise/"
+  },
+  {
+   "title": "CNBC: UK budget cuts energy bills, taxes banks",
+   "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html"
+  },
+  {
+   "title": "Portfolio Adviser: Key takeaways from Healey's budget",
+   "url": "https://portfolio-adviser.com/autumn-budget-2026-key-takeaways-from-healeys-budget/"
+  },
+  {
+   "title": "MarketScreener: Gilt yields ease in muted reaction to budget",
+   "url": "https://www.marketscreener.com/news/gilt-yields-ease-sterling-falls-slightly-in-muted-reaction-to-u-k-budget-update-ce785cd2de8ff526"
+  },
+  {
+   "title": "Ynet: Netanyahu bloc at 53 seats, Eisenkot bloc at 48",
+   "url": "https://www.ynetnews.com/article/hjnatbkaml"
+  },
+  {
+   "title": "Jerusalem Post: Israel election results",
+   "url": "https://www.jpost.com/israel-election-2026/article-913122"
+  },
+  {
+   "title": "Marine Insight: Houthis claim strike on Saudi oil export hub",
+   "url": "https://www.marineinsight.com/houthis-claim-missile-strike-on-saudi-arabias-major-oil-export-hub/"
+  },
+  {
+   "title": "Morningstar: September PCE expected to show rising inflation",
+   "url": "https://www.morningstar.com/economy/september-pce-expected-show-rising-inflation"
+  },
+  {
+   "title": "Caterpillar: Third-quarter 2026 results on October 29",
+   "url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-announce-3Q-2026-financial-results-on-oct-29.html"
+  }
+ ]
+}

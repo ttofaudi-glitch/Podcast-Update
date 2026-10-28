@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-29",
+   "title": "Omaha Morning Brief",
+   "dateline": "Thursday, October 29, 2026",
+   "summary": "The Federal Reserve holds with two dissents for a hike, Canada raises rates, Microsoft beats while Alphabet falls, and Britain's budget passes quietly.",
+   "duration": 304.83,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 24.31
+    },
+    {
+     "heading": "Markets",
+     "start": 75.21
+    },
+    {
+     "heading": "Companies",
+     "start": 117.84
+    },
+    {
+     "heading": "The world",
+     "start": 221.47
+    },
+    {
+     "heading": "Coming up",
+     "start": 276.08
+    }
+   ]
+  },
+  {
    "id": "2026-10-28",
    "title": "Omaha Morning Brief",
    "dateline": "Wednesday, October 28, 2026",
