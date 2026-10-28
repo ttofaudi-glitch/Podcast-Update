@@ -8,7 +8,7 @@ Good morning, Warren. It is Thursday, October 29th. The Federal Reserve held rat
 
 ## Rates and inflation
 
-The Federal Reserve kept its rate between 3.75% and 4%, by a vote of 10 to 2. Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a quarter-point increase. The statement said inflation remains elevated. Chair Kevin Warsh said, quote, we will deliver price stability, no ifs, ands or buts. He gave no signal for December, saying he does not believe in forward guidance outside a crisis. Futures now put the odds of a December increase at roughly four in five.
+The Federal Reserve kept its rate between 3.75% and 4%, by a vote of 10 to 2. Governor Lisa Cook and Beth Hammack, president of the Cleveland Federal Reserve Bank, wanted a quarter-point increase. The statement said inflation remains elevated. Chair Kevin Warsh said, quote, we will deliver price stability, no ifs, ands or buts. He gave no signal for December, saying he does not believe in forward guidance outside a crisis. Futures now put the odds of a December increase at roughly four in five.
 
 The 10-year Treasury yield rose to 5.05%, while three-month Treasury bills fell to 4.18%.
 
