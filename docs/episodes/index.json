@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-10-30",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, October 30, 2026",
+   "summary": "Growth beats at 3.4% while inflation rises to 3.6%, Alphabet has its worst day ever, Amazon and Intel fall after hours, and Lagarde will leave early.",
+   "duration": 301.69,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 21.92
+    },
+    {
+     "heading": "Markets",
+     "start": 79.2
+    },
+    {
+     "heading": "Companies",
+     "start": 111.96
+    },
+    {
+     "heading": "The world",
+     "start": 230.67
+    },
+    {
+     "heading": "Next week",
+     "start": 276.6
+    }
+   ]
+  },
+  {
    "id": "2026-10-29",
    "title": "Omaha Morning Brief",
    "dateline": "Thursday, October 29, 2026",
