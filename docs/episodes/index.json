@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-02",
+   "title": "Omaha Morning Brief",
+   "dateline": "Monday, November 2, 2026",
+   "summary": "Intel's worst day since 1974 caps a bad week for technology stocks, oil companies earn record refining profits, and the midterm election is Tuesday.",
+   "duration": 298.91,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 28.47
+    },
+    {
+     "heading": "Markets",
+     "start": 74.98
+    },
+    {
+     "heading": "Companies",
+     "start": 115.72
+    },
+    {
+     "heading": "The world",
+     "start": 197.53
+    },
+    {
+     "heading": "Coming up",
+     "start": 269.92
+    }
+   ]
+  },
+  {
    "id": "2026-10-30",
    "title": "Omaha Morning Brief",
    "dateline": "Friday, October 30, 2026",
