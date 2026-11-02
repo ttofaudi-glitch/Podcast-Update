@@ -1,0 +1,593 @@
+{
+ "id": "2026-11-03",
+ "title": "Omaha Morning Brief",
+ "dateline": "Tuesday, November 3, 2026",
+ "summary": "Oil falls about 7% on Iran talks; Apple and Palantir beat; Marvell agrees to buy Lumentum; Americans vote today.",
+ "duration": 312.35,
+ "audio": "episodes/2026-11-03/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Tuesday, November 3rd.",
+      "start": 1.56,
+      "end": 3.37
+     },
+     {
+      "i": 2,
+      "text": "Oil had its largest one-day fall since July as Iran and the United States kept talking through mediators.",
+      "start": 3.65,
+      "end": 10.29
+     },
+     {
+      "i": 3,
+      "text": "Apple and Palantir both reported results above estimates after the close.",
+      "start": 10.57,
+      "end": 15.15
+     },
+     {
+      "i": 4,
+      "text": "Marvell agreed to buy Lumentum in an all-stock deal valued at $115 billion.",
+      "start": 15.43,
+      "end": 21.83
+     },
+     {
+      "i": 5,
+      "text": "Americans vote in the midterm elections today.",
+      "start": 22.11,
+      "end": 24.78
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 25.91,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "The 10-year Treasury yield fell to 4.91%, and the 30-year to 5.28%.",
+      "start": 25.91,
+      "end": 32.31
+     },
+     {
+      "i": 7,
+      "text": "Shorter yields rose: the 2-year to 4.59%, and the 3-month bill to 4.21%.",
+      "start": 32.59,
+      "end": 39.5
+     }
+    ],
+    [
+     {
+      "i": 8,
+      "text": "The Institute for Supply Management's factory index rose to 55.5 in October, above the 54.5 expected and the tenth month of expansion.",
+      "start": 39.78,
+      "end": 50.32
+     },
+     {
+      "i": 9,
+      "text": "Production reached its highest level since November 2021.",
+      "start": 50.6,
+      "end": 54.68
+     },
+     {
+      "i": 10,
+      "text": "The prices-paid gauge eased to 75.2 from 77.9, which is still high.",
+      "start": 54.96,
+      "end": 60.95
+     },
+     {
+      "i": 11,
+      "text": "Futures markets put the odds of a Federal Reserve rate increase in December at about three in four.",
+      "start": 61.23,
+      "end": 66.84
+     }
+    ],
+    [
+     {
+      "i": 12,
+      "text": "The Treasury expects to borrow $618 billion this quarter and $800 billion in the first quarter of next year.",
+      "start": 67.12,
+      "end": 75.51
+     },
+     {
+      "i": 13,
+      "text": "It sets the size of its debt sales on Wednesday.",
+      "start": 75.79,
+      "end": 78.32
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 79.45,
+   "paragraphs": [
+    [
+     {
+      "i": 14,
+      "text": "Investors moved out of technology and into defensive stocks.",
+      "start": 79.45,
+      "end": 83.27
+     },
+     {
+      "i": 15,
+      "text": "The Dow rose 0.41%.",
+      "start": 83.55,
+      "end": 86.01
+     },
+     {
+      "i": 16,
+      "text": "The S&P 500 fell 0.51%, and the Nasdaq fell 1.07%.",
+      "start": 86.29,
+      "end": 93.35
+     },
+     {
+      "i": 17,
+      "text": "Chip stocks fell for a second day.",
+      "start": 93.63,
+      "end": 95.44
+     },
+     {
+      "i": 18,
+      "text": "Oracle fell more than 8% after filing to sell $10 billion of new stock and $10 billion of bonds to pay for artificial intelligence data centers.",
+      "start": 95.72,
+      "end": 106.3
+     },
+     {
+      "i": 19,
+      "text": "Its credit rating is one step above junk.",
+      "start": 106.58,
+      "end": 109.06
+     }
+    ],
+    [
+     {
+      "i": 20,
+      "text": "Brent crude settled at $104.77 a barrel, down 7.6%.",
+      "start": 109.34,
+      "end": 115.61
+     },
+     {
+      "i": 21,
+      "text": "West Texas Intermediate settled at $96.46.",
+      "start": 115.89,
+      "end": 120.43
+     },
+     {
+      "i": 22,
+      "text": "Goldman Sachs raised its December Brent forecast to $105.",
+      "start": 120.71,
+      "end": 125.6
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 126.73,
+   "paragraphs": [
+    [
+     {
+      "i": 23,
+      "text": "Apple reported revenue of $114.5 billion for its September quarter, up 12% and a record for that quarter. iPhone sales rose about 17%, to $57.6 billion.",
+      "start": 126.73,
+      "end": 141.19
+     },
+     {
+      "i": 24,
+      "text": "Services reached a record $31.6 billion.",
+      "start": 141.47,
+      "end": 144.97
+     },
+     {
+      "i": 25,
+      "text": "Earnings were $2.10 a share, above estimates, but about 5 cents came from a one-time tariff refund.",
+      "start": 145.25,
+      "end": 152.82
+     },
+     {
+      "i": 26,
+      "text": "The gross margin was 47.9%, and the refund added about one point of that.",
+      "start": 153.1,
+      "end": 158.72
+     },
+     {
+      "i": 27,
+      "text": "Chief executive John Ternus said memory chips cost more.",
+      "start": 159.0,
+      "end": 162.66
+     },
+     {
+      "i": 28,
+      "text": "Sales in Greater China missed estimates.",
+      "start": 162.94,
+      "end": 165.25
+     },
+     {
+      "i": 29,
+      "text": "The shares were little changed to slightly lower after hours.",
+      "start": 165.53,
+      "end": 168.75
+     }
+    ],
+    [
+     {
+      "i": 30,
+      "text": "Palantir's revenue rose 96%, to $2.31 billion.",
+      "start": 169.03,
+      "end": 174.11
+     },
+     {
+      "i": 31,
+      "text": "Sales to American companies, up 148%, were larger than its American government business for the first time.",
+      "start": 174.39,
+      "end": 182.0
+     },
+     {
+      "i": 32,
+      "text": "It raised its full-year forecast to about $8.53 billion.",
+      "start": 182.28,
+      "end": 186.46
+     },
+     {
+      "i": 33,
+      "text": "The shares moved only slightly after hours.",
+      "start": 186.74,
+      "end": 189.13
+     }
+    ],
+    [
+     {
+      "i": 34,
+      "text": "Marvell will pay 4.5 of its shares for each Lumentum share, a 24% premium.",
+      "start": 189.41,
+      "end": 195.43
+     },
+     {
+      "i": 35,
+      "text": "Marvell holders will own about two-thirds of the combined company.",
+      "start": 195.71,
+      "end": 199.34
+     },
+     {
+      "i": 36,
+      "text": "Marvell shares fell 12.7%.",
+      "start": 199.62,
+      "end": 202.3
+     }
+    ],
+    [
+     {
+      "i": 37,
+      "text": "Diamondback Energy raised its base dividend 7.3% and its oil production forecast.",
+      "start": 202.58,
+      "end": 208.9
+     },
+     {
+      "i": 38,
+      "text": "IDEXX rose 22% on higher sales and a raised outlook.",
+      "start": 209.18,
+      "end": 213.06
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 214.19,
+   "paragraphs": [
+    [
+     {
+      "i": 39,
+      "text": "Iran's negotiators left Doha on Sunday with no deal.",
+      "start": 214.19,
+      "end": 217.67
+     },
+     {
+      "i": 40,
+      "text": "Iran has offered a two-day plan to reopen the Strait of Hormuz if the United States lifts its naval blockade, and is waiting for an answer.",
+      "start": 217.95,
+      "end": 226.46
+     },
+     {
+      "i": 41,
+      "text": "Qatari mediators flew to Tehran on Monday night.",
+      "start": 226.74,
+      "end": 229.75
+     },
+     {
+      "i": 42,
+      "text": "President Trump said the war would end soon, one way or the other.",
+      "start": 230.03,
+      "end": 233.49
+     },
+     {
+      "i": 43,
+      "text": "The Wall Street Journal reported that Gulf allies were told to prepare for possible American strikes after today's vote.",
+      "start": 233.77,
+      "end": 240.68
+     },
+     {
+      "i": 44,
+      "text": "Iran's claims that two tankers hit mines have not been confirmed.",
+      "start": 240.96,
+      "end": 244.63
+     }
+    ],
+    [
+     {
+      "i": 45,
+      "text": "In the midterms, forecasters favor Democrats to win the House.",
+      "start": 244.91,
+      "end": 248.53
+     },
+     {
+      "i": 46,
+      "text": "The Senate is closer: Democrats need a net gain of four seats.",
+      "start": 248.81,
+      "end": 252.59
+     },
+     {
+      "i": 47,
+      "text": "Analysts treat divided government as the base case.",
+      "start": 252.87,
+      "end": 255.83
+     }
+    ],
+    [
+     {
+      "i": 48,
+      "text": "Ukrainian drones hit three Russian refineries in three nights, about a tenth of Russia's refining capacity.",
+      "start": 256.11,
+      "end": 262.73
+     }
+    ],
+    [
+     {
+      "i": 49,
+      "text": "A correction: yesterday we said Israel's President Herzog begins consultations on Wednesday.",
+      "start": 263.01,
+      "end": 269.0
+     },
+     {
+      "i": 50,
+      "text": "Wednesday is when he formally receives the election results.",
+      "start": 269.28,
+      "end": 272.55
+     },
+     {
+      "i": 51,
+      "text": "The new parliament is sworn in on November 10th.",
+      "start": 272.83,
+      "end": 275.51
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 276.64,
+   "paragraphs": [
+    [
+     {
+      "i": 52,
+      "text": "Australia's central bank decides today and is expected to raise its rate to 4.85%.",
+      "start": 276.64,
+      "end": 282.96
+     },
+     {
+      "i": 53,
+      "text": "France's National Assembly holds a key budget vote, and the government's survival may depend on it.",
+      "start": 283.24,
+      "end": 288.96
+     },
+     {
+      "i": 54,
+      "text": "Pfizer and Shopify report today before the open; AMD, Amgen and Arista after the close.",
+      "start": 289.24,
+      "end": 295.66
+     },
+     {
+      "i": 55,
+      "text": "Wednesday brings private payrolls, the services survey and Uber.",
+      "start": 295.94,
+      "end": 299.67
+     },
+     {
+      "i": 56,
+      "text": "On Thursday, the Bank of England is expected to raise its rate to 4%.",
+      "start": 299.95,
+      "end": 304.67
+     },
+     {
+      "i": 57,
+      "text": "Friday's jobs report is expected to show about 60,000 new jobs.",
+      "start": 304.95,
+      "end": 309.64
+     },
+     {
+      "i": 58,
+      "text": "That is the briefing.",
+      "start": 309.92,
+      "end": 311.07
+     },
+     {
+      "i": 59,
+      "text": "Have a good day.",
+      "start": 311.35,
+      "end": 312.35
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "51,983.98",
+   "change": "+0.41%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,541.40",
+   "change": "(0.51%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "25,164.32",
+   "change": "(1.07%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "4.91%",
+   "change": "(0.03)",
+   "dir": "down"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.59%",
+   "change": "+0.03",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.21%",
+   "change": "+0.05",
+   "dir": "up"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.28%",
+   "change": "(0.03)",
+   "dir": "down"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$104.77",
+   "change": "(7.6%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "$96.46",
+   "change": "(7.4%)",
+   "dir": "down"
+  },
+  {
+   "label": "Institute for Supply Management manufacturing (October)",
+   "value": "55.5",
+   "change": "54.5 expected",
+   "dir": "up"
+  },
+  {
+   "label": "Apple revenue, September quarter",
+   "value": "$114.5 billion",
+   "change": "+12%",
+   "dir": "up"
+  },
+  {
+   "label": "Palantir revenue, third quarter",
+   "value": "$2.31 billion",
+   "change": "+96%",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Monday, November 2, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Apple reports fourth quarter results",
+   "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+  },
+  {
+   "title": "CNBC: Apple beats on quarterly revenue in John Ternus' first report",
+   "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
+  },
+  {
+   "title": "Motley Fool: Apple sales rise 12%, tariff refunds pad earnings",
+   "url": "https://www.fool.com/investing/2026/11/02/apple-sales-rise-12-tariff-refunds-pad-eps-rapid-earnings-reaction/"
+  },
+  {
+   "title": "CNBC: Palantir U.S. commercial revenue tops government for first time",
+   "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html"
+  },
+  {
+   "title": "Palantir third-quarter 2026 press release (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm"
+  },
+  {
+   "title": "Bloomberg: Marvell reaches $115 billion deal for Lumentum",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+  },
+  {
+   "title": "CNBC: Oracle files to sell $20 billion in stock and bonds",
+   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+  },
+  {
+   "title": "TheStreet: Stock market today, November 2",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+  },
+  {
+   "title": "Diamondback Energy third-quarter 2026 results",
+   "url": "https://www.globenewswire.com/news-release/2026/11/02/3393704/22886/en/diamondback-energy-inc-announces-third-quarter-2026-financial-and-operating-results-increases-base-dividend.html"
+  },
+  {
+   "title": "TheStreet: IDEXX soars 21.9% after earnings",
+   "url": "https://www.thestreet.com/investing/stocks/idexx-stock-soars-21-9-after-earnings-beat-and-higher-outlook"
+  },
+  {
+   "title": "Mansfield Energy: Oil prices fall as Trump signals progress",
+   "url": "https://mansfield.energy/2026/11/02/oil-prices-fall-below-100-as-trump-signals-progress-in-iran-negotiations/"
+  },
+  {
+   "title": "Gulf News: Iran proposes two-day plan to reopen Hormuz",
+   "url": "https://gulfnews.com/world/mena/iran-proposes-2-day-plan-to-reopen-strait-of-hormuz-amid-us-talks-1.500732117"
+  },
+  {
+   "title": "Al Jazeera: Iran war live, November 2",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"
+  },
+  {
+   "title": "Times of Israel: US warns Gulf allies of possible strikes",
+   "url": "https://www.timesofisrael.com/liveblog_entry/report-us-warns-gulf-allies-of-possible-iran-strikes-as-early-as-november-4/"
+  },
+  {
+   "title": "Forbes: Final 2026 midterm polls",
+   "url": "https://www.forbes.com/sites/saradorn/2026/11/02/final-2026-midterm-polls-democrats-lead-key-senate-races-in-last-new-york-times-poll/"
+  },
+  {
+   "title": "Oilprice: Ukraine has hit three Russian refineries since Friday",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Has-Hit-Three-Russian-Refineries-Since-Friday.html"
+  },
+  {
+   "title": "CNN: Netanyahu election claims",
+   "url": "https://www.cnn.com/2026/11/02/middleeast/netanyahu-elections-stolen-claims-intl"
+  },
+  {
+   "title": "ABC News Australia: Reserve Bank decision coverage",
+   "url": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+  },
+  {
+   "title": "Benzinga: AMD and Shopify on deck Tuesday",
+   "url": "https://www.benzinga.com/news/26/11/62795239/amd-shopify-on-deck-tuesday-as-ai-spending-merchant-growth-face-test"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}

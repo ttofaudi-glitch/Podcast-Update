@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-03",
+   "title": "Omaha Morning Brief",
+   "dateline": "Tuesday, November 3, 2026",
+   "summary": "Oil falls about 7% on Iran talks; Apple and Palantir beat; Marvell agrees to buy Lumentum; Americans vote today.",
+   "duration": 312.35,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 25.91
+    },
+    {
+     "heading": "Markets",
+     "start": 79.45
+    },
+    {
+     "heading": "Companies",
+     "start": 126.73
+    },
+    {
+     "heading": "The world",
+     "start": 214.19
+    },
+    {
+     "heading": "Coming up",
+     "start": 276.64
+    }
+   ]
+  },
+  {
    "id": "2026-11-02",
    "title": "Omaha Morning Brief",
    "dateline": "Monday, November 2, 2026",
