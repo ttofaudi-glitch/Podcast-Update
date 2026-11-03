@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-04",
+   "title": "Omaha Morning Brief",
+   "dateline": "Wednesday, November 4, 2026",
+   "summary": "Americans have voted and results are still coming in; America struck Iran's Qeshm Island; AMD beats; Apple warns on margins; Australia raises rates.",
+   "duration": 299.71,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 25.78
+    },
+    {
+     "heading": "Markets",
+     "start": 76.24
+    },
+    {
+     "heading": "Companies",
+     "start": 110.28
+    },
+    {
+     "heading": "The world",
+     "start": 205.74
+    },
+    {
+     "heading": "Coming up",
+     "start": 264.64
+    }
+   ]
+  },
+  {
    "id": "2026-11-03",
    "title": "Omaha Morning Brief",
    "dateline": "Tuesday, November 3, 2026",
