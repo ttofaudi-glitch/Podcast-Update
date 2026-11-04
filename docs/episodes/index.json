@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-05",
+   "title": "Omaha Morning Brief",
+   "dateline": "Thursday, November 5, 2026",
+   "summary": "Democrats win the House and Senate; the Dow has its best day since April 2025; oil falls about 8%; the Bank of England decides today.",
+   "duration": 293.62,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 23.78
+    },
+    {
+     "heading": "Markets",
+     "start": 77.36
+    },
+    {
+     "heading": "Companies",
+     "start": 123.68
+    },
+    {
+     "heading": "The world",
+     "start": 197.7
+    },
+    {
+     "heading": "Coming up",
+     "start": 261.42
+    }
+   ]
+  },
+  {
    "id": "2026-11-04",
    "title": "Omaha Morning Brief",
    "dateline": "Wednesday, November 4, 2026",
