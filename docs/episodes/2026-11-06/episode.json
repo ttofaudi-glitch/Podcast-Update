@@ -1,0 +1,593 @@
+{
+ "id": "2026-11-06",
+ "title": "Omaha Morning Brief",
+ "dateline": "Friday, November 6, 2026",
+ "summary": "Stocks give back the election rally as chip stocks plunge; the Nasdaq enters a correction; the Bank of England raises rates; oil rebounds.",
+ "duration": 294.08,
+ "audio": "episodes/2026-11-06/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Friday, November 6th.",
+      "start": 1.56,
+      "end": 3.42
+     },
+     {
+      "i": 2,
+      "text": "Stocks gave back Wednesday's election rally and more.",
+      "start": 3.7,
+      "end": 6.58
+     },
+     {
+      "i": 3,
+      "text": "The S&P 500 fell 4.36%, and the Nasdaq entered a correction, as investors sold chip and artificial intelligence stocks on fears that a Democratic Congress will slow the building of data centers.",
+      "start": 6.86,
+      "end": 21.21
+     },
+     {
+      "i": 4,
+      "text": "The Bank of England raised its rate to 4%.",
+      "start": 21.49,
+      "end": 24.52
+     },
+     {
+      "i": 5,
+      "text": "Oil rose again after more attacks on tankers.",
+      "start": 24.8,
+      "end": 27.53
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 28.66,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "Investors moved into Treasury bonds.",
+      "start": 28.66,
+      "end": 30.9
+     },
+     {
+      "i": 7,
+      "text": "The 10-year yield fell to 4.84%, and the 2-year fell sharply, to 4.46%.",
+      "start": 31.18,
+      "end": 37.9
+     },
+     {
+      "i": 8,
+      "text": "The 3-month bill was 4.17%.",
+      "start": 38.18,
+      "end": 40.91
+     }
+    ],
+    [
+     {
+      "i": 9,
+      "text": "Weekly claims for unemployment benefits stayed below 200,000, near their lowest since the late 1960s.",
+      "start": 41.19,
+      "end": 48.83
+     },
+     {
+      "i": 10,
+      "text": "Productivity rose at an annual rate of 3.6% in the third quarter, and labor costs per unit of output fell 0.7%.",
+      "start": 49.11,
+      "end": 58.16
+     },
+     {
+      "i": 11,
+      "text": "That is good news for margins and for inflation.",
+      "start": 58.44,
+      "end": 61.32
+     },
+     {
+      "i": 12,
+      "text": "Still, futures markets put the odds of a Federal Reserve rate increase in December at about four in five.",
+      "start": 61.6,
+      "end": 67.78
+     }
+    ],
+    [
+     {
+      "i": 13,
+      "text": "The Bank of England raised its rate to 4%, its first increase since 2023.",
+      "start": 68.06,
+      "end": 73.72
+     },
+     {
+      "i": 14,
+      "text": "The vote was eight to one; one member wanted a larger rise.",
+      "start": 74.0,
+      "end": 77.37
+     },
+     {
+      "i": 15,
+      "text": "The Bank expects British inflation to reach about 5% by mid-2027 because of energy prices, and warned that more increases are likely if the war with Iran continues.",
+      "start": 77.65,
+      "end": 89.87
+     },
+     {
+      "i": 16,
+      "text": "Sweden's central bank also raised its rate this week, while Norway's held at 4.5%.",
+      "start": 90.15,
+      "end": 95.89
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 97.02,
+   "paragraphs": [
+    [
+     {
+      "i": 17,
+      "text": "The Dow fell 1,833 points, or 3.44%, to 51,523, erasing Wednesday's gain.",
+      "start": 97.02,
+      "end": 106.75
+     },
+     {
+      "i": 18,
+      "text": "The S&P 500 closed at 7,354.",
+      "start": 107.03,
+      "end": 111.59
+     },
+     {
+      "i": 19,
+      "text": "The Nasdaq fell 5.52% and is now more than 10% below its October record.",
+      "start": 111.87,
+      "end": 117.8
+     },
+     {
+      "i": 20,
+      "text": "All eleven sectors of the S&P 500 fell.",
+      "start": 118.08,
+      "end": 121.45
+     },
+     {
+      "i": 21,
+      "text": "The Philadelphia chip index fell more than 12%, and Nvidia and Broadcom fell between 7% and 10%.",
+      "start": 121.73,
+      "end": 129.18
+     }
+    ],
+    [
+     {
+      "i": 22,
+      "text": "Brent crude rose 3.9%, to $98.29 a barrel, and West Texas Intermediate to $90.52.",
+      "start": 129.46,
+      "end": 138.74
+     },
+     {
+      "i": 23,
+      "text": "Gold is near $4,100 an ounce, up about 4% this week.",
+      "start": 139.02,
+      "end": 143.97
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 145.1,
+   "paragraphs": [
+    [
+     {
+      "i": 24,
+      "text": "ConocoPhillips earned $3.27 a share, about double a year ago, on higher oil prices.",
+      "start": 145.1,
+      "end": 152.03
+     },
+     {
+      "i": 25,
+      "text": "It raised its dividend 11% and bought back $2.4 billion of stock in the quarter.",
+      "start": 152.31,
+      "end": 158.5
+     },
+     {
+      "i": 26,
+      "text": "Cigna raised its profit forecast.",
+      "start": 158.78,
+      "end": 160.89
+     }
+    ],
+    [
+     {
+      "i": 27,
+      "text": "AppLovin rose 31%, the best gain in the S&P 500, after its strong results.",
+      "start": 161.17,
+      "end": 167.49
+     },
+     {
+      "i": 28,
+      "text": "Qualcomm fell about 10% on its weak forecast.",
+      "start": 167.77,
+      "end": 170.75
+     },
+     {
+      "i": 29,
+      "text": "CVS fell more than 12% on Wednesday after announcing its split.",
+      "start": 171.03,
+      "end": 175.38
+     }
+    ],
+    [
+     {
+      "i": 30,
+      "text": "After the close, Airbnb's revenue rose 19%, to about $4.9 billion, above estimates, and it raised its full-year forecast.",
+      "start": 175.66,
+      "end": 185.07
+     },
+     {
+      "i": 31,
+      "text": "Its shares rose after hours.",
+      "start": 185.35,
+      "end": 187.04
+     },
+     {
+      "i": 32,
+      "text": "Cloudflare's revenue rose 39%, and its shares jumped about 17% after a 25% fall over the past week.",
+      "start": 187.32,
+      "end": 195.83
+     },
+     {
+      "i": 33,
+      "text": "Atlassian and DraftKings fell sharply.",
+      "start": 196.11,
+      "end": 198.41
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 199.54,
+   "paragraphs": [
+    [
+     {
+      "i": 34,
+      "text": "Iran said more tankers struck mines in the Strait of Hormuz, and its Revolutionary Guard called the strait closed to ships that do not coordinate with it.",
+      "start": 199.54,
+      "end": 208.42
+     },
+     {
+      "i": 35,
+      "text": "Those claims are not independently confirmed.",
+      "start": 208.7,
+      "end": 211.17
+     },
+     {
+      "i": 36,
+      "text": "President Trump said he has no immediate plans for new strikes.",
+      "start": 211.45,
+      "end": 214.82
+     },
+     {
+      "i": 37,
+      "text": "Eurasia Group, a political risk firm, cut its odds of a deal to one in ten.",
+      "start": 215.1,
+      "end": 219.58
+     }
+    ],
+    [
+     {
+      "i": 38,
+      "text": "President Trump said Democrats are not really in control, because he can veto their bills.",
+      "start": 219.86,
+      "end": 225.01
+     },
+     {
+      "i": 39,
+      "text": "Democrats plan early votes to end the Iran war and to undo his tariffs.",
+      "start": 225.29,
+      "end": 229.68
+     },
+     {
+      "i": 40,
+      "text": "The Senate races in Alaska and Mississippi are still too close to call.",
+      "start": 229.96,
+      "end": 233.99
+     }
+    ],
+    [
+     {
+      "i": 41,
+      "text": "France's National Assembly rejected next year's budget by 458 votes to none.",
+      "start": 234.27,
+      "end": 240.2
+     },
+     {
+      "i": 42,
+      "text": "The government's original bill now goes to the Senate.",
+      "start": 240.48,
+      "end": 243.47
+     },
+     {
+      "i": 43,
+      "text": "A clarification: yesterday we said China's pause on rare earth export controls expires on November 10th.",
+      "start": 243.75,
+      "end": 250.9
+     },
+     {
+      "i": 44,
+      "text": "Washington says the wider trade truce, which runs to January 10th, covers it.",
+      "start": 251.18,
+      "end": 256.13
+     },
+     {
+      "i": 45,
+      "text": "Beijing has not said so.",
+      "start": 256.41,
+      "end": 257.94
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Next week",
+   "start": 259.07,
+   "paragraphs": [
+    [
+     {
+      "i": 46,
+      "text": "Tonight, Hong Kong time, the October jobs report is expected to show about 60,000 new jobs and unemployment of 4.2%.",
+      "start": 259.07,
+      "end": 268.35
+     },
+     {
+      "i": 47,
+      "text": "On Sunday, Israel's President Herzog decides who will try to form a government.",
+      "start": 268.63,
+      "end": 273.56
+     },
+     {
+      "i": 48,
+      "text": "Tuesday brings American consumer prices and China's October trade figures.",
+      "start": 273.84,
+      "end": 278.77
+     },
+     {
+      "i": 49,
+      "text": "Russia, Ukraine and the United States meet in Abu Dhabi on Tuesday and Wednesday.",
+      "start": 279.05,
+      "end": 284.02
+     },
+     {
+      "i": 50,
+      "text": "Britain reports third-quarter growth on Thursday, and Cisco reports that evening.",
+      "start": 284.3,
+      "end": 288.93
+     },
+     {
+      "i": 51,
+      "text": "Producer prices follow on Friday.",
+      "start": 289.21,
+      "end": 291.36
+     },
+     {
+      "i": 52,
+      "text": "That is the briefing.",
+      "start": 291.64,
+      "end": 292.79
+     },
+     {
+      "i": 53,
+      "text": "Have a good day.",
+      "start": 293.07,
+      "end": 294.08
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "51,523.06",
+   "change": "(3.44%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,353.73",
+   "change": "(4.36%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "24,315.00",
+   "change": "(5.52%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "4.84%",
+   "change": "(0.06)",
+   "dir": "down"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.46%",
+   "change": "(0.12)",
+   "dir": "down"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.17%",
+   "change": "(0.04)",
+   "dir": "down"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.25%",
+   "change": "(0.03)",
+   "dir": "down"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$98.29",
+   "change": "+3.88%",
+   "dir": "up"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "$90.52",
+   "change": "+2.72%",
+   "dir": "up"
+  },
+  {
+   "label": "Bank of England Bank Rate",
+   "value": "4.00%",
+   "change": "+0.25",
+   "dir": "up"
+  },
+  {
+   "label": "Productivity, third quarter (annual rate)",
+   "value": "+3.6%",
+   "change": "",
+   "dir": "up"
+  },
+  {
+   "label": "Unit labor costs, third quarter (annual rate)",
+   "value": "(0.7%)",
+   "change": "",
+   "dir": "down"
+  }
+ ],
+ "numbers_note": "Closing levels for Thursday, November 5, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "CNBC: Stock market news for November 5, 2026",
+   "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Fox Business: Stocks, November 5, 2026",
+   "url": "https://foxbusiness.com/markets/stocks-nov-5-2026"
+  },
+  {
+   "title": "Investing.com: US stocks lower at close, Dow down 3.45%",
+   "url": "https://investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-345-5005517"
+  },
+  {
+   "title": "NBC News: Tech stocks plunge after midterms",
+   "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650"
+  },
+  {
+   "title": "CBS News: Stocks, midterms and data centers",
+   "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
+  },
+  {
+   "title": "Reuters via Lufkin Daily News: Brent settles up over $3 after tanker attacks",
+   "url": "https://lufkindailynews.com/news_reuters/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks/article_061e302b-1abf-5f1f-8ab0-318bc6f4fbd3.html"
+  },
+  {
+   "title": "Kitco: Gold climbs above $4,100",
+   "url": "http://www.kitco.com/news/article/2026-11-05/gold-climbs-above-4100-falling-yields-softer-labor-costs-support-bullion"
+  },
+  {
+   "title": "Bank of England: Monetary Policy Summary, November 2026",
+   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
+  },
+  {
+   "title": "CNBC: Bank of England raises rates",
+   "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+  },
+  {
+   "title": "Reuters via Investing.com: Bank of England warns more increases likely",
+   "url": "https://au.investing.com/news/economy-news/bank-of-england-raises-rates-for-first-time-since-2023-warns-more-likely-4748537"
+  },
+  {
+   "title": "Reuters via AOL: US weekly jobless claims",
+   "url": "https://www.aol.com/articles/us-weekly-jobless-claims-57-134045000.html"
+  },
+  {
+   "title": "Bureau of Labor Statistics: Productivity and costs",
+   "url": "https://www.bls.gov/news.release/pdf/prod2.pdf"
+  },
+  {
+   "title": "FXStreet: Payrolls and December rate odds",
+   "url": "https://fxstreet.com/analysis/neither-the-election-nor-the-us-dollar-why-fridays-payrolls-hold-the-key-to-golds-next-move-202611051622"
+  },
+  {
+   "title": "Metromode: Riksbank raises its policy rate",
+   "url": "https://metromode.se/en/ekonomi/riksbanken-hojer-styrrantan-forsta-gangen-pa-tre-ar/"
+  },
+  {
+   "title": "ConocoPhillips third quarter 2026 results (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001163165/000116316526000043/cop-20261105x8kexx991.htm"
+  },
+  {
+   "title": "Healthcare Dive: Cigna boosts 2026 outlook",
+   "url": "https://www.healthcaredive.com/news/cigna-boosts-2026-outlook-insurance-specialty-pharmacy-profits-climb/873787/"
+  },
+  {
+   "title": "Seeking Alpha: AppLovin jumps 31%",
+   "url": "https://seekingalpha.com/news/4667356-applovin-jumps-31-percent-on-record-q3-results-raised-outlook"
+  },
+  {
+   "title": "Benzinga: Qualcomm stock Thursday",
+   "url": "https://www.benzinga.com/markets/tech/26/11/62910367/whats-going-on-with-qualcomm-stock-thursday-2"
+  },
+  {
+   "title": "CNBC: Biggest moves midday, November 4 (CVS)",
+   "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-midday-crwv-mu-bkng-mcd-cvs.html"
+  },
+  {
+   "title": "Airbnb third quarter 2026 shareholder letter (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001559720/000119312526449727/d437988dex991.htm"
+  },
+  {
+   "title": "MarketScreener/Reuters: Airbnb lifts revenue growth forecast",
+   "url": "https://www.marketscreener.com/news/airbnb-lifts-annual-revenue-growth-forecast-on-resilient-global-travel-demand-ce785fdddb81f724"
+  },
+  {
+   "title": "Investing.com: Cloudflare shares soar after hours",
+   "url": "https://www.investing.com/news/earnings/cloudflare-shares-soar-afterhours-on-blowout-q3-results-strong-forecast-5005697"
+  },
+  {
+   "title": "US News/Reuters: Tankers hit in Hormuz after US vote",
+   "url": "https://www.usnews.com/news/top-news/articles/2026-11-05/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote"
+  },
+  {
+   "title": "Cornerstone Futures: Eurasia Group cuts odds of an Iran deal",
+   "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-eurasia-group-cuts-odds-of-an-iran-deal-to-10-as-oil-steadies-after-an-8-drop"
+  },
+  {
+   "title": "The Hill: Trump congratulates Democrats",
+   "url": "https://thehill.com/homenews/administration/6196392-trump-congratulates-democrats-midterm-wins/"
+  },
+  {
+   "title": "France 24: Assembly rejects 2027 budget",
+   "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances"
+  },
+  {
+   "title": "Motley Fool: China rare earth export pause",
+   "url": "https://www.fool.com/investing/2026/11/05/china-rare-earth-export-pause-usar-mp-materials/"
+  },
+  {
+   "title": "Al Jazeera: Herzog opens talks on forming a government",
+   "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government"
+  },
+  {
+   "title": "CNBC: October jobs report preview",
+   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}

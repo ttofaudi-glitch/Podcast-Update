@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-06",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, November 6, 2026",
+   "summary": "Stocks give back the election rally as chip stocks plunge; the Nasdaq enters a correction; the Bank of England raises rates; oil rebounds.",
+   "duration": 294.08,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 28.66
+    },
+    {
+     "heading": "Markets",
+     "start": 97.02
+    },
+    {
+     "heading": "Companies",
+     "start": 145.1
+    },
+    {
+     "heading": "The world",
+     "start": 199.54
+    },
+    {
+     "heading": "Next week",
+     "start": 259.07
+    }
+   ]
+  },
+  {
    "id": "2026-11-05",
    "title": "Omaha Morning Brief",
    "dateline": "Thursday, November 5, 2026",
