@@ -1,0 +1,587 @@
+{
+ "id": "2026-11-09",
+ "title": "Omaha Morning Brief",
+ "dateline": "Monday, November 9, 2026",
+ "summary": "Employers added 165,000 jobs in October; stocks end their worst week since April 2025; Eisenkot gets the first chance to form Israel's government; inflation data Tuesday.",
+ "duration": 303.35,
+ "audio": "episodes/2026-11-09/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Monday, November 9th.",
+      "start": 1.56,
+      "end": 3.5
+     },
+     {
+      "i": 2,
+      "text": "American employers added 165,000 jobs in October, almost three times what was expected.",
+      "start": 3.78,
+      "end": 10.76
+     },
+     {
+      "i": 3,
+      "text": "That lifted the odds of a Federal Reserve rate increase in December.",
+      "start": 11.04,
+      "end": 14.83
+     },
+     {
+      "i": 4,
+      "text": "The S&P 500 had its worst week since April 2025, as chip stocks kept falling.",
+      "start": 15.11,
+      "end": 21.86
+     },
+     {
+      "i": 5,
+      "text": "In Israel, opposition leader Gadi Eisenkot will try to form a government.",
+      "start": 22.14,
+      "end": 26.77
+     },
+     {
+      "i": 6,
+      "text": "American consumer prices come out on Tuesday.",
+      "start": 27.05,
+      "end": 29.8
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 30.93,
+   "paragraphs": [
+    [
+     {
+      "i": 7,
+      "text": "The economy added 165,000 jobs in October, against forecasts of about 60,000.",
+      "start": 30.93,
+      "end": 37.78
+     },
+     {
+      "i": 8,
+      "text": "Revisions added another 84,000 jobs to August and September.",
+      "start": 38.06,
+      "end": 42.68
+     },
+     {
+      "i": 9,
+      "text": "Professional and business services added 70,000 jobs, and health care 42,000.",
+      "start": 42.96,
+      "end": 48.83
+     },
+     {
+      "i": 10,
+      "text": "Unemployment fell to 4.1%, and participation edged up to 61.9%.",
+      "start": 49.11,
+      "end": 55.51
+     },
+     {
+      "i": 11,
+      "text": "Average hourly pay rose 0.4% in the month and 3.1% from a year earlier.",
+      "start": 55.79,
+      "end": 61.91
+     },
+     {
+      "i": 12,
+      "text": "There were soft spots: the broader underemployment rate rose to 7.9%, and the share of people out of work for six months or more is the highest since late 2021.",
+      "start": 62.19,
+      "end": 73.76
+     }
+    ],
+    [
+     {
+      "i": 13,
+      "text": "Futures markets put the odds of a Federal Reserve rate increase in December at about three in four.",
+      "start": 74.04,
+      "end": 79.65
+     },
+     {
+      "i": 14,
+      "text": "The 10-year Treasury yield ended the week at 4.86%, and the 2-year at 4.51%.",
+      "start": 79.93,
+      "end": 86.75
+     },
+     {
+      "i": 15,
+      "text": "The 3-month bill pays 4.19%.",
+      "start": 87.03,
+      "end": 89.91
+     }
+    ],
+    [
+     {
+      "i": 16,
+      "text": "The University of Michigan's consumer sentiment index rose to 51, a three-month high.",
+      "start": 90.19,
+      "end": 95.78
+     },
+     {
+      "i": 17,
+      "text": "Consumers expect prices to rise 4.3% over the next year, down from 4.7%.",
+      "start": 96.06,
+      "end": 102.66
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 103.79,
+   "paragraphs": [
+    [
+     {
+      "i": 18,
+      "text": "On Friday the S&P 500 rose 0.31%, to 7,377, and the Nasdaq rose 1.09%.",
+      "start": 103.79,
+      "end": 114.39
+     },
+     {
+      "i": 19,
+      "text": "The Dow fell 0.46%.",
+      "start": 114.67,
+      "end": 117.1
+     },
+     {
+      "i": 20,
+      "text": "For the week, the S&P 500 fell 2.7%, its worst week since April 2025, and the Nasdaq fell 3.4%, its fourth weekly loss in a row.",
+      "start": 117.38,
+      "end": 129.65
+     },
+     {
+      "i": 21,
+      "text": "The Philadelphia chip index fell about 12% for the week, its fifth weekly decline.",
+      "start": 129.93,
+      "end": 135.05
+     },
+     {
+      "i": 22,
+      "text": "Nvidia has lost about $1.3 trillion of market value since its October peak.",
+      "start": 135.33,
+      "end": 141.09
+     }
+    ],
+    [
+     {
+      "i": 23,
+      "text": "Brent crude settled Friday at $98.32 a barrel, down from about $113 a week earlier, as traders bet on a deal with Iran.",
+      "start": 141.37,
+      "end": 151.56
+     },
+     {
+      "i": 24,
+      "text": "West Texas Intermediate settled at $90.83.",
+      "start": 151.84,
+      "end": 155.98
+     },
+     {
+      "i": 25,
+      "text": "Gold is near $4,050 an ounce.",
+      "start": 156.26,
+      "end": 159.06
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 160.19,
+   "paragraphs": [
+    [
+     {
+      "i": 26,
+      "text": "Moderna reported a profit when analysts expected a loss, raised its revenue forecast, and its shares rose.",
+      "start": 160.19,
+      "end": 166.97
+     },
+     {
+      "i": 27,
+      "text": "Charter lost 233,000 internet customers in the quarter, more than a year earlier, and its shares fell.",
+      "start": 167.25,
+      "end": 174.1
+     },
+     {
+      "i": 28,
+      "text": "Humana raised its full-year profit forecast.",
+      "start": 174.38,
+      "end": 176.96
+     },
+     {
+      "i": 29,
+      "text": "DraftKings fell more than 26% after cutting its profit outlook to spend heavily on prediction markets.",
+      "start": 177.24,
+      "end": 184.02
+     },
+     {
+      "i": 30,
+      "text": "Airbnb rose about 12% and Cloudflare about 13% after their results.",
+      "start": 184.3,
+      "end": 189.66
+     }
+    ],
+    [
+     {
+      "i": 31,
+      "text": "EOG Resources earned more than expected on record production and raised its dividend.",
+      "start": 189.94,
+      "end": 195.36
+     },
+     {
+      "i": 32,
+      "text": "Brookfield Asset Management's fee earnings rose 15%.",
+      "start": 195.64,
+      "end": 199.29
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 200.42,
+   "paragraphs": [
+    [
+     {
+      "i": 33,
+      "text": "Israel's President Herzog gave Gadi Eisenkot the mandate to form a government on Sunday.",
+      "start": 200.42,
+      "end": 206.05
+     },
+     {
+      "i": 34,
+      "text": "Parties with 67 of the 120 seats recommended him, against 46 for Prime Minister Netanyahu.",
+      "start": 206.33,
+      "end": 213.65
+     },
+     {
+      "i": 35,
+      "text": "He has 28 days, and his path depends on parties that have refused to sit together.",
+      "start": 213.93,
+      "end": 218.77
+     },
+     {
+      "i": 36,
+      "text": "Netanyahu has called for a unity government.",
+      "start": 219.05,
+      "end": 221.67
+     }
+    ],
+    [
+     {
+      "i": 37,
+      "text": "President Trump confirmed what he called minor strikes on Iranian air defenses on Qeshm Island, and said diplomacy continues.",
+      "start": 221.95,
+      "end": 229.93
+     },
+     {
+      "i": 38,
+      "text": "Iran has rejected the latest American response, and says the Strait of Hormuz stays closed until its conditions are met.",
+      "start": 230.21,
+      "end": 237.87
+     },
+     {
+      "i": 39,
+      "text": "There are new reports of tankers hit near the strait.",
+      "start": 238.15,
+      "end": 240.79
+     }
+    ],
+    [
+     {
+      "i": 40,
+      "text": "Stephen Miller replaces Susie Wiles as White House chief of staff, starting today.",
+      "start": 241.07,
+      "end": 245.73
+     },
+     {
+      "i": 41,
+      "text": "The Senate races in Alaska and Mississippi are still being counted; Democrats lead narrowly in both.",
+      "start": 246.01,
+      "end": 252.04
+     }
+    ],
+    [
+     {
+      "i": 42,
+      "text": "Russia, Ukraine and the United States are due to meet in Abu Dhabi on Tuesday and Wednesday, their first three-way round since February.",
+      "start": 252.32,
+      "end": 260.71
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 261.84,
+   "paragraphs": [
+    [
+     {
+      "i": 43,
+      "text": "China reports October consumer prices today, and trade figures this week.",
+      "start": 261.84,
+      "end": 266.27
+     },
+     {
+      "i": 44,
+      "text": "Its pause on rare earth export controls is due to expire on Tuesday, and Beijing has published no extension.",
+      "start": 266.55,
+      "end": 273.57
+     },
+     {
+      "i": 45,
+      "text": "Tuesday brings American consumer prices, expected to rise about 0.3% in October.",
+      "start": 273.85,
+      "end": 280.17
+     },
+     {
+      "i": 46,
+      "text": "The Labor Department will not publish an annual rate this month, because last October's prices were never collected during the government shutdown.",
+      "start": 280.45,
+      "end": 288.83
+     },
+     {
+      "i": 47,
+      "text": "The bond market is closed Wednesday for Veterans Day.",
+      "start": 289.11,
+      "end": 291.95
+     },
+     {
+      "i": 48,
+      "text": "Britain reports third-quarter growth on Thursday, and Cisco and Applied Materials report that evening.",
+      "start": 292.23,
+      "end": 298.2
+     },
+     {
+      "i": 49,
+      "text": "Producer prices follow on Friday.",
+      "start": 298.48,
+      "end": 300.64
+     },
+     {
+      "i": 50,
+      "text": "That is the briefing.",
+      "start": 300.92,
+      "end": 302.07
+     },
+     {
+      "i": 51,
+      "text": "Have a good day.",
+      "start": 302.35,
+      "end": 303.35
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "51,285.73",
+   "change": "(0.46%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,376.86",
+   "change": "+0.31%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500, week",
+   "value": "",
+   "change": "(2.68%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "24,579.42",
+   "change": "+1.09%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite, week",
+   "value": "",
+   "change": "(3.37%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "4.86%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.51%",
+   "change": "+0.05",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.19%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "Brent crude, January, per barrel",
+   "value": "$98.32",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "$90.83",
+   "change": "",
+   "dir": "flat"
+  },
+  {
+   "label": "Nonfarm payrolls, October",
+   "value": "+165,000",
+   "change": "about 60,000 expected",
+   "dir": "up"
+  },
+  {
+   "label": "Unemployment rate, October",
+   "value": "4.1%",
+   "change": "from 4.2%",
+   "dir": "down"
+  },
+  {
+   "label": "University of Michigan sentiment, November preliminary",
+   "value": "51.0",
+   "change": "from 48.0",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Friday, November 6, 2026, with changes for the day; weekly changes where marked. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Bureau of Labor Statistics: Employment Situation, October 2026",
+   "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+  },
+  {
+   "title": "Benzinga: October jobs report, payrolls 165,000",
+   "url": "https://www.benzinga.com/markets/economic-data/26/11/62974776/october-jobs-report-nonfarm-payrolls-unemployment-rate"
+  },
+  {
+   "title": "CNBC: Long-term unemployment in the October jobs report",
+   "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
+  },
+  {
+   "title": "24/7 Wall St: December rate hike odds after the jobs report",
+   "url": "https://247wallst.com/investing/2026/11/07/odds-of-a-december-rate-hike-jump-to-77-after-a-blowout-jobs-report/"
+  },
+  {
+   "title": "University of Michigan Surveys of Consumers",
+   "url": "https://www.sca.isr.umich.edu/"
+  },
+  {
+   "title": "Bloomberg: US consumer sentiment unexpectedly rises",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-sentiment-unexpectedly-rises-fueled-by-independents"
+  },
+  {
+   "title": "Investrade: Market review, November 6, 2026",
+   "url": "https://investrade.com/market-review-november-06-2026/"
+  },
+  {
+   "title": "Yahoo Finance: S&P 500 just had its worst week since April 2025",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html"
+  },
+  {
+   "title": "24/7 Wall St: Nvidia's fifth straight losing week",
+   "url": "https://247wallst.com/investing/2026/11/07/nvidia-is-worth-1-3-trillion-less-after-its-5th-straight-losing-week/"
+  },
+  {
+   "title": "FinanceFeeds: Brent settles at $98.32",
+   "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+  },
+  {
+   "title": "CNBC: Moderna third quarter 2026 results",
+   "url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html"
+  },
+  {
+   "title": "Deadline: Charter loses internet subscribers",
+   "url": "https://deadline.com/2026/11/charter-stock-sinks-internet-subscriber-comcast-1237215464/"
+  },
+  {
+   "title": "Humana third quarter 2026 results",
+   "url": "https://humana.gcs-web.com/news-releases/news-release-details/humana-reports-third-quarter-2026-financial-results-raises-full"
+  },
+  {
+   "title": "Quartz: DraftKings cuts profit outlook for prediction markets",
+   "url": "https://qz.com/draftkings-stock-prediction-markets-profit-outlook-110626"
+  },
+  {
+   "title": "Chartmill: S&P 500 top movers, November 6, 2026",
+   "url": "https://www.chartmill.com/news/MKC/Chartmill-58246-SP-500-Top-Movers-Gainers-and-Losers-on-Nov-6-2026"
+  },
+  {
+   "title": "Investing.com: EOG Resources rallies",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-eog-resources-stock-rallying-today-93CH-5008891"
+  },
+  {
+   "title": "Brookfield Asset Management third quarter 2026 results",
+   "url": "https://www.globenewswire.com/news-release/2026/11/06/3397448/0/en/brookfield-asset-management-announces-strong-third-quarter-results.html"
+  },
+  {
+   "title": "Times of Israel: Herzog taps Eisenkot to form coalition",
+   "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+  },
+  {
+   "title": "JTA: Herzog tasks Eisenkot with forming the next government",
+   "url": "https://www.jta.org/2026/11/08/israel/president-herzog-tasks-gadi-eisenkot-with-forming-israels-next-government"
+  },
+  {
+   "title": "Jerusalem Post: Trump confirms strikes on Iranian air defenses",
+   "url": "https://jpost.com/middle-east/iran-news/article-914097"
+  },
+  {
+   "title": "Washington Post: Stephen Miller named White House chief of staff",
+   "url": "https://www.washingtonpost.com/politics/2026/11/06/trump-names-stephen-miller-new-white-house-chief-staff/"
+  },
+  {
+   "title": "CBS News: Trump installs Stephen Miller as chief of staff",
+   "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+  },
+  {
+   "title": "CBS News: Alaska Senate race unresolved",
+   "url": "https://www.cbsnews.com/news/senate-race-unresolved-in-alaska-as-candidates-expect-weekslong-process/"
+  },
+  {
+   "title": "Yahoo/AP: Mississippi vote count drags on",
+   "url": "https://www.yahoo.com/news/politics/articles/mississippi-vote-count-drags-us-164652352.html"
+  },
+  {
+   "title": "NPR: Europe to join Abu Dhabi talks",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
+  },
+  {
+   "title": "Motley Fool: China rare earth export pause",
+   "url": "https://www.fool.com/investing/2026/11/05/china-rare-earth-export-pause-usar-mp-materials/"
+  },
+  {
+   "title": "Bureau of Labor Statistics: Shutdown impact on the consumer price index",
+   "url": "https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi.htm"
+  },
+  {
+   "title": "Morningstar: October inflation forecasts",
+   "url": "https://www.morningstar.com/economy/october-cpi-forecasts-show-inflation-softening-december-rate-hike-still-looks-likely"
+  },
+  {
+   "title": "Newsquawk week ahead, November 9 to 13",
+   "url": "https://global-view.com/newsquawk-week-ahead-in-focus-9-13th-november-2026/"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}

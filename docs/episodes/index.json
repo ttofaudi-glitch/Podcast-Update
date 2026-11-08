@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-09",
+   "title": "Omaha Morning Brief",
+   "dateline": "Monday, November 9, 2026",
+   "summary": "Employers added 165,000 jobs in October; stocks end their worst week since April 2025; Eisenkot gets the first chance to form Israel's government; inflation data Tuesday.",
+   "duration": 303.35,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 30.93
+    },
+    {
+     "heading": "Markets",
+     "start": 103.79
+    },
+    {
+     "heading": "Companies",
+     "start": 160.19
+    },
+    {
+     "heading": "The world",
+     "start": 200.42
+    },
+    {
+     "heading": "Coming up",
+     "start": 261.84
+    }
+   ]
+  },
+  {
    "id": "2026-11-06",
    "title": "Omaha Morning Brief",
    "dateline": "Friday, November 6, 2026",
