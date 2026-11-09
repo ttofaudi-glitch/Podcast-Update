@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-10",
+   "title": "Omaha Morning Brief",
+   "dateline": "Tuesday, November 10, 2026",
+   "summary": "Stocks rebound, the S&P 500's best day since April; oil falls to about $93 as Trump signals restraint on Iran; China extends its rare earth pause; consumer prices today.",
+   "duration": 298.42,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 31.1
+    },
+    {
+     "heading": "Markets",
+     "start": 85.45
+    },
+    {
+     "heading": "Companies",
+     "start": 136.4
+    },
+    {
+     "heading": "The world",
+     "start": 225.19
+    },
+    {
+     "heading": "Coming up",
+     "start": 274.23
+    }
+   ]
+  },
+  {
    "id": "2026-11-09",
    "title": "Omaha Morning Brief",
    "dateline": "Monday, November 9, 2026",

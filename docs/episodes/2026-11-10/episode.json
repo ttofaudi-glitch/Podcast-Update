@@ -1,0 +1,575 @@
+{
+ "id": "2026-11-10",
+ "title": "Omaha Morning Brief",
+ "dateline": "Tuesday, November 10, 2026",
+ "summary": "Stocks rebound, the S&P 500's best day since April; oil falls to about $93 as Trump signals restraint on Iran; China extends its rare earth pause; consumer prices today.",
+ "duration": 298.42,
+ "audio": "episodes/2026-11-10/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Tuesday, November 10th.",
+      "start": 1.56,
+      "end": 3.42
+     },
+     {
+      "i": 2,
+      "text": "Stocks rebounded, and the S&P 500 had its best day since April.",
+      "start": 3.7,
+      "end": 8.22
+     },
+     {
+      "i": 3,
+      "text": "Oil fell to about $93 after President Trump said new strikes on Iran are unlikely if talks succeed.",
+      "start": 8.5,
+      "end": 15.69
+     },
+     {
+      "i": 4,
+      "text": "Nvidia fell after its board opened an investigation involving its chief executive.",
+      "start": 15.97,
+      "end": 21.62
+     },
+     {
+      "i": 5,
+      "text": "China extended its pause on rare earth export controls to January.",
+      "start": 21.9,
+      "end": 26.19
+     },
+     {
+      "i": 6,
+      "text": "American consumer prices come out tonight, Hong Kong time.",
+      "start": 26.47,
+      "end": 29.97
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 31.1,
+   "paragraphs": [
+    [
+     {
+      "i": 7,
+      "text": "The 10-year Treasury yield rose to 4.88%, and the 2-year to 4.56%.",
+      "start": 31.1,
+      "end": 37.5
+     },
+     {
+      "i": 8,
+      "text": "The 3-month bill pays 4.24%.",
+      "start": 37.78,
+      "end": 40.7
+     },
+     {
+      "i": 9,
+      "text": "A $58 billion sale of 3-year notes drew slightly weak demand.",
+      "start": 40.98,
+      "end": 45.33
+     }
+    ],
+    [
+     {
+      "i": 10,
+      "text": "Austan Goolsbee, president of the Chicago Federal Reserve Bank, said he is starting to see inflation rise in services, not only in energy.",
+      "start": 45.61,
+      "end": 54.44
+     },
+     {
+      "i": 11,
+      "text": "Futures markets put the odds of a December rate increase at about four in five.",
+      "start": 54.72,
+      "end": 59.25
+     }
+    ],
+    [
+     {
+      "i": 12,
+      "text": "October consumer prices are expected to rise about two to three tenths of a percent, after six tenths in September.",
+      "start": 59.53,
+      "end": 66.67
+     },
+     {
+      "i": 13,
+      "text": "The Labor Department will not publish an annual rate this month.",
+      "start": 66.95,
+      "end": 70.41
+     }
+    ],
+    [
+     {
+      "i": 14,
+      "text": "In China, consumer prices rose 0.7% from a year earlier, below forecasts.",
+      "start": 70.69,
+      "end": 76.68
+     },
+     {
+      "i": 15,
+      "text": "Producer prices rose 5.7%, the fastest since June 2022, driven by raw materials.",
+      "start": 76.96,
+      "end": 84.32
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 85.45,
+   "paragraphs": [
+    [
+     {
+      "i": 16,
+      "text": "The S&P 500 rose 2.35%, to 7,550.",
+      "start": 85.45,
+      "end": 91.85
+     },
+     {
+      "i": 17,
+      "text": "The Nasdaq rose 2.74%, and the Dow rose 1,104 points, or 2.15%.",
+      "start": 92.13,
+      "end": 99.54
+     },
+     {
+      "i": 18,
+      "text": "Smaller companies did better still.",
+      "start": 99.82,
+      "end": 101.67
+     },
+     {
+      "i": 19,
+      "text": "The Philadelphia chip index rose almost 7%, as AMD, Broadcom and Micron recovered part of last week's losses.",
+      "start": 101.95,
+      "end": 110.1
+     },
+     {
+      "i": 20,
+      "text": "Energy lagged.",
+      "start": 110.38,
+      "end": 111.41
+     }
+    ],
+    [
+     {
+      "i": 21,
+      "text": "Brent crude fell more than 5%, to about $93 a barrel, its first close below that level since early September.",
+      "start": 111.69,
+      "end": 119.24
+     },
+     {
+      "i": 22,
+      "text": "West Texas Intermediate settled at $86.85.",
+      "start": 119.52,
+      "end": 124.02
+     },
+     {
+      "i": 23,
+      "text": "President Trump said he had told the military to hold off strikes on Iran's energy plants for five days while talks continue.",
+      "start": 124.3,
+      "end": 131.38
+     },
+     {
+      "i": 24,
+      "text": "Gold rose to about $4,140 an ounce.",
+      "start": 131.66,
+      "end": 135.27
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 136.4,
+   "paragraphs": [
+    [
+     {
+      "i": 25,
+      "text": "Nvidia fell 4.27%, losing about $190 billion of market value.",
+      "start": 136.4,
+      "end": 142.97
+     },
+     {
+      "i": 26,
+      "text": "Its board said independent directors will investigate reports that chief executive Jensen Huang was targeted by a foreign intelligence operation, after he disclosed a personal relationship with a businesswoman American officials reportedly link to China.",
+      "start": 143.25,
+      "end": 159.87
+     },
+     {
+      "i": 27,
+      "text": "The board said it has no reason to believe company secrets or national security were compromised.",
+      "start": 160.15,
+      "end": 166.01
+     },
+     {
+      "i": 28,
+      "text": "China called the allegation unsubstantiated.",
+      "start": 166.29,
+      "end": 169.05
+     }
+    ],
+    [
+     {
+      "i": 29,
+      "text": "Constellation Energy rose about 10% after adjusted earnings of $5.06 a share, well above estimates.",
+      "start": 169.33,
+      "end": 177.8
+     },
+     {
+      "i": 30,
+      "text": "It raised its full-year forecast and bought back $800 million of stock in the quarter.",
+      "start": 178.08,
+      "end": 183.45
+     },
+     {
+      "i": 31,
+      "text": "Its nuclear fleet ran at 97% of capacity.",
+      "start": 183.73,
+      "end": 187.19
+     },
+     {
+      "i": 32,
+      "text": "NRG Energy agreed to sell six gas plants to LS Power for $4 billion in cash, and will use the money to cut debt and buy back shares.",
+      "start": 187.47,
+      "end": 197.26
+     },
+     {
+      "i": 33,
+      "text": "KKR's fee earnings rose 27%, and it added $500 million to its buyback.",
+      "start": 197.54,
+      "end": 203.98
+     }
+    ],
+    [
+     {
+      "i": 34,
+      "text": "After the close, Occidental beat estimates and said it has repaid $10.4 billion of debt this year.",
+      "start": 204.26,
+      "end": 211.05
+     },
+     {
+      "i": 35,
+      "text": "Take-Two's bookings fell 18%, but it confirmed that Grand Theft Auto Six launches on November 19th, said preorders are running far above its expectations, and its shares rose after hours.",
+      "start": 211.33,
+      "end": 224.06
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 225.19,
+   "paragraphs": [
+    [
+     {
+      "i": 36,
+      "text": "China's Commerce Ministry extended its pause on rare earth export controls by two months, to January 10th, along with its pause on a 24% tariff on American goods.",
+      "start": 225.19,
+      "end": 236.61
+     },
+     {
+      "i": 37,
+      "text": "That settles the question we raised on Friday.",
+      "start": 236.89,
+      "end": 239.55
+     }
+    ],
+    [
+     {
+      "i": 38,
+      "text": "Iran says it will hit energy targets across the region if its own are struck.",
+      "start": 239.83,
+      "end": 244.14
+     },
+     {
+      "i": 39,
+      "text": "Indirect talks continue through Qatar and Pakistan, with no deal announced.",
+      "start": 244.42,
+      "end": 248.69
+     },
+     {
+      "i": 40,
+      "text": "More tankers were reported hit near the Strait of Hormuz over the weekend.",
+      "start": 248.97,
+      "end": 253.06
+     }
+    ],
+    [
+     {
+      "i": 41,
+      "text": "Russian, Ukrainian and American delegations are in Abu Dhabi for talks today and tomorrow.",
+      "start": 253.34,
+      "end": 259.3
+     },
+     {
+      "i": 42,
+      "text": "In Washington, Stephen Miller started as chief of staff, and Republican Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth.",
+      "start": 259.58,
+      "end": 269.84
+     },
+     {
+      "i": 43,
+      "text": "Government funding runs out on December 11th.",
+      "start": 270.12,
+      "end": 273.1
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 274.23,
+   "paragraphs": [
+    [
+     {
+      "i": 44,
+      "text": "Consumer prices come out today at 8:30 am New York time, and CoreWeave reports after the close.",
+      "start": 274.23,
+      "end": 281.15
+     },
+     {
+      "i": 45,
+      "text": "The bond market is closed on Wednesday for Veterans Day.",
+      "start": 281.43,
+      "end": 284.5
+     },
+     {
+      "i": 46,
+      "text": "On Thursday, Britain reports third-quarter growth, Munich Re reports full results, and Cisco and Applied Materials report after the close.",
+      "start": 284.78,
+      "end": 293.27
+     },
+     {
+      "i": 47,
+      "text": "Producer prices follow on Friday.",
+      "start": 293.55,
+      "end": 295.7
+     },
+     {
+      "i": 48,
+      "text": "That is the briefing.",
+      "start": 295.98,
+      "end": 297.14
+     },
+     {
+      "i": 49,
+      "text": "Have a good day.",
+      "start": 297.42,
+      "end": 298.42
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,389.75",
+   "change": "+2.15%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,549.94",
+   "change": "+2.35%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "25,253.14",
+   "change": "+2.74%",
+   "dir": "up"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "4.88%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.56%",
+   "change": "+0.05",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.24%",
+   "change": "+0.05",
+   "dir": "up"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.26%",
+   "change": "0.00",
+   "dir": "flat"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "≈$93",
+   "change": "(≈5.5%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "$86.85",
+   "change": "(4.4%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nvidia",
+   "value": "",
+   "change": "(4.27%)",
+   "dir": "down"
+  },
+  {
+   "label": "China consumer prices, October, year on year",
+   "value": "+0.7%",
+   "change": "0.8% expected",
+   "dir": "down"
+  },
+  {
+   "label": "China producer prices, October, year on year",
+   "value": "+5.7%",
+   "change": "about 5.3% expected",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Monday, November 9, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them. Brent settlement differs slightly by source.",
+ "sources": [
+  {
+   "title": "CNBC: Dow surges 1,100 points as tech rebounds",
+   "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "AP via WTOP: How major US stock indexes fared, November 9",
+   "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-monday-11-9-2026"
+  },
+  {
+   "title": "Seeking Alpha: Chip stocks minus Nvidia surge",
+   "url": "https://seekingalpha.com/news/4669027-chip-stocks-minus-nvidia-surge-to-start-trading-week"
+  },
+  {
+   "title": "24/7 Wall St: Oil falls to $93",
+   "url": "https://247wallst.com/investing/2026/11/09/oil-just-fell-to-93-a-72-year-old-widow-who-heats-with-oil-is-still-paying-6-a-gallon-heres-what-the-slide-is-worth-to-her-this-winter/"
+  },
+  {
+   "title": "Globe and Mail/Reuters: Oil falls as Trump signals restraint on Iran",
+   "url": "https://www.theglobeandmail.com/investing/article-oil-falls-as-trump-signals-restraint-on-iran-despite-fresh-shipping/"
+  },
+  {
+   "title": "Barchart: Trump pauses Iran energy strikes for five days",
+   "url": "https://www.barchart.com/story/news/908233/trump-pauses-iran-energy-strikes-for-5-days-as-negotiation-claims-lift-markets-oil-falls"
+  },
+  {
+   "title": "Kitco: Gold price",
+   "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "InvestingLive: 3-year note auction",
+   "url": "https://investinglive.com/news/u-s-treasury-sells-58-billion-of-3-year-notes-at-a-high-yield-of-4-627/"
+  },
+  {
+   "title": "InvestingLive: Goolsbee sees inflation in services",
+   "url": "https://investinglive.com/central-banks/fed-s-goolsbee-starting-to-see-inflation-kicking-up-in-services/"
+  },
+  {
+   "title": "CNBC: October consumer price index preview",
+   "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+  },
+  {
+   "title": "Xinhua: China October consumer prices",
+   "url": "https://english.news.cn/20261109/8cba51c016304f11a089bb1d290bf020/c.html"
+  },
+  {
+   "title": "CNBC: China wholesale inflation rises",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+  },
+  {
+   "title": "CNBC: Nvidia stock falls as scrutiny turns to Jensen Huang",
+   "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+  },
+  {
+   "title": "Bloomberg: Nvidia board to probe spying case",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"
+  },
+  {
+   "title": "Constellation reports third quarter 2026 results",
+   "url": "https://www.constellationenergy.com/news/2026/11/constellation-reports-third-quarter-2026-results.html"
+  },
+  {
+   "title": "TIKR: Constellation Energy soars 10%",
+   "url": "https://www.tikr.com/blog/constellation-energy-soars-10-as-guidance-raise-shrugs-off-data-center-backlash"
+  },
+  {
+   "title": "NRG third quarter 2026 release (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001013871/000101387126000022/nrgq32026ex991.htm"
+  },
+  {
+   "title": "POWER magazine: LS Power buying NRG gas plants",
+   "url": "https://www.powermag.com/ls-power-buying-nearly-5-gw-of-gas-fired-generation-from-nrg-in-4-billion-deal/"
+  },
+  {
+   "title": "KKR third quarter 2026 release (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001404912/000140491226000030/q326earningsrelease_vf.htm"
+  },
+  {
+   "title": "Investing.com: Occidental beats forecasts",
+   "url": "https://www.investing.com/news/earnings/occidental-beats-q3-forecasts-as-production-offsets-lower-crude-prices-5013367"
+  },
+  {
+   "title": "Take-Two fiscal second quarter 2027 results",
+   "url": "https://www.financialcontent.com/article/bizwire-2026-11-9-take-two-interactive-software-inc-reports-results-for-fiscal-second-quarter-2027"
+  },
+  {
+   "title": "GamesBeat: Take-Two bookings",
+   "url": "https://gamesbeat.com/take-two-reports-bookings-for-fiscal-q2-of-1-6b-down-18-and-below-expectations/"
+  },
+  {
+   "title": "Reuters via Investing.com: China extends rare earth pause to January",
+   "url": "https://www.investing.com/news/commodities-news/china-extends-suspension-of-new-rare-earth-controls-until-january-5010878"
+  },
+  {
+   "title": "The Star: China extends suspension of rare earth export controls",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/china-extends-suspension-of-rare-earth-export-controls-until-january"
+  },
+  {
+   "title": "CNBC: Trump says Iran strikes unlikely if talks succeed",
+   "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+  },
+  {
+   "title": "Maritime Executive: Tanker burns after strike in Hormuz",
+   "url": "https://maritime-executive.com/article/tanker-burns-after-strike-in-strait-of-hormuz"
+  },
+  {
+   "title": "Xinhua: Abu Dhabi talks",
+   "url": "https://english.news.cn/20261110/5a59c76ed3524462b62a211cceb439c1/c.html"
+  },
+  {
+   "title": "Washington Post: Stephen Miller begins as chief of staff",
+   "url": "https://www.washingtonpost.com/politics/2026/11/09/stephen-miller-begins-new-role-trump-chief-staff/"
+  },
+  {
+   "title": "CBS News: Hegseth impeachment articles",
+   "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
+  },
+  {
+   "title": "CBS News: Congress returns for lame duck",
+   "url": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}
