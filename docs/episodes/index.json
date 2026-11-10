@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-11",
+   "title": "Omaha Morning Brief",
+   "dateline": "Wednesday, November 11, 2026",
+   "summary": "Consumer prices rise more than expected; the 10-year Treasury yield nears 5%; a December rate increase looks near-certain; Nvidia falls again; a correction on Iran.",
+   "duration": 311.1,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 24.27
+    },
+    {
+     "heading": "Markets",
+     "start": 104.79
+    },
+    {
+     "heading": "Companies",
+     "start": 150.46
+    },
+    {
+     "heading": "The world",
+     "start": 225.66
+    },
+    {
+     "heading": "Coming up",
+     "start": 285.06
+    }
+   ]
+  },
+  {
    "id": "2026-11-10",
    "title": "Omaha Morning Brief",
    "dateline": "Tuesday, November 10, 2026",

@@ -1,0 +1,599 @@
+{
+ "id": "2026-11-11",
+ "title": "Omaha Morning Brief",
+ "dateline": "Wednesday, November 11, 2026",
+ "summary": "Consumer prices rise more than expected; the 10-year Treasury yield nears 5%; a December rate increase looks near-certain; Nvidia falls again; a correction on Iran.",
+ "duration": 311.1,
+ "audio": "episodes/2026-11-11/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Wednesday, November 11th.",
+      "start": 1.56,
+      "end": 3.69
+     },
+     {
+      "i": 2,
+      "text": "American consumer prices rose 0.4% in October, more than expected.",
+      "start": 3.97,
+      "end": 9.41
+     },
+     {
+      "i": 3,
+      "text": "Treasury yields jumped, and markets now treat a Federal Reserve rate increase in December as close to certain.",
+      "start": 9.69,
+      "end": 15.75
+     },
+     {
+      "i": 4,
+      "text": "Stocks slipped, led by another fall in Nvidia.",
+      "start": 16.03,
+      "end": 18.81
+     },
+     {
+      "i": 5,
+      "text": "Oil fell again.",
+      "start": 19.09,
+      "end": 20.11
+     },
+     {
+      "i": 6,
+      "text": "And a correction on Iran from yesterday's briefing.",
+      "start": 20.39,
+      "end": 23.14
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 24.27,
+   "paragraphs": [
+    [
+     {
+      "i": 7,
+      "text": "Consumer prices rose 0.4% in October, against 0.3% expected.",
+      "start": 24.27,
+      "end": 30.61
+     },
+     {
+      "i": 8,
+      "text": "Prices excluding food and energy rose 0.3%, the third month in a row at that pace, against 0.2% expected.",
+      "start": 30.89,
+      "end": 39.78
+     },
+     {
+      "i": 9,
+      "text": "Shelter rose 0.3%, food 0.5%, and energy 0.7%.",
+      "start": 40.06,
+      "end": 46.72
+     },
+     {
+      "i": 10,
+      "text": "There is no annual rate this month; in September it was 3.7%.",
+      "start": 47.0,
+      "end": 51.52
+     }
+    ],
+    [
+     {
+      "i": 11,
+      "text": "Governor Christopher Waller had said a core reading of 0.3% would put a half-point increase on the table.",
+      "start": 51.8,
+      "end": 58.39
+     },
+     {
+      "i": 12,
+      "text": "Futures markets now price a December increase as near-certain, with about a one in seven chance of half a point.",
+      "start": 58.67,
+      "end": 64.92
+     },
+     {
+      "i": 13,
+      "text": "Austan Goolsbee of the Chicago Federal Reserve Bank called the report discouraging.",
+      "start": 65.2,
+      "end": 70.22
+     },
+     {
+      "i": 14,
+      "text": "Michelle Bowman, the Federal Reserve's vice chair for supervision, said there is still work to do on inflation, and warned of a possible stock correction if artificial intelligence investments disappoint.",
+      "start": 70.5,
+      "end": 82.76
+     }
+    ],
+    [
+     {
+      "i": 15,
+      "text": "The 2-year Treasury yield jumped to 4.73%, and the 10-year to 4.98%.",
+      "start": 83.04,
+      "end": 89.51
+     },
+     {
+      "i": 16,
+      "text": "A $42 billion sale of 10-year notes drew weak demand, at 5.02%.",
+      "start": 89.79,
+      "end": 95.98
+     },
+     {
+      "i": 17,
+      "text": "The 3-month bill now pays 4.30%.",
+      "start": 96.26,
+      "end": 99.16
+     },
+     {
+      "i": 18,
+      "text": "Small business confidence was steady, just below its long-run average.",
+      "start": 99.44,
+      "end": 103.66
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 104.79,
+   "paragraphs": [
+    [
+     {
+      "i": 19,
+      "text": "The S&P 500 fell 0.38%, to 7,521.",
+      "start": 104.79,
+      "end": 111.17
+     },
+     {
+      "i": 20,
+      "text": "The Nasdaq fell 0.74%, and the Dow 0.30%.",
+      "start": 111.45,
+      "end": 116.48
+     },
+     {
+      "i": 21,
+      "text": "Technology was the weakest group.",
+      "start": 116.76,
+      "end": 118.66
+     },
+     {
+      "i": 22,
+      "text": "GE Vernova fell about 7% after SoftBank took a $3.7 billion charge on power equipment for American data centers.",
+      "start": 118.94,
+      "end": 128.41
+     }
+    ],
+    [
+     {
+      "i": 23,
+      "text": "Brent crude settled at about $91.50 a barrel, down about 1%, after briefly trading below $90 for the first time since August.",
+      "start": 128.69,
+      "end": 138.55
+     },
+     {
+      "i": 24,
+      "text": "West Texas Intermediate settled at $86.04.",
+      "start": 138.83,
+      "end": 142.93
+     },
+     {
+      "i": 25,
+      "text": "Gold fell more than 2%, to about $4,000 an ounce, as yields and the dollar rose.",
+      "start": 143.21,
+      "end": 149.33
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 150.46,
+   "paragraphs": [
+    [
+     {
+      "i": 26,
+      "text": "Nvidia fell 5.5%, its second straight loss, and has given up its gains for the year.",
+      "start": 150.46,
+      "end": 156.67
+     },
+     {
+      "i": 27,
+      "text": "The chairman of the House Foreign Affairs Committee threatened to subpoena chief executive Jensen Huang if he does not agree to a closed-door briefing, as the board's investigation continues.",
+      "start": 156.95,
+      "end": 168.55
+     }
+    ],
+    [
+     {
+      "i": 28,
+      "text": "After the close, CoreWeave's revenue rose 168%, to $3.66 billion, above estimates.",
+      "start": 168.83,
+      "end": 176.58
+     },
+     {
+      "i": 29,
+      "text": "Its order backlog grew to about $132 billion, and it raised its full-year revenue forecast.",
+      "start": 176.86,
+      "end": 183.62
+     },
+     {
+      "i": 30,
+      "text": "It also expects to spend $37 to $39 billion on equipment this year, and carries almost $47 billion of debt.",
+      "start": 183.9,
+      "end": 192.92
+     },
+     {
+      "i": 31,
+      "text": "The shares rose modestly after hours.",
+      "start": 193.2,
+      "end": 195.46
+     }
+    ],
+    [
+     {
+      "i": 32,
+      "text": "Take-Two rose about 8% on strong preorders for Grand Theft Auto Six.",
+      "start": 195.74,
+      "end": 200.54
+     },
+     {
+      "i": 33,
+      "text": "Skydance, which now owns Paramount and Warner Brothers, fell about 9% in its first report since the merger, as investors focused on $87 billion of debt.",
+      "start": 200.82,
+      "end": 211.77
+     }
+    ],
+    [
+     {
+      "i": 34,
+      "text": "In insurance, Gallagher Re estimates that insured catastrophe losses for the year have passed $100 billion, later than usual.",
+      "start": 212.05,
+      "end": 220.62
+     },
+     {
+      "i": 35,
+      "text": "Losses through September were the lowest since 2019.",
+      "start": 220.9,
+      "end": 224.53
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 225.66,
+   "paragraphs": [
+    [
+     {
+      "i": 36,
+      "text": "A correction.",
+      "start": 225.66,
+      "end": 226.58
+     },
+     {
+      "i": 37,
+      "text": "Yesterday we said President Trump had paused strikes on Iran's energy plants for five days.",
+      "start": 226.86,
+      "end": 232.11
+     },
+     {
+      "i": 38,
+      "text": "That was wrong.",
+      "start": 232.39,
+      "end": 233.35
+     },
+     {
+      "i": 39,
+      "text": "That pause dates from March.",
+      "start": 233.63,
+      "end": 235.23
+     },
+     {
+      "i": 40,
+      "text": "On Monday, after meeting Qatar's prime minister, he said he would hold off on new strikes for now, at the request of Gulf states, while keeping the naval blockade in place.",
+      "start": 235.51,
+      "end": 245.47
+     },
+     {
+      "i": 41,
+      "text": "Iran's Revolutionary Guard said two more tankers were burning in the Strait of Hormuz.",
+      "start": 245.75,
+      "end": 250.68
+     },
+     {
+      "i": 42,
+      "text": "That is not independently confirmed.",
+      "start": 250.96,
+      "end": 253.07
+     }
+    ],
+    [
+     {
+      "i": 43,
+      "text": "Russian, Ukrainian and American negotiators met for about four hours in Abu Dhabi, their first three-way talks since February.",
+      "start": 253.35,
+      "end": 261.18
+     },
+     {
+      "i": 44,
+      "text": "Ukraine called the first day constructive, said prisoner releases are its priority, and has proposed a partial ceasefire at sea and on energy.",
+      "start": 261.46,
+      "end": 270.27
+     },
+     {
+      "i": 45,
+      "text": "Talks continue today.",
+      "start": 270.55,
+      "end": 271.91
+     }
+    ],
+    [
+     {
+      "i": 46,
+      "text": "China's exports rose 35% from a year earlier in October, and imports rose 42%.",
+      "start": 272.19,
+      "end": 278.45
+     },
+     {
+      "i": 47,
+      "text": "Its trade surplus this year has passed $1 trillion for the second year in a row.",
+      "start": 278.73,
+      "end": 283.93
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 285.06,
+   "paragraphs": [
+    [
+     {
+      "i": 48,
+      "text": "The American bond market is closed today for Veterans Day; stocks are open.",
+      "start": 285.06,
+      "end": 289.52
+     },
+     {
+      "i": 49,
+      "text": "The House is expected to vote this week on impeachment articles against Defense Secretary Pete Hegseth, which he called a farce.",
+      "start": 289.8,
+      "end": 297.18
+     },
+     {
+      "i": 50,
+      "text": "On Thursday, Britain reports third-quarter growth, Munich Re reports full results, and Cisco and Applied Materials report after the close.",
+      "start": 297.46,
+      "end": 305.95
+     },
+     {
+      "i": 51,
+      "text": "Producer prices follow on Friday.",
+      "start": 306.23,
+      "end": 308.39
+     },
+     {
+      "i": 52,
+      "text": "That is the briefing.",
+      "start": 308.67,
+      "end": 309.82
+     },
+     {
+      "i": 53,
+      "text": "Have a good day.",
+      "start": 310.1,
+      "end": 311.1
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,231.89",
+   "change": "(0.30%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,520.93",
+   "change": "(0.38%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "25,065.87",
+   "change": "(0.74%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "4.98%",
+   "change": "+0.10",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.73%",
+   "change": "+0.17",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.30%",
+   "change": "+0.06",
+   "dir": "up"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.35%",
+   "change": "+0.09",
+   "dir": "up"
+  },
+  {
+   "label": "Consumer prices, October, month",
+   "value": "+0.4%",
+   "change": "0.3% expected",
+   "dir": "up"
+  },
+  {
+   "label": "Core consumer prices, October, month",
+   "value": "+0.3%",
+   "change": "0.2% expected",
+   "dir": "up"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$91.49",
+   "change": "(1.17%)",
+   "dir": "down"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "$86.04",
+   "change": "(0.93%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nvidia",
+   "value": "$168.80",
+   "change": "(5.53%)",
+   "dir": "down"
+  }
+ ],
+ "numbers_note": "Closing levels for Tuesday, November 10, 2026. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "CNBC: Consumer prices rose 0.4% in October",
+   "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+  },
+  {
+   "title": "CNBC: October 2026 inflation breakdown",
+   "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html"
+  },
+  {
+   "title": "Morningstar: October CPI above forecasts",
+   "url": "https://www.morningstar.com/economy/october-cpi-report-shows-inflation-04-monthly-rate-above-forecasts"
+  },
+  {
+   "title": "HousingWire: October CPI and the Fed",
+   "url": "https://www.housingwire.com/articles/october-cpi-fed-hike/"
+  },
+  {
+   "title": "CBS News: October CPI and rate hike odds",
+   "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+  },
+  {
+   "title": "InvestingLive: Goolsbee calls CPI discouraging",
+   "url": "https://investinglive.com/central-banks/fed-s-goolsbee-cpi-was-discouraging-more-bad-months-would-be-unacceptable/"
+  },
+  {
+   "title": "RTTNews: Ten-year note auction attracts below-average demand",
+   "url": "https://www.rttnews.com/3712690/ten-year-note-auction-attracts-below-average-demand.aspx"
+  },
+  {
+   "title": "NFIB October survey via Cascade Business News",
+   "url": "https://cascadebusnews.com/nfib-survey-main-street-optimism-remains-steady-uncertainty-declines-in-october/"
+  },
+  {
+   "title": "Kiplinger: Stocks drop as rate-hike worries rise",
+   "url": "https://www.kiplinger.com/investing/stocks/stocks-drop-as-rate-hike-worries-rise-stock-market-today"
+  },
+  {
+   "title": "CNBC: Stock market live updates, November 10",
+   "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"
+  },
+  {
+   "title": "Seeking Alpha: GE Vernova falls after SoftBank revises plans",
+   "url": "https://seekingalpha.com/news/4669839-ge-vernova-falls-nearly-10-percent-after-softbank-revises-ai-data-center-plans"
+  },
+  {
+   "title": "CNBC: Oil prices and Trump on Iran",
+   "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+  },
+  {
+   "title": "OilPrice: Brent falls below $90 for first time since August",
+   "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html"
+  },
+  {
+   "title": "Reuters via TradingView: Gold falls nearly 3% after CPI",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46R0Z4:0-gold-falls-nearly-3-as-cpi-tops-forecasts-lifting-dollar-and-yields/"
+  },
+  {
+   "title": "CNBC: Nvidia and Jensen Huang",
+   "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+  },
+  {
+   "title": "Seeking Alpha: Nvidia falls another 5%",
+   "url": "https://seekingalpha.com/news/4670148-nvidia-falls-another-5-amid-ongoing-concerns-about-huang-probe-and-china-exports"
+  },
+  {
+   "title": "Decrypt: Republicans threaten Nvidia CEO subpoena",
+   "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena"
+  },
+  {
+   "title": "CoreWeave third quarter 2026 results",
+   "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx"
+  },
+  {
+   "title": "CNBC: CoreWeave third quarter earnings",
+   "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+  },
+  {
+   "title": "TradingKey: CoreWeave capital spending and debt",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299527-coreweave-earnings-report-q3-revenue-growth-backlog-capital-expenditures-net-loss-tradingkey"
+  },
+  {
+   "title": "24/7 Wall St: Take-Two jumps on GTA VI preorders",
+   "url": "https://247wallst.com/investing/2026/11/10/take-two-jumps-8-as-gta-vi-preorders-run-far-in-excess-of-expectations-sony-and-roblox-slide-2/"
+  },
+  {
+   "title": "TheWrap: Skydance stock reaction",
+   "url": "https://www.thewrap.com/industry-news/business/skydance-stock-reaction-earnings-q3-2026/"
+  },
+  {
+   "title": "CNBC (March 23, 2026): Trump's five-day pause on Iran energy strikes",
+   "url": "https://www.cnbc.com/2026/03/23/trump-iran-war-power-plants-energy-infrastructure-middle-east.html"
+  },
+  {
+   "title": "CBC/Reuters: Trump will hold off on fresh Iran strikes for now",
+   "url": "https://www.cbc.ca/news/world/trump-will-hold-off-on-fresh-iran-strikes-9.7416010"
+  },
+  {
+   "title": "TASS: Tankers in the Strait of Hormuz",
+   "url": "https://tass.com/world/2215747"
+  },
+  {
+   "title": "NPR: Russia-Ukraine talks in Abu Dhabi",
+   "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+  },
+  {
+   "title": "Kyiv Post: Abu Dhabi talks day one",
+   "url": "https://www.kyivpost.com/post/89694"
+  },
+  {
+   "title": "CNBC: China October trade",
+   "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+  },
+  {
+   "title": "NBC News: China trade surplus passes $1 trillion",
+   "url": "https://www.nbcnews.com/world/asia/chinas-trade-surplus-surpasses-1-trillion-2nd-straight-year-exports-rcna608493"
+  },
+  {
+   "title": "CBS News: Hegseth news conference",
+   "url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}
