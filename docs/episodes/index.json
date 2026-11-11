@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-12",
+   "title": "Omaha Morning Brief",
+   "dateline": "Thursday, November 12, 2026",
+   "summary": "CoreWeave jumps about 25% and lifts chip stocks; Federal Reserve officials back a December increase; Russia and Ukraine agree a prisoner swap; the House shelves the Hegseth impeachment.",
+   "duration": 296.97,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 28.17
+    },
+    {
+     "heading": "Markets",
+     "start": 72.54
+    },
+    {
+     "heading": "Companies",
+     "start": 132.51
+    },
+    {
+     "heading": "The world",
+     "start": 189.7
+    },
+    {
+     "heading": "Coming up",
+     "start": 272.04
+    }
+   ]
+  },
+  {
    "id": "2026-11-11",
    "title": "Omaha Morning Brief",
    "dateline": "Wednesday, November 11, 2026",

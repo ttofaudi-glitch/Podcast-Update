@@ -1,0 +1,81 @@
+{
+  "title": "Omaha Morning Brief",
+  "dateline": "Thursday, November 12, 2026",
+  "summary": "CoreWeave jumps about 25% and lifts chip stocks; Federal Reserve officials back a December increase; Russia and Ukraine agree a prisoner swap; the House shelves the Hegseth impeachment.",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "pronounce": {"CoreWeave": "Core-Weave", "Huang": "Hwahng", "Waller": "Wall-er", "Rezaei": "Reh-zah-ee", "Medinsky": "Meh-din-skee", "Umerov": "Oo-meh-rov", "Kushner": "Kush-ner", "Witkoff": "Wit-koff", "Hegseth": "Heg-seth", "Massie": "Mass-ee", "Eisenkot": "Eye-zen-kot", "Hormuz": "Hor-mooz"},
+  "sections": [
+    {"heading": "The short version", "paragraphs": [
+      "Good morning, Warren. It is Thursday, November 12th. Stocks rose as CoreWeave jumped about 25% on its results and revived chip and artificial intelligence shares. Federal Reserve officials lined up behind a December rate increase. Russia and Ukraine agreed to a large prisoner exchange in Abu Dhabi, but made no progress on territory. And the House shelved the impeachment of Defense Secretary Pete Hegseth."
+    ]},
+    {"heading": "Rates and inflation", "paragraphs": [
+      "The bond market was closed on Wednesday for Veterans Day. As of Tuesday, the 10-year Treasury yield was 4.98%, the 2-year 4.73%, and the 3-month bill 4.30%.",
+      "After Tuesday's hot inflation report, Governor Christopher Waller said a December increase looks likely and he is open to half a point. Lorie Logan, president of the Dallas Federal Reserve Bank, said rates are at least half a point below where they need to be. Futures markets treat a December increase as near-certain, with about a one in ten chance of half a point.",
+      "Today brings weekly jobless claims and a $25 billion sale of 30-year bonds. Producer prices follow on Friday."
+    ]},
+    {"heading": "Markets", "paragraphs": [
+      "The S&P 500 rose 1.31%, to 7,619. The Nasdaq rose 1.6%, and the Dow 0.49%. The Philadelphia chip index rose more than 5%. Micron, SanDisk and Coherent all rose more than 10%, and Apple reached a record high.",
+      "Brent crude rose about 1.4%, to about $92.76 a barrel, after Iran's security chief denied any talks with Washington and called reports of a meeting in Qatar lies. West Texas Intermediate settled near $86.50. Gold slipped just below $4,000 an ounce, and the dollar rose. The yen weakened to about 159 to the dollar, close to the level where Japan bought yen in July. Japan disclosed this week that it spent a record 15.4 trillion yen on that intervention, about $97 billion."
+    ]},
+    {"heading": "Companies", "paragraphs": [
+      "CoreWeave rose about 25%, its biggest one-day gain in about 17 months, after Tuesday's report of 168% revenue growth and a raised forecast. The stock had fallen from about $187 in June 2025 to about $41 last week.",
+      "Nvidia rose about 4%, after losing nearly 10% in two days. Baird cut its rating to neutral and its price target to $200 from $500, citing possible cuts in spending by the large cloud companies and uncertainty over the chief executive. House Republicans said they are likely to subpoena Jensen Huang.",
+      "In Germany, Siemens Energy reported record annual results and announced a new buyback of up to nine billion euros. Its shares rose about 7%. Corteva cut its full-year outlook because of weak sales in Brazil."
+    ]},
+    {"heading": "The world", "paragraphs": [
+      "Russia and Ukraine agreed in principle to a large prisoner exchange after two days of talks in Abu Dhabi, with numbers still to be set. There was no progress on territory. Russia's chief negotiator, Vladimir Medinsky, said a settlement seemed closer, but repeated Russia's claims to Ukrainian land. American envoys Steve Witkoff and Jared Kushner go to Moscow to meet President Putin.",
+      "Iran says the Strait of Hormuz stays closed until its seven conditions are met. President Trump says the United States has won the war and is holding off on new strikes for now. American officials call Iran's demands outrageous.",
+      "The House voted 211 to 204 to send the Hegseth impeachment articles to committee, which effectively ends them in this Congress. Thomas Massie was the only Republican to vote against shelving them. Jim Jordan was elected to lead House Republicans in the next Congress. Government funding runs out on December 11th, and the two parties are far apart. Democrats lead in the Senate races in Mississippi and Alaska, which are still uncalled.",
+      "In Israel, Gadi Eisenkot broke off coalition talks with Netanyahu's Likud party. In Turkey, world leaders met at the COP31 climate summit, without the leaders of America, China or India."
+    ]},
+    {"heading": "Coming up", "paragraphs": [
+      "Britain reports third-quarter growth this morning, expected at 0.7%. Munich Re, Allianz and Siemens report today. Cisco and Applied Materials report after the New York close. Weekly American crude inventories come out today, a day late because of the holiday. On Friday, producer prices and results from Japan's three largest banks. That is the briefing. Have a good day."
+    ]}
+  ],
+  "numbers_note": "Stock and commodity levels for Wednesday, November 11, 2026. The bond market was closed for Veterans Day, so Treasury yields are Tuesday's, from the United States Treasury. Declines are in parentheses, the way an accountant writes them.",
+  "numbers": [
+    {"label": "Dow Jones Industrial Average", "value": "52,486.49", "change": "+0.49%", "dir": "up"},
+    {"label": "S&P 500", "value": "7,619.38", "change": "+1.31%", "dir": "up"},
+    {"label": "Nasdaq Composite", "value": "25,466.19", "change": "+1.60%", "dir": "up"},
+    {"label": "10-year Treasury yield (Tuesday)", "value": "4.98%", "change": "", "dir": "flat"},
+    {"label": "2-year Treasury yield (Tuesday)", "value": "4.73%", "change": "", "dir": "flat"},
+    {"label": "3-month Treasury bill (Tuesday)", "value": "4.30%", "change": "", "dir": "flat"},
+    {"label": "Brent crude, per barrel", "value": "≈$92.76", "change": "+1.4%", "dir": "up"},
+    {"label": "West Texas Intermediate, per barrel", "value": "≈$86.53", "change": "+0.6%", "dir": "up"},
+    {"label": "CoreWeave", "value": "", "change": "≈+25%", "dir": "up"},
+    {"label": "Nvidia", "value": "", "change": "≈+4%", "dir": "up"}
+  ],
+  "sources": [
+    {"title": "CNBC: Stock market news for November 11, 2026", "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"},
+    {"title": "Kiplinger: Nasdaq adds 400 points after CoreWeave earnings", "url": "https://kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today"},
+    {"title": "TheStreet: Stock market today, November 11, 2026", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"},
+    {"title": "CNBC: Stocks moving the most, November 11", "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html"},
+    {"title": "CNBC: CoreWeave soars on outlook", "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"},
+    {"title": "StockTitan: Stock market today, November 11, 2026", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"},
+    {"title": "CNBC: Fed Governor Waller sees December hike likely", "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"},
+    {"title": "Bloomberg: Waller backs December hike; Logan comments", "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-waller-backs-december-rate-hike-says-open-to-larger-move"},
+    {"title": "Seoul Economic Daily: December rate hike odds", "url": "https://en.sedaily.com/world/2026/11/11/december-rate-hike-odds-hit-100-percent-after-hot-us"},
+    {"title": "MLQ: Brent rises as Iran denies talks", "url": "https://mlq.ai/news/brent-rises-as-iran-denies-talks-and-the-eia-sees-oil-near-100-through-year-end/"},
+    {"title": "Ship & Bunker: Oil rebounds after Iran denies negotiations", "url": "https://shipandbunker.com/news/world/743531-oil-rebounds-after-iran-denies-any-peace-negotiations-doubles-down-on-nuclear-development"},
+    {"title": "Al Jazeera: Iran denies talks with US", "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"},
+    {"title": "CNBC: Gold after the selloff", "url": "https://www.cnbc.com/2026/11/11/gold-edges-higher-after-sharp-selloff-fed-hike-bets-weigh.html"},
+    {"title": "FXStreet: Japanese yen struggles as Fed hike odds rise", "url": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-odds-lift-usd-jpy-202611110201"},
+    {"title": "CNBC: Baird downgrades Nvidia", "url": "https://www.cnbc.com/2026/11/11/nvidia-baird-downgrade-ceo-ai-capex.html"},
+    {"title": "Bloomberg: Congress set to subpoena Jensen Huang", "url": "https://www.bloomberg.com/news/articles/2026-11-11/congress-set-to-subpoena-nvidia-s-jensen-huang-republican-says"},
+    {"title": "Investing.com: Siemens Energy stock surges", "url": "https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-surging-today-93CH-5017986"},
+    {"title": "Seeking Alpha: Siemens Energy buyback", "url": "https://seekingalpha.com/news/4670813-siemens-energy-shares-surge-on-profit-outlook-10b-buyback"},
+    {"title": "Corteva third quarter 2026 results", "url": "https://www.prnewswire.com/news-releases/corteva-reports-third-quarter-2026-results-updates-fy-2026-outlook-302936913.html"},
+    {"title": "NPR: Russia and Ukraine agree to a prisoner exchange", "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks"},
+    {"title": "Euronews: Abu Dhabi talks end with prisoner exchange agreement", "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"},
+    {"title": "NPR: Trump says US won Iran war", "url": "https://www.npr.org/2026/11/11/nx-s1-6035875/trump-says-us-won-iran-war-iran-responds"},
+    {"title": "NBC News: US rejects Iran's outrageous conditions", "url": "https://www.nbcnews.com/world/iran/iran-defends-2-day-proposal-peace-talks-us-rejects-outrageous-conditio-rcna608263"},
+    {"title": "NPR: House votes to effectively end Hegseth impeachment effort", "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"},
+    {"title": "CBS News: Jim Jordan elected House Republican leader", "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/"},
+    {"title": "Washington Post: Congress far from a funding deal", "url": "https://www.washingtonpost.com/politics/2026/11/11/one-month-shutdown-congress-is-far-deal-fund-government/"},
+    {"title": "Israel Hayom: Eisenkot cancels Likud coalition talks", "url": "https://www.israelhayom.com/2026/11/10/eisenkot-cancels-likud-coalition-talks-over-netanyahus-knesset-speech/"},
+    {"title": "AskTraders: Week ahead, UK GDP", "url": "https://www.asktraders.com/analysis/week-ahead-us-inflation-and-uk-gdp-after-a-rough-week/"},
+    {"title": "EIA weekly petroleum status report schedule", "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"},
+    {"title": "United States Treasury daily yield curve rates", "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"}
+  ]
+}
