@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-13",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, November 13, 2026",
+   "summary": "Jensen Huang resigns as Nvidia's chief executive; the 10-year Treasury yield passes 5%; oil rises again; Cisco raises its outlook; American envoys meet Putin.",
+   "duration": 301.62,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 27.88
+    },
+    {
+     "heading": "Markets",
+     "start": 78.05
+    },
+    {
+     "heading": "Companies",
+     "start": 128.73
+    },
+    {
+     "heading": "The world",
+     "start": 224.98
+    },
+    {
+     "heading": "Next week",
+     "start": 268.84
+    }
+   ]
+  },
+  {
    "id": "2026-11-12",
    "title": "Omaha Morning Brief",
    "dateline": "Thursday, November 12, 2026",

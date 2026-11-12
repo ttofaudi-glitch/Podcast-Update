@@ -1,0 +1,573 @@
+{
+ "id": "2026-11-13",
+ "title": "Omaha Morning Brief",
+ "dateline": "Friday, November 13, 2026",
+ "summary": "Jensen Huang resigns as Nvidia's chief executive; the 10-year Treasury yield passes 5%; oil rises again; Cisco raises its outlook; American envoys meet Putin.",
+ "duration": 301.62,
+ "audio": "episodes/2026-11-13/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Friday, November 13th.",
+      "start": 1.56,
+      "end": 3.63
+     },
+     {
+      "i": 2,
+      "text": "Jensen Huang resigned as Nvidia's chief executive, and finance chief Colette Kress is running the company for now.",
+      "start": 3.91,
+      "end": 11.65
+     },
+     {
+      "i": 3,
+      "text": "The 10-year Treasury yield rose above 5%.",
+      "start": 11.93,
+      "end": 15.07
+     },
+     {
+      "i": 4,
+      "text": "Stocks slipped.",
+      "start": 15.35,
+      "end": 16.39
+     },
+     {
+      "i": 5,
+      "text": "Oil rose about 3% after attacks on Saudi energy sites and President Trump's statement that America does not need a deal with Iran.",
+      "start": 16.67,
+      "end": 24.93
+     },
+     {
+      "i": 6,
+      "text": "Cisco raised its outlook.",
+      "start": 25.21,
+      "end": 26.75
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 27.88,
+   "paragraphs": [
+    [
+     {
+      "i": 7,
+      "text": "Treasury yields jumped after Wednesday's holiday.",
+      "start": 27.88,
+      "end": 30.67
+     },
+     {
+      "i": 8,
+      "text": "The 10-year yield rose to 5.10%, the 2-year to 4.86%, and the 3-month bill to 4.32%.",
+      "start": 30.95,
+      "end": 40.3
+     },
+     {
+      "i": 9,
+      "text": "A $25 billion sale of 30-year bonds drew weak demand for the second day in a row, at 5.44%.",
+      "start": 40.58,
+      "end": 48.77
+     }
+    ],
+    [
+     {
+      "i": 10,
+      "text": "Mary Daly, president of the San Francisco Federal Reserve Bank, said her bias is that further increases will be needed, as price pressures spread into services.",
+      "start": 49.05,
+      "end": 59.1
+     },
+     {
+      "i": 11,
+      "text": "Futures markets treat a December increase as near-certain.",
+      "start": 59.38,
+      "end": 62.77
+     }
+    ],
+    [
+     {
+      "i": 12,
+      "text": "Weekly jobless claims rose to 200,000, still low.",
+      "start": 63.05,
+      "end": 66.76
+     },
+     {
+      "i": 13,
+      "text": "Britain's economy grew 0.7% in the third quarter, its fastest in about two years.",
+      "start": 67.04,
+      "end": 73.12
+     },
+     {
+      "i": 14,
+      "text": "American producer prices come out tonight, Hong Kong time.",
+      "start": 73.4,
+      "end": 76.92
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 78.05,
+   "paragraphs": [
+    [
+     {
+      "i": 15,
+      "text": "The S&P 500 fell 0.35%, to 7,592.",
+      "start": 78.05,
+      "end": 84.56
+     },
+     {
+      "i": 16,
+      "text": "The Nasdaq fell 0.39%, and the Dow 0.36%.",
+      "start": 84.84,
+      "end": 89.93
+     },
+     {
+      "i": 17,
+      "text": "AMD and Broadcom rose more than 5%.",
+      "start": 90.21,
+      "end": 93.33
+     }
+    ],
+    [
+     {
+      "i": 18,
+      "text": "Brent crude rose about 3%, to near $96 a barrel, and West Texas Intermediate to about $89.",
+      "start": 93.61,
+      "end": 101.57
+     },
+     {
+      "i": 19,
+      "text": "Yemen's Houthis said they attacked a Saudi pipeline pumping station and an oil facility at Yanbu; Saudi Arabia said it shot down two drones.",
+      "start": 101.85,
+      "end": 110.7
+     },
+     {
+      "i": 20,
+      "text": "Iran said four tankers were hit in the Strait of Hormuz, which is not confirmed.",
+      "start": 110.98,
+      "end": 115.59
+     },
+     {
+      "i": 21,
+      "text": "Gold fell about 3%, to a one-year low near $3,870.",
+      "start": 115.87,
+      "end": 121.73
+     },
+     {
+      "i": 22,
+      "text": "The yen weakened toward 160 to the dollar, and Japan warned again against sharp moves.",
+      "start": 122.01,
+      "end": 127.6
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 128.73,
+   "paragraphs": [
+    [
+     {
+      "i": 23,
+      "text": "Jensen Huang, who co-founded Nvidia, resigned as chief executive and left the board after reports about his personal conduct, including an alleged link to a foreign intelligence effort.",
+      "start": 128.73,
+      "end": 141.0
+     },
+     {
+      "i": 24,
+      "text": "The board named its first independent chair and will search inside and outside the company for a successor.",
+      "start": 141.28,
+      "end": 147.57
+     },
+     {
+      "i": 25,
+      "text": "The shares fell as much as 14% before closing down about 4%.",
+      "start": 147.85,
+      "end": 152.53
+     },
+     {
+      "i": 26,
+      "text": "Nvidia reports results on Tuesday.",
+      "start": 152.81,
+      "end": 155.13
+     },
+     {
+      "i": 27,
+      "text": "Super Micro Computer fell 12.7% after Bloomberg reported that the Justice Department is examining whether its hardware was diverted to China.",
+      "start": 155.41,
+      "end": 165.14
+     }
+    ],
+    [
+     {
+      "i": 28,
+      "text": "After the close, Cisco's revenue rose 24%, to $18.5 billion, and it raised its full-year forecast.",
+      "start": 165.42,
+      "end": 173.61
+     },
+     {
+      "i": 29,
+      "text": "It now expects $9 billion of artificial intelligence orders from the largest cloud companies this year.",
+      "start": 173.89,
+      "end": 180.44
+     },
+     {
+      "i": 30,
+      "text": "It returned $3.7 billion to shareholders in the quarter.",
+      "start": 180.72,
+      "end": 184.8
+     },
+     {
+      "i": 31,
+      "text": "Applied Materials reported record revenue, up 53%, and forecast higher sales next quarter.",
+      "start": 185.08,
+      "end": 191.43
+     },
+     {
+      "i": 32,
+      "text": "Nebius, an artificial intelligence cloud company, fell about 16% after saying capacity delays will hold this year's revenue to the low end of its forecast.",
+      "start": 191.71,
+      "end": 202.38
+     }
+    ],
+    [
+     {
+      "i": 33,
+      "text": "In insurance, Allianz's natural catastrophe losses were about €1.1 billion in the quarter, mostly hail in Europe, against almost nothing a year earlier.",
+      "start": 202.66,
+      "end": 213.48
+     },
+     {
+      "i": 34,
+      "text": "It still raised its profit outlook.",
+      "start": 213.76,
+      "end": 215.61
+     },
+     {
+      "i": 35,
+      "text": "Munich Re confirmed a higher full-year profit target of €6.6 billion, as large losses came in below budget.",
+      "start": 215.89,
+      "end": 223.85
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 224.98,
+   "paragraphs": [
+    [
+     {
+      "i": 36,
+      "text": "American envoys Steve Witkoff and Jared Kushner met President Putin in Moscow for about two hours.",
+      "start": 224.98,
+      "end": 231.46
+     },
+     {
+      "i": 37,
+      "text": "Witkoff said a new round of talks has been set, with no date.",
+      "start": 231.74,
+      "end": 235.26
+     },
+     {
+      "i": 38,
+      "text": "The Kremlin called the talks useful, and Putin again rejected foreign peacekeepers in Ukraine.",
+      "start": 235.54,
+      "end": 240.86
+     },
+     {
+      "i": 39,
+      "text": "The envoys then met President Zelensky near Dublin.",
+      "start": 241.14,
+      "end": 244.29
+     }
+    ],
+    [
+     {
+      "i": 40,
+      "text": "President Trump wrote that America does not need a deal with Iran.",
+      "start": 244.57,
+      "end": 248.24
+     },
+     {
+      "i": 41,
+      "text": "Iran says the Strait of Hormuz stays closed until the blockade and sanctions are lifted.",
+      "start": 248.52,
+      "end": 253.6
+     },
+     {
+      "i": 42,
+      "text": "He also threatened to double tariffs on Mexico over migrant caravans.",
+      "start": 253.88,
+      "end": 258.49
+     }
+    ],
+    [
+     {
+      "i": 43,
+      "text": "An update on yesterday: Senator Cindy Hyde-Smith conceded the Mississippi Senate race to Democrat Scott Colom.",
+      "start": 258.77,
+      "end": 265.87
+     },
+     {
+      "i": 44,
+      "text": "Alaska is still counting.",
+      "start": 266.15,
+      "end": 267.71
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Next week",
+   "start": 268.84,
+   "paragraphs": [
+    [
+     {
+      "i": 45,
+      "text": "Tuesday is busy: American retail sales, results from Home Depot and Disney in the morning, and Nvidia after the close, its first report without Jensen Huang.",
+      "start": 268.84,
+      "end": 279.25
+     },
+     {
+      "i": 46,
+      "text": "On Wednesday, Federal Reserve minutes, British inflation, and results from Target, Lowe's and TJX.",
+      "start": 279.53,
+      "end": 285.74
+     },
+     {
+      "i": 47,
+      "text": "Leaders meet in Shenzhen for the Asia-Pacific summit on Wednesday and Thursday, where President Trump expects to see President Xi.",
+      "start": 286.02,
+      "end": 293.66
+     },
+     {
+      "i": 48,
+      "text": "Walmart reports on Thursday.",
+      "start": 293.94,
+      "end": 295.64
+     },
+     {
+      "i": 49,
+      "text": "Government funding runs out on December 11th.",
+      "start": 295.92,
+      "end": 298.91
+     },
+     {
+      "i": 50,
+      "text": "That is the briefing.",
+      "start": 299.19,
+      "end": 300.34
+     },
+     {
+      "i": 51,
+      "text": "Have a good day.",
+      "start": 300.62,
+      "end": 301.62
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,297.09",
+   "change": "(0.36%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,592.40",
+   "change": "(0.35%)",
+   "dir": "down"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "25,366.09",
+   "change": "(0.39%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.10%",
+   "change": "+0.12",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.86%",
+   "change": "+0.13",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.32%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.43%",
+   "change": "+0.08",
+   "dir": "up"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "≈$96",
+   "change": "≈+3%",
+   "dir": "up"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "≈$89",
+   "change": "≈+2.6%",
+   "dir": "up"
+  },
+  {
+   "label": "Nvidia",
+   "value": "≈$166",
+   "change": "(≈4.3%)",
+   "dir": "down"
+  },
+  {
+   "label": "UK gross domestic product, third quarter",
+   "value": "+0.7%",
+   "change": "0.7% expected",
+   "dir": "up"
+  },
+  {
+   "label": "Initial jobless claims",
+   "value": "200,000",
+   "change": "195,000 expected",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Thursday, November 12, 2026. Treasury yields from the United States Treasury; changes are from Tuesday, because the bond market was closed on Wednesday. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "Nvidia announces CEO transition (SEC Form 8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+  },
+  {
+   "title": "NPR: Nvidia CEO Jensen Huang steps down",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down"
+  },
+  {
+   "title": "CNBC: Nvidia stock closes down after Huang resignation",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+  },
+  {
+   "title": "TechCrunch: Nvidia names Colette Kress interim CEO",
+   "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+  },
+  {
+   "title": "Yahoo Finance: Stocks slip as Nvidia CEO exits and yields rise",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html"
+  },
+  {
+   "title": "AP via WPTF: Wall Street shakes with swings for Nvidia and oil",
+   "url": "https://www.wptf.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/"
+  },
+  {
+   "title": "InvestingLive: 30-year bond auction tails",
+   "url": "https://investinglive.com/news/us-30-year-bond-auction-tails-as-demand-disappoints-for-second-straight-day/"
+  },
+  {
+   "title": "Bloomberg: Daly says more rate hikes likely needed",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-12/fed-s-daly-says-more-rate-hikes-likely-needed-to-cool-inflation"
+  },
+  {
+   "title": "AP via News4Jax: Jobless claims tick up to 200,000",
+   "url": "https://www.news4jax.com/business/2026/11/12/us-jobless-claims-tick-up-to-200000-but-remain-low-by-historic-standards/"
+  },
+  {
+   "title": "CNBC: UK third-quarter GDP",
+   "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
+  },
+  {
+   "title": "RTE: UK economy grows 0.7% in third quarter",
+   "url": "https://www.rte.ie/news/business/2026/1112/1598912-uk-economy-grows-0-7-in-third-quarter-ons-data-shows/"
+  },
+  {
+   "title": "Rallies.ai/Reuters: Oil settles $3 higher on attacks on Saudi energy sites",
+   "url": "https://rallies.ai/news/oil-settles-3-higher-on-attacks-on-saudi-energy-sites-strait-of-hormuz-disruptions-274558af43909ac1"
+  },
+  {
+   "title": "FXStreet: Gold plunges to one-year low",
+   "url": "https://www.fxstreet.com/news/gold-plunges-to-one-year-low-near-3-850-as-fed-hawks-take-charge-202611122013"
+  },
+  {
+   "title": "FXStreet: Japanese yen and official warnings",
+   "url": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-officials-warn-against-rapid-currency-moves-202611121155"
+  },
+  {
+   "title": "Cisco reports first quarter earnings",
+   "url": "https://www.prnewswire.com/news-releases/cisco-reports-first-quarter-earnings-302938394.html"
+  },
+  {
+   "title": "CNBC: Cisco first quarter fiscal 2027",
+   "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
+  },
+  {
+   "title": "StockTitan: Applied Materials fourth quarter 2026",
+   "url": "https://www.stocktitan.net/news/AMAT/applied-materials-announces-fourth-quarter-and-fiscal-year-2026-7z5nei8eafpd.html"
+  },
+  {
+   "title": "Allianz third quarter 2026 earnings release",
+   "url": "https://www.allianz.com/en/mediacenter/news/media-releases/financials/261112-3q-2026-earnings-release.html"
+  },
+  {
+   "title": "Munich Re quarterly statement, third quarter 2026",
+   "url": "https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/quarterly-statement-3-2026.html"
+  },
+  {
+   "title": "Time: Witkoff and Kushner meet Putin",
+   "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
+  },
+  {
+   "title": "CBC: US envoys meet Putin at the Kremlin",
+   "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799"
+  },
+  {
+   "title": "CNBC: Trump says no need for Iran deal",
+   "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+  },
+  {
+   "title": "The National: Trump on an Iran deal",
+   "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"
+  },
+  {
+   "title": "Bloomberg: Trump threatens to double tariffs on Mexico",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-12/trump-threatens-to-double-tariffs-on-mexican-goods-over-migrants"
+  },
+  {
+   "title": "WLBT: Hyde-Smith concedes to Scott Colom",
+   "url": "https://www.wlbt.com/2026/11/12/i-respect-decision-sen-cindy-hyde-smith-concedes-defeat-scott-colom/"
+  },
+  {
+   "title": "Earnings Whispers: Calendar for the week of November 16",
+   "url": "https://www.earningswhispers.com/calweek/20261116"
+  },
+  {
+   "title": "Stockhouse: Walmart third quarter call November 19",
+   "url": "https://stockhouse.com/news/press-releases/2026/11/12/walmart-to-host-third-quarter-earnings-conference-call-november-19-2026"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}
