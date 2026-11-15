@@ -1,0 +1,563 @@
+{
+ "id": "2026-11-16",
+ "title": "Omaha Morning Brief",
+ "dateline": "Monday, November 16, 2026",
+ "summary": "The 10-year Treasury yield ends the week at 5.15%; producer prices up 6.5% in a year; Nvidia reports Tuesday; Trump, Xi and Putin to meet Thursday.",
+ "duration": 288.15,
+ "audio": "episodes/2026-11-16/briefing.mp3",
+ "sections": [
+  {
+   "heading": "The short version",
+   "start": 0.0,
+   "paragraphs": [
+    [
+     {
+      "i": 0,
+      "text": "Good morning, Warren.",
+      "start": 0.0,
+      "end": 1.28
+     },
+     {
+      "i": 1,
+      "text": "It is Monday, November 16th.",
+      "start": 1.56,
+      "end": 3.65
+     },
+     {
+      "i": 2,
+      "text": "Stocks ended last week higher, but the 10-year Treasury yield climbed to 5.15%, up about three-tenths of a point in a week.",
+      "start": 3.93,
+      "end": 12.36
+     },
+     {
+      "i": 3,
+      "text": "Producer prices are up 6.5% from a year earlier.",
+      "start": 12.64,
+      "end": 16.54
+     },
+     {
+      "i": 4,
+      "text": "Nvidia reports on Tuesday, its first report since Jensen Huang resigned.",
+      "start": 16.82,
+      "end": 21.47
+     },
+     {
+      "i": 5,
+      "text": "And the White House and the Kremlin say Presidents Trump, Xi and Putin will meet in China on Thursday.",
+      "start": 21.75,
+      "end": 27.53
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Rates and inflation",
+   "start": 28.66,
+   "paragraphs": [
+    [
+     {
+      "i": 6,
+      "text": "The 10-year Treasury yield rose to 5.15% on Friday, up about three-tenths of a point in a week.",
+      "start": 28.66,
+      "end": 35.64
+     },
+     {
+      "i": 7,
+      "text": "The 2-year ended at 4.88%, and the 3-month bill at 4.32%.",
+      "start": 35.92,
+      "end": 41.66
+     },
+     {
+      "i": 8,
+      "text": "Demand at last week's 3-, 10- and 30-year auctions was weak.",
+      "start": 41.94,
+      "end": 45.8
+     }
+    ],
+    [
+     {
+      "i": 9,
+      "text": "Producer prices rose 0.3% in October, a little less than expected, but 6.5% from a year earlier, the most since 2022.",
+      "start": 46.08,
+      "end": 56.68
+     },
+     {
+      "i": 10,
+      "text": "Food prices rose and diesel fell.",
+      "start": 56.96,
+      "end": 59.12
+     }
+    ],
+    [
+     {
+      "i": 11,
+      "text": "Futures markets put the odds of a quarter-point Federal Reserve increase in December at close to nine in ten, and of half a point at about one in nine.",
+      "start": 59.4,
+      "end": 67.99
+     },
+     {
+      "i": 12,
+      "text": "Chair Kevin Warsh speaks today.",
+      "start": 68.27,
+      "end": 70.02
+     },
+     {
+      "i": 13,
+      "text": "The minutes of the October meeting come out on Wednesday.",
+      "start": 70.3,
+      "end": 73.08
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Markets",
+   "start": 74.21,
+   "paragraphs": [
+    [
+     {
+      "i": 14,
+      "text": "On Friday the S&P 500 fell 0.4%, to 7,562, and the Nasdaq fell 0.9%.",
+      "start": 74.21,
+      "end": 83.89
+     },
+     {
+      "i": 15,
+      "text": "The Dow rose 0.1%.",
+      "start": 84.17,
+      "end": 86.33
+     },
+     {
+      "i": 16,
+      "text": "For the week, the S&P 500 rose 2.5%, ending four weeks of losses.",
+      "start": 86.61,
+      "end": 92.49
+     },
+     {
+      "i": 17,
+      "text": "Cisco fell about 6% despite beating estimates, as investors focused on narrower margins.",
+      "start": 92.77,
+      "end": 99.22
+     },
+     {
+      "i": 18,
+      "text": "AMD fell almost 9%.",
+      "start": 99.5,
+      "end": 101.48
+     }
+    ],
+    [
+     {
+      "i": 19,
+      "text": "Brent crude settled at $95.84 a barrel, and West Texas Intermediate at $88.56, a second weekly fall.",
+      "start": 101.76,
+      "end": 111.38
+     },
+     {
+      "i": 20,
+      "text": "The International Energy Agency said the oil market will be in surplus this quarter for the first time since the war began.",
+      "start": 111.66,
+      "end": 118.87
+     },
+     {
+      "i": 21,
+      "text": "Gold had its worst week in four months, near $3,880 an ounce.",
+      "start": 119.15,
+      "end": 124.19
+     },
+     {
+      "i": 22,
+      "text": "The dollar ended near 160 yen, and Prime Minister Takaichi warned again about intervention.",
+      "start": 124.47,
+      "end": 130.51
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Companies",
+   "start": 131.64,
+   "paragraphs": [
+    [
+     {
+      "i": 23,
+      "text": "Nvidia fell about 2% on Friday, its sixth straight weekly decline.",
+      "start": 131.64,
+      "end": 136.03
+     },
+     {
+      "i": 24,
+      "text": "The board says it has not yet formally approached any candidates for chief executive.",
+      "start": 136.31,
+      "end": 141.09
+     },
+     {
+      "i": 25,
+      "text": "The Financial Times reported that it had approached Arm's chief executive, Rene Haas; neither company commented.",
+      "start": 141.37,
+      "end": 148.11
+     },
+     {
+      "i": 26,
+      "text": "Jensen Huang has agreed to answer questions from House committees behind closed doors before Thanksgiving.",
+      "start": 148.39,
+      "end": 154.77
+     },
+     {
+      "i": 27,
+      "text": "Analysts expect revenue of about $109 billion on Tuesday.",
+      "start": 155.05,
+      "end": 159.68
+     }
+    ],
+    [
+     {
+      "i": 28,
+      "text": "Japan's three largest banks all raised their full-year profit targets after higher interest rates lifted earnings.",
+      "start": 159.96,
+      "end": 166.87
+     },
+     {
+      "i": 29,
+      "text": "Mitsubishi UFJ and Sumitomo Mitsui together announced about 420 billion yen of buybacks, and Mizuho raised its dividend.",
+      "start": 167.15,
+      "end": 176.52
+     },
+     {
+      "i": 30,
+      "text": "Richemont, the owner of Cartier, said first-half sales rose 16%, led by jewelry.",
+      "start": 176.8,
+      "end": 182.41
+     }
+    ],
+    [
+     {
+      "i": 31,
+      "text": "Diamondback Energy is reported to be near a $5 billion deal for Permian Basin oil assets, according to the Financial Times.",
+      "start": 182.69,
+      "end": 191.37
+     },
+     {
+      "i": 32,
+      "text": "Modine rose about 29% after Bloomberg reported that Samsung is in early talks to buy it.",
+      "start": 191.65,
+      "end": 198.01
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "The world",
+   "start": 199.14,
+   "paragraphs": [
+    [
+     {
+      "i": 33,
+      "text": "The White House said Presidents Trump, Xi and Putin will hold their first three-way meeting on Thursday, at the Asia-Pacific summit in Shenzhen, with nuclear arms reduction on the agenda.",
+      "start": 199.14,
+      "end": 210.34
+     },
+     {
+      "i": 34,
+      "text": "The Kremlin confirmed it; Beijing has not yet.",
+      "start": 210.62,
+      "end": 213.45
+     }
+    ],
+    [
+     {
+      "i": 35,
+      "text": "Iran says more tankers hit mines in the Strait of Hormuz over the weekend; that is not confirmed, and the American military says the main routes are clear.",
+      "start": 213.73,
+      "end": 222.97
+     },
+     {
+      "i": 36,
+      "text": "Iran also claimed a drone attack on an American radar in Bahrain; the United States says it was not damaged.",
+      "start": 223.25,
+      "end": 229.99
+     },
+     {
+      "i": 37,
+      "text": "The United Nations says at least 25 seafarers have died around the strait since February.",
+      "start": 230.27,
+      "end": 235.65
+     }
+    ],
+    [
+     {
+      "i": 38,
+      "text": "Russia accepted what Ukraine calls the largest prisoner exchange of the war, with no date set.",
+      "start": 235.93,
+      "end": 241.47
+     },
+     {
+      "i": 39,
+      "text": "European leaders named Britain, France, Germany, Italy and Poland to represent Europe in the talks.",
+      "start": 241.75,
+      "end": 248.07
+     },
+     {
+      "i": 40,
+      "text": "In Alaska, Democrat Mary Peltola has widened her lead in the uncalled Senate race.",
+      "start": 248.35,
+      "end": 253.83
+     }
+    ]
+   ]
+  },
+  {
+   "heading": "Coming up",
+   "start": 254.96,
+   "paragraphs": [
+    [
+     {
+      "i": 41,
+      "text": "Japan reports third-quarter growth this morning, expected to be close to flat, and China reports October retail sales and factory output at 10 o'clock Hong Kong time.",
+      "start": 254.96,
+      "end": 265.99
+     },
+     {
+      "i": 42,
+      "text": "Tuesday brings American retail sales, Home Depot and Disney, and Nvidia after the close.",
+      "start": 266.27,
+      "end": 271.97
+     },
+     {
+      "i": 43,
+      "text": "Anthropic, which makes the system that writes this briefing, is expected to price its stock market listing midweek, at about $1 trillion.",
+      "start": 272.25,
+      "end": 280.76
+     },
+     {
+      "i": 44,
+      "text": "Target, Lowe's and TJX report Wednesday, and Walmart on Thursday.",
+      "start": 281.04,
+      "end": 285.43
+     },
+     {
+      "i": 45,
+      "text": "That is the briefing.",
+      "start": 285.71,
+      "end": 286.87
+     },
+     {
+      "i": 46,
+      "text": "Have a good day.",
+      "start": 287.15,
+      "end": 288.15
+     }
+    ]
+   ]
+  }
+ ],
+ "numbers": [
+  {
+   "label": "Dow Jones Industrial Average",
+   "value": "52,347.55",
+   "change": "+0.10%",
+   "dir": "up"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,561.67",
+   "change": "(0.40%)",
+   "dir": "down"
+  },
+  {
+   "label": "S&P 500, week",
+   "value": "",
+   "change": "+2.5%",
+   "dir": "up"
+  },
+  {
+   "label": "Nasdaq Composite",
+   "value": "25,136.27",
+   "change": "(0.91%)",
+   "dir": "down"
+  },
+  {
+   "label": "10-year Treasury yield",
+   "value": "5.15%",
+   "change": "+0.05",
+   "dir": "up"
+  },
+  {
+   "label": "2-year Treasury yield",
+   "value": "4.88%",
+   "change": "+0.02",
+   "dir": "up"
+  },
+  {
+   "label": "3-month Treasury bill",
+   "value": "4.32%",
+   "change": "0.00",
+   "dir": "flat"
+  },
+  {
+   "label": "30-year Treasury yield",
+   "value": "5.47%",
+   "change": "+0.04",
+   "dir": "up"
+  },
+  {
+   "label": "Brent crude, per barrel",
+   "value": "$95.84",
+   "change": "+0.02%",
+   "dir": "flat"
+  },
+  {
+   "label": "West Texas Intermediate, per barrel",
+   "value": "$88.56",
+   "change": "(0.20%)",
+   "dir": "down"
+  },
+  {
+   "label": "Producer prices, October, month",
+   "value": "+0.3%",
+   "change": "0.4% expected",
+   "dir": "up"
+  },
+  {
+   "label": "Producer prices, October, year on year",
+   "value": "+6.5%",
+   "change": "from 6.3%",
+   "dir": "up"
+  }
+ ],
+ "numbers_note": "Closing levels for Friday, November 13, 2026, with changes for the day; weekly changes where marked. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+ "sources": [
+  {
+   "title": "AP via WTOP: How major US stock indexes fared, November 13",
+   "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-friday-11-13-2026/"
+  },
+  {
+   "title": "MLQ: Nasdaq posts its best week since August",
+   "url": "https://mlq.ai/news/wall-street-closes-mixed-as-nvidia-and-amd-sink-nasdaq-still-posts-its-best-week-since-august/"
+  },
+  {
+   "title": "Bureau of Labor Statistics: Producer Price Index, October 2026",
+   "url": "https://www.bls.gov/news.release/archives/ppi_11132026.htm"
+  },
+  {
+   "title": "Detroit News/Reuters: Producer prices up at highest annual rate in four years",
+   "url": "https://www.detroitnews.com/story/business/2026/11/13/producer-prices-up-at-highest-annual-rate-in-four-years-in-october/92756973007/"
+  },
+  {
+   "title": "CNBC: Treasury yields and Fed rates, November 13",
+   "url": "https://www.cnbc.com/amp/2026/11/13/treasury-yields-fed-rates.html"
+  },
+  {
+   "title": "CME Group: 10-year yields climb 30 basis points on the week",
+   "url": "https://www.cmegroup.com/videos/2026/11/13/10-year-treasury-yields-climb-30-bps-on-week-to-top-5-15-11-13.html"
+  },
+  {
+   "title": "Yahoo Finance: Fed rate hike odds for December",
+   "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-odds-december-035134676.html"
+  },
+  {
+   "title": "Admiral Markets: Warsh speech preview, November 16",
+   "url": "https://admiralmarkets.com/education/articles/fundamental-analysys/warsh-speech-preview-november-16-2026"
+  },
+  {
+   "title": "EnergyNow: Oil prices fall for second straight week",
+   "url": "https://energynow.com/2026/11/oil-prices-fall-for-second-straight-week-as-global-supply-surplus-emerges-wti-closes-at-88-56-brent-at-95-84/"
+  },
+  {
+   "title": "CNBC: Gold heads for weekly decline",
+   "url": "https://www.cnbc.com/2026/11/13/gold-rises-on-bargain-hunting-but-heads-for-weekly-decline.html"
+  },
+  {
+   "title": "FXStreet: Takaichi warns of intervention",
+   "url": "https://www.fxstreet.com/news/japanese-yen-ticks-up-from-16000-as-pm-takaichi-warns-of-intervention-202611130736"
+  },
+  {
+   "title": "TheStreet: Stock market today, November 13",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+  },
+  {
+   "title": "Quantisnow: AMD and Cisco fall in chip pullback",
+   "url": "https://www.quantisnow.com/articles/amd-falls-8-8-and-cisco-6-2-in-chip-pullback-that-leaves-the-average-stock-higher"
+  },
+  {
+   "title": "CNBC: Nvidia CEO replacement search",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+  },
+  {
+   "title": "Korea Times/Reuters: Nvidia approached Arm CEO Haas, FT reports",
+   "url": "https://www.koreatimes.co.kr/world/20261114/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports"
+  },
+  {
+   "title": "TechCrunch: Jensen Huang agrees to testify before Congress",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+  },
+  {
+   "title": "Yahoo Finance: What to expect from Nvidia's quarterly earnings",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/expect-nvidias-next-quarterly-earnings-151739351.html"
+  },
+  {
+   "title": "MLQ: Japan's megabanks raise profit targets and buybacks",
+   "url": "https://mlq.ai/news/japans-megabanks-mufg-smfg-and-mizuho-raise-full-year-profit-targets-and-mufg-and-smfg-unveil-420-billion-yen-of-buybacks/"
+  },
+  {
+   "title": "Japan Times: Sumitomo Mitsui profit forecast",
+   "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/sumitomo-mitsui-profit-forecast/"
+  },
+  {
+   "title": "Investing.com/Reuters: Diamondback nears $5 billion deal, FT says",
+   "url": "https://www.investing.com/news/stock-market-news/diamondback-nears-5-billion-deal-to-buy-drilling-portfolio-from-double-eagle-ft-says-5028067"
+  },
+  {
+   "title": "Bloomberg: Trump to meet Xi and Putin November 19",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says"
+  },
+  {
+   "title": "Anadolu: Kremlin confirms trilateral meeting in Shenzhen",
+   "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+  },
+  {
+   "title": "CBS News: Trump, Putin and Xi expected to meet",
+   "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+  },
+  {
+   "title": "RTE: Iran says tankers hit mines near Hormuz",
+   "url": "https://www.rte.ie/news/middle-east/2026/1115/1599293-iran-tanker-hormuz/"
+  },
+  {
+   "title": "The National: Bahrain alert after Iran claims attack",
+   "url": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+  },
+  {
+   "title": "Al Jazeera: UN says 25 seafarers killed around Hormuz",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+  },
+  {
+   "title": "Kyiv Independent: Zelensky meets Trump's envoys in Dublin",
+   "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+  },
+  {
+   "title": "Anchorage Daily News: Peltola grows lead",
+   "url": "https://www.adn.com/politics/2026/11/13/peltola-grows-lead-in-alaskas-us-senate-race-after-thousands-more-ballots-are-counted/"
+  },
+  {
+   "title": "Yahoo Finance: Japan third-quarter GDP preview",
+   "url": "https://finance.yahoo.com/economy/articles/japan-q3-gdp-growth-seen-030532485.html"
+  },
+  {
+   "title": "Yahoo Finance: Anthropic IPO valuation and timing",
+   "url": "https://finance.yahoo.com/markets/article/anthropic-seeks-14-trillion-valuation-in-ipo-130300928.html"
+  },
+  {
+   "title": "StockTitan: Anthropic IPO filing guide",
+   "url": "https://www.stocktitan.net/articles/anthropic-ipo-s1-2026-guide"
+  },
+  {
+   "title": "StockTitan: Earnings calendar, week of November 16",
+   "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-16-2026"
+  },
+  {
+   "title": "United States Treasury daily yield curve rates",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  }
+ ]
+}

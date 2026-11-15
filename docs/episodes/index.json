@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-16",
+   "title": "Omaha Morning Brief",
+   "dateline": "Monday, November 16, 2026",
+   "summary": "The 10-year Treasury yield ends the week at 5.15%; producer prices up 6.5% in a year; Nvidia reports Tuesday; Trump, Xi and Putin to meet Thursday.",
+   "duration": 288.15,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 28.66
+    },
+    {
+     "heading": "Markets",
+     "start": 74.21
+    },
+    {
+     "heading": "Companies",
+     "start": 131.64
+    },
+    {
+     "heading": "The world",
+     "start": 199.14
+    },
+    {
+     "heading": "Coming up",
+     "start": 254.96
+    }
+   ]
+  },
+  {
    "id": "2026-11-13",
    "title": "Omaha Morning Brief",
    "dateline": "Friday, November 13, 2026",
