@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-17",
+   "title": "Omaha Morning Brief",
+   "dateline": "Tuesday, November 17, 2026",
+   "summary": "Stocks fall as Washington tightens rules on chip access for China; Nvidia hits its lowest close in more than a year before results; Japan's economy shrinks; China's October data disappoint.",
+   "duration": 290.15,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 26.02
+    },
+    {
+     "heading": "Markets",
+     "start": 77.93
+    },
+    {
+     "heading": "Companies",
+     "start": 120.28
+    },
+    {
+     "heading": "The world",
+     "start": 191.96
+    },
+    {
+     "heading": "Coming up",
+     "start": 258.93
+    }
+   ]
+  },
+  {
    "id": "2026-11-16",
    "title": "Omaha Morning Brief",
    "dateline": "Monday, November 16, 2026",
