@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-18",
+   "title": "Omaha Morning Brief",
+   "dateline": "Wednesday, November 18, 2026",
+   "summary": "Nvidia beats and adds $150 billion to its buyback; the Dow falls 849 points to a three-month low; America strikes Qeshm Island again; a correction on China.",
+   "duration": 305.49,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 27.96
+    },
+    {
+     "heading": "Markets",
+     "start": 79.93
+    },
+    {
+     "heading": "Companies",
+     "start": 133.54
+    },
+    {
+     "heading": "The world",
+     "start": 208.51
+    },
+    {
+     "heading": "Coming up",
+     "start": 274.69
+    }
+   ]
+  },
+  {
    "id": "2026-11-17",
    "title": "Omaha Morning Brief",
    "dateline": "Tuesday, November 17, 2026",
