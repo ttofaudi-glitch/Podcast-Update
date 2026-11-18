@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-19",
+   "title": "Omaha Morning Brief",
+   "dateline": "Thursday, November 19, 2026",
+   "summary": "Federal Reserve minutes show almost all officials expect more increases; the Dow hits a five-month low; Anthropic prices its share sale above range; Target and TJX rise; Xi, Trump and Putin meet today.",
+   "duration": 289.62,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 26.9
+    },
+    {
+     "heading": "Markets",
+     "start": 80.38
+    },
+    {
+     "heading": "Companies",
+     "start": 126.07
+    },
+    {
+     "heading": "The world",
+     "start": 194.85
+    },
+    {
+     "heading": "Coming up",
+     "start": 266.22
+    }
+   ]
+  },
+  {
    "id": "2026-11-18",
    "title": "Omaha Morning Brief",
    "dateline": "Wednesday, November 18, 2026",
