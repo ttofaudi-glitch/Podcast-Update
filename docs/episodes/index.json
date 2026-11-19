@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-20",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, November 20, 2026",
+   "summary": "Stocks fall about 2% and the Dow closes below 50,000; Anthropic rises 17% on its first day; Walmart raises its outlook; Xi, Trump and Putin issue a short declaration.",
+   "duration": 290.26,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 26.89
+    },
+    {
+     "heading": "Markets",
+     "start": 72.71
+    },
+    {
+     "heading": "Companies",
+     "start": 123.67
+    },
+    {
+     "heading": "The world",
+     "start": 186.63
+    },
+    {
+     "heading": "Next week",
+     "start": 257.54
+    }
+   ]
+  },
+  {
    "id": "2026-11-19",
    "title": "Omaha Morning Brief",
    "dateline": "Thursday, November 19, 2026",
