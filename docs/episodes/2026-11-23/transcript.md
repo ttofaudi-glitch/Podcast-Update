@@ -1,0 +1,81 @@
+# Omaha Morning Brief
+
+_Monday, November 23, 2026_
+
+## The short version
+
+Good morning, Warren. It is Monday, November 23rd. American stocks had their worst week in more than 18 months. On Friday the S&P 500 fell 3.7% and the Nasdaq 5.3%, after Reuters reported that the Securities and Exchange Commission is examining Nvidia's accounting. The S&P 500 and the Dow are now in a correction, more than 10% below their records. Investors bought Treasury bonds, and yields fell sharply.
+
+## Rates and inflation
+
+The 10-year Treasury yield fell to 4.92%, from 5.04% the day before, and the 2-year to 4.63%. The 3-month bill pays 4.32%, now close to the 10-year yield.
+
+The University of Michigan's final November reading of consumer sentiment was 51.5, up from 48 in October, and consumers expect prices to rise 3.7% over the next year, down from 4.7%. Governor Lisa Cook warned that if the Federal Reserve falls behind, larger increases may be needed later. Futures markets still give about nine in ten odds of a quarter-point increase in December.
+
+In Japan, core consumer prices rose 2.2% in October, a little below forecasts. China left its lending rates unchanged.
+
+## Markets
+
+The S&P 500 closed at 6,910, its seventh straight loss, down 8.6% for the week. The Nasdaq closed at 22,618, down about 10% for the week and now lower for the year. The Dow fell 1.93% on Friday, to 48,147. The Philadelphia chip index fell almost 11% on Friday alone. Consumer staples were the only sector to rise.
+
+Brent crude settled at $92.57 a barrel, and West Texas Intermediate at $83.98, both down for a third week. Gold fell to about $3,530 an ounce, down about 9% for the week. The dollar is near a 19-month high, though the yen gained as investors sought safety.
+
+## Companies
+
+Nvidia fell about 14%, to about $126, its worst day since the DeepSeek sell-off in January 2025, erasing nearly $500 billion of market value. Reuters said it could not determine when the inquiry began or what it covers; the commission declined to comment. Nvidia has also delayed its detailed quarterly filing, and California's attorney general has issued a subpoena over whether its chips reached China. The shares fell 23% last week, their worst week since October 2008.
+
+President Trump said Jensen Huang deserves a second chance and should return. Nvidia has said it has no plans to reinstate him.
+
+President Trump also said he would impose a large tax on American companies that build artificial intelligence data centers abroad. No formal order has been issued.
+
+Global Payments rose about 10% after Bloomberg reported that its largest shareholder, the private equity firm GTCR, is exploring a buyout worth about $50 billion including debt. Intuit fell about 12% after cutting its revenue growth forecast. It is selling Mailchimp for about $3.7 billion, under a third of what it paid, and will use the cash for buybacks.
+
+## The world
+
+Russia launched one of its largest attacks on Ukraine, with more than 100 missiles and about 400 drones, killing at least eight people and hitting power plants and bridges in Kyiv. Two Russian missiles fell in Poland, with no one hurt. Prime Minister Tusk called it a likely deliberate provocation; President Trump called it a mistake.
+
+Two more tankers were struck in the Strait of Hormuz on Saturday. President Trump said he wants a permanent deal so Iran never has a nuclear weapon.
+
+The COP31 climate summit in Turkey collapsed on Sunday without a final agreement, after the European Union and small island states rejected a text that dropped all mention of fossil fuels.
+
+In Israel, coalition talks between Gadi Eisenkot's party and Likud ended without a deal, and Naftali Bennett said he will not join Netanyahu under any circumstances.
+
+## Coming up
+
+A short week. Tuesday brings consumer confidence, and results from Medtronic, Best Buy and Analog Devices, then Dell, HP and Workday after the close. Wednesday is the heavy day: revised third-quarter growth, October inflation on the Federal Reserve's preferred measure, durable goods orders and weekly jobless claims, plus Deere's results. American markets close Thursday for Thanksgiving and close early on Friday. The Bank of Korea is expected to raise rates on Thursday. That is the briefing. Have a good day.
+
+## Sources
+
+- [AP via WSVN: AI stocks sell-off, S&P 500 down](https://wsvn.com/news/us-world/ai-stocks-selloff-sp500-down/)
+- [Decatur Daily/AP: S&P 500 sinks 3.7%, Nasdaq negative for the year](https://www.decaturdaily.com/business/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/article_dba9a471-6525-448c-9d01-20e82a1c821b.html)
+- [Yakima Herald/AP: How major US stock indexes fared, November 20](https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html)
+- [STL.News: Weekly update ending November 20](https://www.stl.news/u-s-stock-market-weekly-update-ending-nov-20-2026/)
+- [Yahoo/24/7 Wall St: Nvidia plunges after Reuters reports SEC accounting probe](https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-plunges-12-reuters-201702082.html)
+- [Yahoo: Nvidia rout as SEC probe reportedly investigates accounting](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
+- [Motley Fool: Nvidia's worst week in 18 years](https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/)
+- [ETF Trends: Treasury yields snapshot, November 20](https://www.etftrends.com/fixed-income-content-hub/treasury-yields-snapshot-november-20-2026/)
+- [Bloomberg: US consumer sentiment rises](https://www.bloomberg.com/news/articles/2026-11-20/us-consumer-sentiment-rises-on-improved-post-election-outlook)
+- [Advisor Perspectives: Consumer sentiment recovers](https://www.advisorperspectives.com/dshort/updates/2026/11/20/consumer-sentiment-recovers-significantly)
+- [24/7 Wall St: Fed's Lisa Cook warns of larger rate hikes](https://247wallst.com/investing/2026/11/21/feds-lisa-cook-warns-of-larger-rate-hikes-ahead/)
+- [CNBC: Japan inflation, October](https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html)
+- [FXStreet: China leaves loan prime rates unchanged](https://www.fxstreet.com/news/confirmed-pboc-leaves-loan-prime-rates-unchanged-in-november-202611200103)
+- [EnergyNow: Oil falls for third straight week](https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/)
+- [PMI: Precious metals week in review](https://blog.pmi.ky/2026/11/20/the-precious-metals-week-in-review-november-20th-2026/)
+- [Washington Times: Trump says Huang should get back to work](https://www.washingtontimes.com/news/2026/nov/20/donald-trump-let-jensen-huang-apologize-get-back-work-nvidia/)
+- [CNBC: Trump on taxing AI data centers abroad](https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html)
+- [CNN: Trump news conference takeaways](https://edition.cnn.com/2026/11/20/politics/trump-news-conference-takeaways)
+- [Investing.com: Global Payments jumps on report of GTCR deal](https://www.investing.com/news/stock-market-news/global-payments-shares-jump-on-report-of-50b-gtcr-deal-5042436)
+- [Trefis: S&P 500 movers](https://www.trefis.com/stock/spy/articles/627499/sp-500-movers-winners-gpn-gis-mkc-losers-be-nvda-lite/2026-11-21)
+- [Tech Funding News: Intuit sells Mailchimp to Bending Spoons](https://techfundingnews.com/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-its-2021-acquisition-price/)
+- [Journalarta: Intuit shares fall on Credit Karma outlook](https://journalarta.com/en/2026/11/20/intuit-shares-fall-credit-karma-revenue-outlook/)
+- [Scripps News: Russia launches massive attack on Ukraine](https://www.scrippsnews.com/politics/russia/russia-launches-massive-missile-and-drone-attack-on-ukraine-killing-at-least-8)
+- [Washington Post: Poland says Russian missiles hit its territory](https://www.washingtonpost.com/world/2026/11/21/poland-says-russian-missiles-hit-its-territory-trump-calls-it-mistake/)
+- [France 24: Poland says Russian missile hit its territory](https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine)
+- [Business Recorder: Two tankers struck in Hormuz](https://www.brecorder.com/news/40450177/two-tankers-struck-in-hormuz-iran-holds-talks-with-qatar)
+- [Al Jazeera: Trump on a permanent Iran nuclear deal](https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal)
+- [CNN: COP31 collapses over fossil fuels](https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure)
+- [NPR: Climate talks fall apart in final hours](https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment)
+- [Haaretz: Yashar and Likud meet for coalition talks](https://www.haaretz.com/israel-news/israel-politics/2026-11-22/ty-article/.premium/members-of-eisenkots-yashar-netanyahus-likud-meet-for-coalition-talks/000001a2-030b-d175-abf6-1f3f54b90000)
+- [Newsquawk: Week in focus, November 23 to 27](https://www.newsquawk.com/headlines/week-in-focus--november-23rd-27th-highlights-include-us-pce-flash-pmis-aussie-cpi-and-ecb-minutes)
+- [Seoul Economic Daily: Experts see Korea rate hike](https://en.sedaily.com/economy/2026/11/23/90-percent-of-experts-see-korea-rate-hike-this-month-some)
+- [United States Treasury daily yield curve rates](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve)
