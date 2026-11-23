@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-24",
+   "title": "Omaha Morning Brief",
+   "dateline": "Tuesday, November 24, 2026",
+   "summary": "Nvidia reinstates Jensen Huang and its shares jump about 31%; the S&P 500 rises 4.7%, its best day since April 2025; CrowdStrike agrees to buy Zscaler; oil falls to a three-month low.",
+   "duration": 311.81,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 26.0
+    },
+    {
+     "heading": "Markets",
+     "start": 67.65
+    },
+    {
+     "heading": "Companies",
+     "start": 138.14
+    },
+    {
+     "heading": "The world",
+     "start": 209.34
+    },
+    {
+     "heading": "Coming up",
+     "start": 261.51
+    }
+   ]
+  },
+  {
    "id": "2026-11-23",
    "title": "Omaha Morning Brief",
    "dateline": "Monday, November 23, 2026",
