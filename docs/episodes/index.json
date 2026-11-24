@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-25",
+   "title": "Omaha Morning Brief",
+   "dateline": "Wednesday, November 25, 2026",
+   "summary": "Chip stocks give back part of Monday's rally; consumer confidence jumps to its highest since January 2025; Dell raises its forecast and adds a $25 billion buyback; oil rebounds.",
+   "duration": 316.14,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 25.74
+    },
+    {
+     "heading": "Markets",
+     "start": 77.06
+    },
+    {
+     "heading": "Companies",
+     "start": 141.47
+    },
+    {
+     "heading": "The world",
+     "start": 229.58
+    },
+    {
+     "heading": "Coming up",
+     "start": 270.0
+    }
+   ]
+  },
+  {
    "id": "2026-11-24",
    "title": "Omaha Morning Brief",
    "dateline": "Tuesday, November 24, 2026",

@@ -1,0 +1,90 @@
+{
+  "title": "Omaha Morning Brief",
+  "dateline": "Wednesday, November 25, 2026",
+  "summary": "Chip stocks give back part of Monday's rally; consumer confidence jumps to its highest since January 2025; Dell raises its forecast and adds a $25 billion buyback; oil rebounds.",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "pronounce": {"Huang": "Hwahng", "Sanofi": "San-oh-fee", "Insmed": "Inz-med", "Williams": "Williams", "Hormuz": "Hor-mooz", "Eisenkot": "Eye-zen-kot", "Araghchi": "Ah-rahg-chee", "Greer": "Greer", "Deere": "Deer", "Rutte": "Rut-uh"},
+  "sections": [
+    {"heading": "The short version", "paragraphs": [
+      "Good morning, Warren. It is Wednesday, November 25th. Chip stocks gave back part of Monday's rally, and the S&P 500 slipped half a percent, while the Dow rose. Consumer confidence jumped to its highest level since January 2025. Dell raised its forecast and added a $25 billion buyback. Today brings the Federal Reserve's preferred inflation measure."
+    ]},
+    {"heading": "Rates and inflation", "paragraphs": [
+      "The 10-year Treasury yield edged down to 4.91%, and the 2-year held at 4.63%. The 3-month bill pays 4.36%.",
+      "The Conference Board's consumer confidence index rose to 103.3 in November, from 91.9 in October, well above forecasts near 92. The board credited lower uncertainty after the midterm elections and a better view of the job market. Consumers still expect prices to rise 5.7% over the next year.",
+      "John Williams, president of the New York Federal Reserve, said inflation is too high and he would not rule out increases at consecutive meetings, but that the situation does not call for dramatic action. Futures markets treat a quarter-point increase on December 9th as nearly certain."
+    ]},
+    {"heading": "Markets", "paragraphs": [
+      "The S&P 500 fell 0.5% to 7,201, and the Nasdaq fell 1.48% to 23,734. The Dow rose 0.85% to 50,019. Chip stocks led the decline. Nvidia fell 5.9% to $155, after its 31% gain on Monday. Micron fell 11% and AMD almost 9%. Anthropic, which makes the system that writes this briefing, closed below its $83 offering price for the first time, at $81.91.",
+      "In Europe, the Stoxx 600 fell 0.7%, with technology shares down nearly 3%.",
+      "Oil rebounded after more reports of ship attacks near the Strait of Hormuz. Brent crude settled at $91.40 a barrel, up 2.3%, and West Texas Intermediate at $82.05, up 2.4%."
+    ]},
+    {"heading": "Companies", "paragraphs": [
+      "Dell reported record quarterly revenue of almost $55 billion, against forecasts near $49 billion, on demand for artificial intelligence servers. It raised its full-year revenue forecast to $202 billion, from $192 billion, and its board approved another $25 billion of share buybacks. Profit margins narrowed because servers carry thinner margins. The shares had fallen almost 12% during the day, then rose after hours.",
+      "Best Buy beat forecasts, with comparable sales up 6.1%, and raised its full-year outlook. Analog Devices beat too, but its shares fell more than 15% on a softer first-quarter outlook. Sanofi agreed to buy Insmed for about $41 billion in cash, a 46% premium, and Sanofi shares rose almost 10% in Paris, an unusual reaction for a buyer.",
+      "The Wall Street Journal and Bloomberg report that the administration is preparing new tariffs on China, the European Union and more than a dozen other countries, under a trade law known as Section 301. They would replace tariffs the Supreme Court struck down in February. Rates have not been announced. Reports say partners with trade deals, such as the European Union, Japan and South Korea, would likely face 15% or less, and China the highest rate."
+    ]},
+    {"heading": "The world", "paragraphs": [
+      "Qatar says it is mediating between the United States and Iran, and that reopening the Strait of Hormuz to shipping is on the agenda. Iran's foreign minister, Abbas Araghchi, said talk of reopening is pointless until Iran's demands are met. Those include an end to the American blockade and the lifting of oil sanctions.",
+      "European Union leaders meet Thursday and Friday on a proposed 45 billion euro loan for Ukraine next year. It needs all 27 members, and Hungary and Slovakia may object.",
+      "In Japan, the yen is near 159 to the dollar, close to the level where officials have warned they could intervene."
+    ]},
+    {"heading": "Coming up", "paragraphs": [
+      "Today at 8:30 in the morning in New York comes a busy batch. Revised third-quarter growth is expected near 3.5%. October inflation on the Federal Reserve's preferred measure is expected near 3.8% from a year earlier, with core prices up about 3.2%. Durable goods orders and weekly jobless claims also come out, and Deere reports results. American markets close Thursday for Thanksgiving and close early on Friday. On Thursday, most economists expect the Bank of Korea to raise its rate to 3.25%. Germany's parliament votes on the 2027 budget on Friday, and OPEC and its allies meet on Sunday. That is the briefing. Have a good day."
+    ]}
+  ],
+  "numbers_note": "Closing levels for Tuesday, November 24, 2026, with changes for the day. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+  "numbers": [
+    {"label": "Dow Jones Industrial Average", "value": "50,018.70", "change": "+0.85%", "dir": "up"},
+    {"label": "S&P 500", "value": "7,201.09", "change": "(0.50%)", "dir": "down"},
+    {"label": "Nasdaq Composite", "value": "23,733.54", "change": "(1.48%)", "dir": "down"},
+    {"label": "10-year Treasury yield", "value": "4.91%", "change": "(0.01)", "dir": "down"},
+    {"label": "2-year Treasury yield", "value": "4.63%", "change": "0.00", "dir": "flat"},
+    {"label": "3-month Treasury bill", "value": "4.36%", "change": "(0.01)", "dir": "down"},
+    {"label": "Brent crude, per barrel", "value": "$91.40", "change": "+2.27%", "dir": "up"},
+    {"label": "West Texas Intermediate, per barrel", "value": "$82.05", "change": "+2.35%", "dir": "up"},
+    {"label": "Nvidia", "value": "$155.38", "change": "(5.86%)", "dir": "down"},
+    {"label": "Stoxx 600", "value": "632.77", "change": "(0.7%)", "dir": "down"},
+    {"label": "Conference Board consumer confidence, November", "value": "103.3", "change": "from 91.9", "dir": "up"}
+  ],
+  "sources": [
+    {"title": "Investing.com: US stocks mixed at close of trade", "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102"},
+    {"title": "Portfolio Terminal: Stock market close", "url": "https://portfolio-terminal.com/markets/stock-market-close"},
+    {"title": "Yahoo Finance: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"},
+    {"title": "Yahoo Finance: Nvidia, AMD, Broadcom lead chip stocks lower", "url": "https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html"},
+    {"title": "MarketAlleys: Closing tape, November 24", "url": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-24"},
+    {"title": "investingLive: Americas wrap, Anthropic breaks IPO price", "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-nov-it-s-a-wrap-chip-stocks-slide-anthropic-breaks-ipo-price-usd-lower/"},
+    {"title": "Conference Board via PR Newswire: US consumer confidence surged in November", "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-surged-in-november-302949447.html"},
+    {"title": "Bloomberg: US consumer confidence surges to highest since early 2025", "url": "https://bloomberg.com/news/articles/2026-11-24/us-consumer-confidence-surges-to-highest-since-early-2025"},
+    {"title": "Advisor Perspectives: Consumer confidence, November", "url": "https://www.advisorperspectives.com/dshort/updates/2026/11/24/consumer-confidence-conference-board-november-2026"},
+    {"title": "24/7 Wall St: Williams won't rule out back-to-back hikes", "url": "https://247wallst.com/investing/2026/11/24/the-new-york-feds-john-williams-wont-rule-out-back-to-back-rate-hikes/"},
+    {"title": "Seoul Economic Daily: Williams says prices too high", "url": "https://en.sedaily.com/world/2026/11/24/ny-feds-williams-says-prices-too-high-open-to-back-to-back"},
+    {"title": "investingLive: WTI crude settles at $82.05", "url": "https://investinglive.com/commodities/wti-crude-oil-settles-at-82-05-can-buyers-get-above-the-100-hour-moving-average/"},
+    {"title": "Rallies: Oil settles up $2 as traders weigh Hormuz ship attacks", "url": "https://rallies.ai/news/oil-settles-up-2-as-traders-weigh-continued-hormuz-ship-attacks-49ed49d098482c83"},
+    {"title": "Reuters via Investing.com: Dell lifts annual forecasts after record quarter", "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024"},
+    {"title": "Proactive Investors: Dell shares rise after earnings beat", "url": "https://www.proactiveinvestors.com/companies/news/1102383/dell-shares-rise-after-earnings-beat-as-ai-server-backlog-jumps-619-1102383.html"},
+    {"title": "Benzinga: Dell delivers third-quarter double beat", "url": "https://www.benzinga.com/markets/earnings/26/11/63609544/dell-delivers-q3-double-beat-raises-fy27-outlook-we-are-now-a-different-company"},
+    {"title": "CNBC: Anthropic stock falls below IPO price", "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"},
+    {"title": "Best Buy: Third-quarter fiscal 2027 results", "url": "https://corporate.bestbuy.com/2026/best-buy-reports-q3-fy27-results/"},
+    {"title": "StockAnalysis: Best Buy third-quarter results", "url": "https://stockanalysis.com/news/bby-q3-fy2027-earnings/"},
+    {"title": "Analog Devices: Record fourth-quarter results", "url": "https://www.prnewswire.com/news-releases/analog-devices-reports-record-fourth-quarter-and-fiscal-2026-financial-results-302948778.html"},
+    {"title": "Benzinga: Analog Devices stock plunges", "url": "https://www.benzinga.com/markets/earnings/26/11/63602283/analog-devices-stock-plunges-nearly-17-whats-going-on"},
+    {"title": "Fierce Pharma: Sanofi inks $41 billion Insmed buyout", "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers"},
+    {"title": "MarketScreener: European shares end lower, Sanofi gains", "url": "https://www.marketscreener.com/news/european-shares-end-lower-as-tech-rally-fades-sanofi-gains-ce7851dbdd89f025"},
+    {"title": "Irish Times: European shares fall as tech rally fades", "url": "https://www.irishtimes.com/business/2026/11/24/european-shares-fall-as-tech-rally-fades-after-jensen-huang-jolt/"},
+    {"title": "Bloomberg: US readies tariff hike on China, EU goods", "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday"},
+    {"title": "Yahoo: Trump poised to raise tariffs on EU and China", "url": "https://www.yahoo.com/news/politics/articles/trump-poised-raise-tariffs-eu-164740840.html"},
+    {"title": "Peninsula Qatar: Qatar continues mediation efforts on Hormuz", "url": "http://thepeninsulaqatar.com/article/24/11/2026/qatar-continues-mediation-efforts-on-hormuz-calls-for-pressure-on-israel-to-implement-gaza-peace-plan"},
+    {"title": "A News: Qatar urges restoration of Hormuz navigation", "url": "https://www.anews.com.tr/world/2026/11/24/qatar-urges-restoration-of-hormuz-navigation-return-to-us-iran-talks"},
+    {"title": "HNGN: Trump threatens Iranian ships, Tehran vows response", "url": "https://www.hngn.com/articles/273933/20261123/trump-threatens-sink-iranian-ships-tehran-vows-response.htm"},
+    {"title": "Foreign Policy: Ukraine funding and frozen assets", "url": "https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/"},
+    {"title": "US News: EU proposes new 45 billion euro loan for Ukraine", "url": "https://www.usnews.com/news/world/articles/2026-11-18/eu-proposes-new-45-billion-loan-for-ukraine-for-2027-to-be-repaid-by-russia"},
+    {"title": "FXStreet: Japanese yen strengthens amid intervention fears", "url": "https://fxstreet.com/news/japanese-yen-strengthens-amid-intervention-fears-traders-await-us-pce-inflation-data-202611240135"},
+    {"title": "Heygotrade: Weekly economic outlook", "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/"},
+    {"title": "ZeroHedge: Key events this holiday-shortened week", "url": "https://www.zerohedge.com/markets/key-events-holiday-shortened-week-all-about-pce"},
+    {"title": "EBC: Bank of Korea rate decision, November", "url": "https://www.ebc.com/forex/bank-of-korea-rate-hike-november-2026"},
+    {"title": "Bundestag: 2027 budget schedule", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw34-haushalt-2027-ablauf-1187766"},
+    {"title": "OPEC: Press release, November 1, 2026", "url": "https://opec.org/pr-detail/2033620-1-november-2026.html"},
+    {"title": "United States Treasury daily yield curve rates", "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"}
+  ]
+}
