@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-26",
+   "title": "Omaha Morning Brief",
+   "dateline": "Thursday, November 26, 2026",
+   "summary": "Growth revised up to 4.3% while core inflation rises to 3.3%; stocks recover from a deep intraday drop; the administration proposes new tariffs on 14 economies; oil jumps on a refinery attack claim.",
+   "duration": 320.61,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 29.99
+    },
+    {
+     "heading": "Markets",
+     "start": 98.99
+    },
+    {
+     "heading": "Companies",
+     "start": 177.03
+    },
+    {
+     "heading": "The world",
+     "start": 220.22
+    },
+    {
+     "heading": "Coming up",
+     "start": 283.9
+    }
+   ]
+  },
+  {
    "id": "2026-11-25",
    "title": "Omaha Morning Brief",
    "dateline": "Wednesday, November 25, 2026",

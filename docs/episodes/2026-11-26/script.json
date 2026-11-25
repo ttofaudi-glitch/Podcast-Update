@@ -1,0 +1,91 @@
+{
+  "title": "Omaha Morning Brief",
+  "dateline": "Thursday, November 26, 2026",
+  "summary": "Growth revised up to 4.3% while core inflation rises to 3.3%; stocks recover from a deep intraday drop; the administration proposes new tariffs on 14 economies; oil jumps on a refinery attack claim.",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "pronounce": {"Greer": "Greer", "Deere": "Deer", "Hormuz": "Hor-mooz", "Tanura": "Ta-noo-ra", "Houthis": "Hoo-thees", "Eisenkot": "Eye-zen-kot", "Lieberman": "Lee-ber-man", "Fico": "Fee-tso", "Zelensky": "Zeh-len-skee", "Peskov": "Pess-koff", "Araghchi": "Ah-rahg-chee"},
+  "sections": [
+    {"heading": "The short version", "paragraphs": [
+      "Good morning, Warren. It is Thursday, November 26th. The American economy grew faster than first reported in the third quarter, but core inflation rose to its highest rate since late 2023. Stocks fell sharply in the morning and recovered most of the loss. The administration proposed new tariffs on 14 economies. Oil rose after Yemen's Houthis claimed an attack on a Saudi refinery. American markets are closed today for Thanksgiving."
+    ]},
+    {"heading": "Rates and inflation", "paragraphs": [
+      "Third-quarter growth was revised up to an annual rate of 4.3%, from 3.4%, above forecasts of 3.5%, and the fastest pace since 2023. Business investment in software and data centers led the gain.",
+      "October inflation on the Federal Reserve's preferred measure was 3.8% from a year earlier, as expected. Core prices, which leave out food and energy, rose 3.3%, a tenth of a point above forecasts. Part of that rise comes from a weak October 2025 reading dropping out of the comparison.",
+      "Weekly jobless claims fell to 189,000, well below forecasts. Durable goods orders rose only 0.2%, but core business equipment orders rose 1.2%.",
+      "Treasury yields fell anyway. The 10-year dropped to 4.85%, and the 2-year to 4.61%. The 3-month bill pays 4.34%. Futures markets still put the odds of a quarter-point increase on December 9th at about 97%."
+    ]},
+    {"heading": "Markets", "paragraphs": [
+      "At the low, the S&P 500 was down more than 3% and the Nasdaq more than 4.5%, as the selling in chip stocks continued. Both recovered. The S&P 500 closed down 0.25% at 7,183, the Nasdaq down 0.62% at 23,586, and the Dow up 0.33% at 50,183, after being down about 1,100 points. The S&P 500 is about 8% below its October record.",
+      "Asia fell harder before the recovery. Korea's Kospi fell 6.2%, Japan's Nikkei 2.8%, and Hong Kong's Hang Seng 1.1%. Europe's Stoxx 600 fell about 1%.",
+      "Brent crude settled at $94.61 a barrel, up 3.5%, and West Texas Intermediate at $83.68, up 2%. The Houthis claimed an attack on Ras Tanura, Saudi Arabia's largest refinery. Saudi Arabia said it destroyed four drones and reported no injuries. American crude stocks rose 1.1 million barrels last week."
+    ]},
+    {"heading": "Companies", "paragraphs": [
+      "Deere earned $1.05 billion in its fourth quarter, $3.89 a share, slightly less than a year earlier, on sales down 2% to $12.1 billion. Sales of large farm equipment fell 15%. For next year it forecast net income of $4.5 to $5.25 billion, including a pension charge, well below analysts' expectations of about $5.9 billion.",
+      "Nvidia fell about 4%, its second straight decline since Monday's 31% jump. Dell recovered from an early drop after its record quarter and $25 billion buyback plan."
+    ]},
+    {"heading": "The world", "paragraphs": [
+      "The Trade Representative's office proposed tariffs of 15% to 40% on 14 economies, including China, the European Union, Japan, South Korea, India and Vietnam, to replace tariffs the Supreme Court struck down. Jamieson Greer said they likely will not take effect for months; hearings begin in January. The European Union, Japan and South Korea would face 15%. China's Commerce Ministry criticized the move but did not threaten retaliation.",
+      "In the Strait of Hormuz, attacks on ships continued, and oil traffic is down about 40%. Qatar says it is mediating, with reopening the strait on the agenda.",
+      "Zelensky called for four-way peace talks with Russia, Europe and the United States. The Kremlin says talks could come soon but opposes a European role.",
+      "In Israel, Gadi Eisenkot signed his first coalition agreement, with Avigdor Lieberman's party. Together they hold 28 of the 61 seats needed, and his deadline is December 6th."
+    ]},
+    {"heading": "Coming up", "paragraphs": [
+      "American markets reopen Friday and close early. The Bank of Korea announces its decision this morning, with most economists expecting an increase to 3.25%. European Union leaders meet today and Friday on a 45 billion euro loan for Ukraine, which Slovakia opposes. Germany's parliament votes on its 2027 budget on Friday. OPEC and its allies meet on Sunday to set production levels for 2027. Congress returns Monday with government funding due to run out on December 11th. That is the briefing. Have a good day."
+    ]}
+  ],
+  "numbers_note": "Closing levels for Wednesday, November 25, 2026, with changes for the day. Treasury yields from the United States Treasury; yield changes are in percentage points for the day. Declines are in parentheses, the way an accountant writes them.",
+  "numbers": [
+    {"label": "Dow Jones Industrial Average", "value": "50,182.95", "change": "+0.33%", "dir": "up"},
+    {"label": "S&P 500", "value": "7,182.78", "change": "(0.25%)", "dir": "down"},
+    {"label": "Nasdaq Composite", "value": "23,585.80", "change": "(0.62%)", "dir": "down"},
+    {"label": "10-year Treasury yield", "value": "4.85%", "change": "(0.06)", "dir": "down"},
+    {"label": "2-year Treasury yield", "value": "4.61%", "change": "(0.02)", "dir": "down"},
+    {"label": "3-month Treasury bill", "value": "4.34%", "change": "(0.02)", "dir": "down"},
+    {"label": "Brent crude, per barrel", "value": "$94.61", "change": "+3.5%", "dir": "up"},
+    {"label": "West Texas Intermediate, per barrel", "value": "$83.68", "change": "+2.0%", "dir": "up"},
+    {"label": "Third-quarter growth, second estimate, annual rate", "value": "4.3%", "change": "from 3.4%", "dir": "up"},
+    {"label": "Core personal consumption price index, October, year over year", "value": "3.3%", "change": "forecast 3.2%", "dir": "up"},
+    {"label": "Initial jobless claims, week to November 21", "value": "189,000", "change": "forecast 200,000", "dir": "down"},
+    {"label": "Kospi", "value": "4,697.51", "change": "(6.16%)", "dir": "down"}
+  ],
+  "sources": [
+    {"title": "CNBC: Stock market news for November 25, 2026", "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"},
+    {"title": "Yahoo Finance: Dow erases losses to end positive", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+    {"title": "Investing.com: US stocks mixed at close of trade", "url": "https://investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-033-5051523"},
+    {"title": "mlq.ai: Dow erases 1,100-point drop", "url": "https://mlq.ai/news/dow-erases-1100-point-drop-to-close-up-164-as-nasdaq-pares-46-ai-rout/"},
+    {"title": "The Company Chronicle: Stocks close, Dow erases loss", "url": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"},
+    {"title": "Bureau of Economic Analysis: GDP second estimate, third quarter 2026", "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"},
+    {"title": "Benzinga: PCE inflation 3.8%, third-quarter growth revised to 4.3%", "url": "https://www.benzinga.com/markets/economic-data/26/11/63619838/pce-inflation-october-gdp-second-estimate"},
+    {"title": "mlq.ai: PCE inflation rises to 3.8%, core 3.3%", "url": "https://mlq.ai/news/pce-inflation-rises-to-38-in-october-as-core-prices-climb-33-the-fastest-since-late-2023/"},
+    {"title": "GV Wire: Third-quarter growth revised sharply higher", "url": "https://gvwire.com/2026/11/25/us-third-quarter-economic-growth-revised-sharply-higher-inflation-broadening-out/"},
+    {"title": "Rallies: Datapalooza, GDP, PCE, durable goods, jobless claims", "url": "https://rallies.ai/news/datapalooza-gdp-pce-durable-goods-jobless-claims-new-home-sales-cc6765eedd5031b0"},
+    {"title": "Edge Consultancy: Jobless claims 189,000, durable goods", "url": "https://edgeconsultancykw.com/us-jobless-claims-189000-durable-goods-orders-october-2026-new-home-sales-701000/"},
+    {"title": "CNBC: Oil prices rise after Houthis say they attacked Saudi refinery", "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html"},
+    {"title": "Oilprice.com: Saudi Arabia downs drones over Ras Tanura", "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Over-2-as-Saudi-Arabia-Downs-Drones-Over-Ras-Tanura.html"},
+    {"title": "Investing.com: EIA says crude stocks rise 1.1 million barrels", "url": "https://www.investing.com/news/commodities-news/eia-says-us-crude-stocks-rise-11m-barrels-to-4189m-barrels-93CH-5051205"},
+    {"title": "Korea JoongAng Daily: Kospi plunges below 5,000", "url": "https://koreajoongangdaily.com/business/kospi-plunges-back-below-5000-as-chip-selloff-returns/12990750"},
+    {"title": "Yahoo Finance: World indices", "url": "https://sg.finance.yahoo.com/markets/world-indices/"},
+    {"title": "mlq.ai: European stocks close down 1%", "url": "https://mlq.ai/news/european-stocks-close-down-1-as-chipmakers-slide-with-a-4-nasdaq-drop-carmakers-hold-gains-on-eu-hybrid-caps/"},
+    {"title": "Quad Cities Business: Deere fourth-quarter net income", "url": "https://quadcitiesbusiness.com/deere-reports-net-income-of-1-051b-for-fourth-quarter/"},
+    {"title": "Startup Fortune: Deere forecasts 2027 profit well below Wall Street", "url": "https://startupfortune.com/deere-forecasts-2027-profit-well-below-wall-street-as-shares-slide/"},
+    {"title": "Chartmill: Deere slides on soft 2027 outlook", "url": "https://www.chartmill.com/news/DE/Chartmill-59168-Deere-Co-NYSEDE-Slides-as-Mixed-Q4-and-Soft-FY2027-Profit-Outlook-Weigh-on-Shares"},
+    {"title": "Yahoo Finance: Why Nvidia stock is falling", "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-falling-150041901.html"},
+    {"title": "Kalkine: Dell erases early losses", "url": "https://kalkine.com/news/technology/dell-technologies-nysedell-erases-early-losses-today-despite-price-target-cuts-after-a-record-quarter-and-25-billion-buyback"},
+    {"title": "CNBC: Section 301 tariffs", "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"},
+    {"title": "Baker McKenzie: USTR proposes Section 301 tariffs on 14 economies", "url": "https://globalimportblog.bakermckenzie.com/2026/11/25/us-ustr-proposes-section-301-tariffs-on-14-economies-over-structural-excess-capacity/"},
+    {"title": "STR: Section 301 tariffs of 15 to 40 percent proposed", "url": "https://www.strtrade.com/trade-news-resources/str-trade-report/november/section-301-tariffs-of-15-to-40-percent-proposed-on-14-trading-partners"},
+    {"title": "NBC News: Country-specific tariffs on excess capacity", "url": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087"},
+    {"title": "Al Jazeera: Hormuz oil traffic down 40 percent", "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"},
+    {"title": "Middle East Monitor: Qatar urges restoration of Hormuz navigation", "url": "https://www.middleeastmonitor.com/20261124-qatar-urges-restoration-of-hormuz-navigation-return-to-us-iran-talks/"},
+    {"title": "France 24: Zelensky urges four-way peace talks", "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible"},
+    {"title": "NV: Kremlin says new talks could take place soon", "url": "https://english.nv.ua/nation/kremlin-says-new-ukraine-peace-talks-could-take-place-soon-50661656.html"},
+    {"title": "Al Jazeera: Eisenkot secures first coalition partner", "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government"},
+    {"title": "Bloomberg: Eisenkot seals first coalition pact", "url": "https://bloomberg.com/news/articles/2026-11-25/israel-s-eisenkot-seals-first-coalition-pact-as-deadline-nears"},
+    {"title": "Seoul Economic Daily: Experts see Korea rate hike", "url": "https://en.sedaily.com/economy/2026/11/23/90-percent-of-experts-see-korea-rate-hike-this-month-some"},
+    {"title": "bne IntelliNews: Slovakia, Hungary and the new Ukraine loan", "url": "https://www.intellinews.com/slovakia-hungary-reject-new-ukraine-loan-as-hungary-resists-merz-s-budget-link-483852"},
+    {"title": "Forbes: Iraq disputes its OPEC capacity assessment", "url": "https://www.forbes.com/sites/guneyyildiz/2026/11/25/iraq-disputes-its-opec-capacity-assessment-can-it-use-a-bigger-quota/"},
+    {"title": "Deseret News: Will there be a government shutdown", "url": "https://www.deseret.com/politics/2026/11/22/will-there-be-a-government-shutdown/"},
+    {"title": "United States Treasury daily yield curve rates", "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"}
+  ]
+}
