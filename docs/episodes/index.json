@@ -1,6 +1,39 @@
 {
  "episodes": [
   {
+   "id": "2026-11-27",
+   "title": "Omaha Morning Brief",
+   "dateline": "Friday, November 27, 2026",
+   "summary": "The Bank of Korea raises its rate to 3.25%; European Union leaders end day one without a Ukraine loan deal; S&P Global puts Nvidia's credit rating on watch; a correction on the tariff proposal.",
+   "duration": 316.48,
+   "sections": [
+    {
+     "heading": "The short version",
+     "start": 0.0
+    },
+    {
+     "heading": "Rates and inflation",
+     "start": 37.78
+    },
+    {
+     "heading": "Markets",
+     "start": 99.52
+    },
+    {
+     "heading": "Companies",
+     "start": 155.96
+    },
+    {
+     "heading": "The world",
+     "start": 215.21
+    },
+    {
+     "heading": "Next week",
+     "start": 272.87
+    }
+   ]
+  },
+  {
    "id": "2026-11-26",
    "title": "Omaha Morning Brief",
    "dateline": "Thursday, November 26, 2026",

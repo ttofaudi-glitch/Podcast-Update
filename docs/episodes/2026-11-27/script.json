@@ -1,0 +1,97 @@
+{
+  "title": "Omaha Morning Brief",
+  "dateline": "Friday, November 27, 2026",
+  "summary": "The Bank of Korea raises its rate to 3.25%; European Union leaders end day one without a Ukraine loan deal; S&P Global puts Nvidia's credit rating on watch; a correction on the tariff proposal.",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "pronounce": {"Huang": "Hwahng", "Hormuz": "Hor-mooz", "Jazan": "Jah-zahn", "Eisenkot": "Eye-zen-kot", "Lieberman": "Lee-ber-man", "Araghchi": "Ah-rahg-chee", "Radev": "Rah-dev", "Kushner": "Kush-ner", "Kospi": "Koss-pee", "Snowflake": "Snow-flake"},
+  "sections": [
+    {"heading": "The short version", "paragraphs": [
+      "Good morning, Warren. It is Friday, November 27th. American markets were closed Thursday for Thanksgiving and reopen today for a shortened session. The Bank of Korea raised its rate. European Union leaders ended the first day of their summit without agreeing on new money for Ukraine. S&P Global put Nvidia's credit rating on watch for a possible downgrade.",
+      "First, a correction. Yesterday I said the proposed American tariffs range from 15% to 40%. The Trade Representative's documents show a top proposed rate of 35%, for Vietnam."
+    ]},
+    {"heading": "Rates and inflation", "paragraphs": [
+      "The Bank of Korea raised its base rate by a quarter point to 3.25%, its highest since November 2024, in a five to two vote. Two members wanted to hold. Inflation there was 2.8% in October. The bank raised its growth forecast for next year to 4.1%, from 2.9%, and said further increases remain possible.",
+      "In America, the last Treasury readings are from Wednesday: the 10-year at 4.85%, the 2-year at 4.61%, and the 3-month bill at 4.34%. Futures markets put the odds of a quarter-point Federal Reserve increase on December 9th at about 97%. The Federal Reserve's Beige Book, released Wednesday, found growth in eight of its 12 districts, with businesses reporting persistent cost pressure from energy, insurance, health care and tariffs. The bond market closes early today, at 2 in the afternoon in New York, and stocks at 1."
+    ]},
+    {"heading": "Markets", "paragraphs": [
+      "On Wednesday the S&P 500 closed at 7,183, about 8% below its October record, after recovering from a drop of more than 3% during the day.",
+      "Brent crude rose to about $96 a barrel on Thursday in thin holiday trading, up from Wednesday's settlement of $94.61. Europe's Stoxx 600 rose about 1.8% after the Trade Representative said new tariffs would stay within existing trade deal rates. Japan's Nikkei rose 0.9%, and Korea's Kospi 0.3% after Wednesday's 6% fall.",
+      "Adobe says Americans spent $82.5 billion online from November 1st to the 22nd, up 9.1%. Adobe forecasts $12.9 billion for Black Friday, up 9.2%."
+    ]},
+    {"heading": "Companies", "paragraphs": [
+      "S&P Global Ratings placed Nvidia's AA credit rating on watch for a possible one-notch downgrade, citing concerns about board independence, oversight and succession after Jensen Huang's reinstatement. Nvidia's shares fell 3.9% on Wednesday to $149.30, a second straight decline. The company has not yet filed its delayed quarterly report, and a committee of independent directors continues its investigation of Mr. Huang.",
+      "Anthropic, which makes the system that writes this briefing, closed Wednesday at $82.79, up 1.1%, still just below its $83 offering price.",
+      "Two people told Reuters that OPEC and its allies are expected to keep production targets unchanged at Sunday's meeting. The harder question is each member's capacity baseline for 2027."
+    ]},
+    {"heading": "The world", "paragraphs": [
+      "European Union leaders talked for more than 12 hours on Thursday without agreeing on the proposed 45 billion euro loan for Ukraine or the long-term budget. Talks continue today. Hungary, the Czech Republic and Slovakia oppose taking part in the joint loan; Bulgaria says it will join the non-military part.",
+      "The European Union strongly rejected the American claim that it is a source of excess manufacturing capacity. Vietnam called its proposed 35% rate inconsistent with the two countries' cooperation.",
+      "In the Gulf, Saudi Arabia reported a strike on its Jazan refinery that killed one worker. Iran says mediators from Qatar and Pakistan are still passing messages between Tehran and Washington.",
+      "In Israel, Gadi Eisenkot resumed talks with the left-wing Democrats, and Avigdor Lieberman said a government could be presented by the end of next week."
+    ]},
+    {"heading": "Next week", "paragraphs": [
+      "OPEC and its allies meet on Sunday. Congress returns Monday with government funding set to expire on December 11th; the White House wants an extension to March 31st. Tuesday brings the manufacturing survey from the Institute for Supply Management, job openings, and euro-zone inflation. Wednesday brings the private payrolls report from ADP, and Salesforce reports after the close. Thursday brings the services survey. Friday brings the November jobs report, the last major data before the Federal Reserve meets on December 8th and 9th. Snowflake and Marvell are also expected to report, and Dollar General on Thursday. That is the briefing. Have a good day."
+    ]}
+  ],
+  "numbers_note": "United States markets were closed Thursday, November 26, 2026. Stock and Treasury figures are Wednesday's closes; Brent is Thursday's trading level. Declines are in parentheses, the way an accountant writes them.",
+  "numbers": [
+    {"label": "Bank of Korea base rate", "value": "3.25%", "change": "+0.25", "dir": "up"},
+    {"label": "S&P 500, Wednesday", "value": "7,182.78", "change": "(0.25%)", "dir": "down"},
+    {"label": "Dow Jones Industrial Average, Wednesday", "value": "50,182.95", "change": "+0.33%", "dir": "up"},
+    {"label": "Nasdaq Composite, Wednesday", "value": "23,585.80", "change": "(0.62%)", "dir": "down"},
+    {"label": "10-year Treasury yield, Wednesday", "value": "4.85%", "change": "(0.06)", "dir": "down"},
+    {"label": "3-month Treasury bill, Wednesday", "value": "4.34%", "change": "(0.02)", "dir": "down"},
+    {"label": "Brent crude, Thursday trading", "value": "≈$96", "change": "+≈1.5%", "dir": "up"},
+    {"label": "Stoxx 600, Thursday", "value": "≈637", "change": "+≈1.8%", "dir": "up"},
+    {"label": "Nikkei 225, Thursday", "value": "57,499.16", "change": "+0.86%", "dir": "up"},
+    {"label": "Nvidia, Wednesday", "value": "$149.30", "change": "(3.9%)", "dir": "down"},
+    {"label": "Kospi, Thursday", "value": "", "change": "+0.29%", "dir": "up"},
+    {"label": "United States online spending, November 1 to 22", "value": "$82.5 billion", "change": "+9.1%", "dir": "up"}
+  ],
+  "sources": [
+    {"title": "Bank of Korea", "url": "https://www.bok.or.kr/eng/main/main.do"},
+    {"title": "AP via WSLS: South Korea's central bank raises key interest rate", "url": "https://www.wsls.com/business/2026/11/26/south-koreas-central-bank-raises-key-interest-rate-to-fight-inflation/"},
+    {"title": "Reuters via WTAQ: South Korea's central bank raises rates, upgrades 2027 growth outlook", "url": "https://wtaq.com/2026/11/25/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook/"},
+    {"title": "mlq.ai: Bank of Korea raises rates to 3.25%", "url": "https://mlq.ai/news/bank-of-korea-raises-rates-to-325-the-highest-since-november-2024/"},
+    {"title": "USTR: Determinations and proposed actions in 14 Section 301 investigations", "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"},
+    {"title": "Holland & Knight: USTR proposes tariffs following 14 Section 301 investigations", "url": "https://www.hklaw.com/en/insights/publications/2026/11/ustr-proposes-tariffs-following-14-section-301"},
+    {"title": "EU Alive: US proposes new Section 301 tariffs on EU and 13 other partners", "url": "https://eualive.net/u-s-proposes-new-section-301-tariffs-on-eu-and-13-other-partners-over-manufacturing-overcapacity/"},
+    {"title": "CNBC: Stock market news for November 25, 2026", "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"},
+    {"title": "The Company Chronicle: Stocks close, Dow erases loss", "url": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"},
+    {"title": "Trading News: Brent and WTI on Thursday", "url": "https://www.tradingnews.com/news/oil-price-forecast-brent-hits-9558-wti-8470-on-gulf-strikes-100-usd-brent-89-usd-wti-in-play"},
+    {"title": "TalkMarkets: Brent edges up after fresh tanker attacks", "url": "https://talkmarkets.com/article/oil-price-today-brent-edges-up-after-fresh-tanker-attacks-near-strait-of-hormuz"},
+    {"title": "Yahoo/Reuters: Oil rises on supply concerns", "url": "https://finance.yahoo.com/energy/articles/oil-rises-supply-concerns-iran-030849858.html"},
+    {"title": "Investing.com: European stocks rally as tariff fears ease", "url": "https://www.investing.com/news/economy-news/european-stocks-rally-as-tech-and-banks-rebound-tariff-fears-ease-5052228"},
+    {"title": "JBizNews: European stocks jump as tariff fears ease", "url": "https://jbiznews.com/european-stocks-jump-as-tariff-fears-ease-stoxx-600-gains-1-8-dax-rises-2-1/"},
+    {"title": "CNBC: Markets today, November 26", "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"},
+    {"title": "Korea JoongAng Daily: Bank of Korea lifts rate, upgrades growth forecasts", "url": "https://www.koreajoongangdaily.com/business/bok-lifts-rate-to-325-as-it-sharply-upgrades-growth-forecasts-through-next-year/12991322"},
+    {"title": "Investing.com: Beige Book shows slight growth, sticky inflation", "url": "https://www.investing.com/news/economy-news/fed-beige-book-shows-slight-growth-sticky-inflation-ahead-of-dec-meeting-5051430"},
+    {"title": "WiseVoter: Beige Book, eight districts", "url": "https://wisevoter.com/world/us/2026/11/25/fed-beige-book-eight-districts-economic-growth"},
+    {"title": "SIFMA holiday schedule via TradingHours", "url": "https://www.tradinghours.com/sifma"},
+    {"title": "TipRanks: Dollar General earnings preview", "url": "https://www.tipranks.com/news/dollar-general-dg-price-forecast-what-financial-analysts-expect-ahead-of-q3-earnings-next-week"},
+    {"title": "Coinpaper: Asian chipmakers rally", "url": "https://coinpaper.com/39455/ai-stock-crash-over-asian-chipmakers-rally-as-investors-return-to-samsung-and-sk-hynix"},
+    {"title": "Digital Commerce 360: Adobe online holiday spending up 9.1%", "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/"},
+    {"title": "Adobe: Holiday shopping forecast", "url": "https://business.adobe.com/resources/holiday-shopping-report.html"},
+    {"title": "Tom's Hardware: S&P Global puts Nvidia on notice for possible downgrade", "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence"},
+    {"title": "Fox Business: Nvidia faces rare downgrades", "url": "https://www.foxbusiness.com/markets/nvidia-stock-faces-rare-downgrades-board-investigates-ceo-jensen-huangs-admitted-affair"},
+    {"title": "Nvidia 8-K press release, November 23", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"},
+    {"title": "Yahoo Finance: Stock market today, November 25", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-25-220645995.html"},
+    {"title": "Yahoo Finance: Anthropic stock rises, closes below IPO price", "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stocks-rise-close-below-190552499.html"},
+    {"title": "Opening Bell Daily: Anthropic below IPO price, November 25", "url": "https://www.openingbelldailynews.com/p/anthropic-stock-below-ipo-price-nov-25-2026"},
+    {"title": "Reuters via QNC: OPEC+ set to roll over output targets", "url": "https://qncnews.com/2026/11/26/opec-plus-set-to-roll-over-oil-output-targets-at-sunday-meeting-sources-say/"},
+    {"title": "Rigzone: OPEC will see one of its most complicated meetings in years", "url": "https://www.rigzone.com/news/opec_will_see_one_of_most_complicated_meetings_in_years-25-nov-2026-185164-article/"},
+    {"title": "Al Jazeera: EU leaders struggle to agree on budget and Ukraine money", "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"},
+    {"title": "Washington Post: Europe Ukraine budget summit", "url": "https://www.washingtonpost.com/business/2026/11/26/europe-ukraine-budget-summit-loan-debt/b7ffafbc-e95e-11f1-8db0-6f1e3c389e7c_story.html"},
+    {"title": "Euronews: EU summit live", "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid"},
+    {"title": "The Brief: EU leaders face dispute over 45 billion euro Ukraine loan", "url": "https://www.thebrief.news/en/standard/article/47711/eu-leaders-face-dispute-over-45bn-ukraine-loan-at-brussels-talks"},
+    {"title": "The New Arab: Houthis target Saudi refinery", "url": "https://www.newarab.com/news/iran-denies-deadly-kuwait-attack-houthis-target-saudi-refinery"},
+    {"title": "Middle East Monitor: Iran says Qatari and Pakistani mediation continues", "url": "https://www.middleeastmonitor.com/20261126-iran-says-qatari-pakistani-mediation-in-talks-with-us-continues/"},
+    {"title": "US News: Eisenkot resumes meetings with left-wing faction", "url": "https://www.usnews.com/news/world/articles/2026-11-26/israels-eisenkot-resumes-meetings-with-left-wing-faction-as-coalition-talks-gain-steam"},
+    {"title": "Just the News: White House funding request", "url": "https://justthenews.com/nation/states/center-square/white-house-wants-golden-dome-air-traffic-control-funds-spending"},
+    {"title": "LiteFinance: Economic calendar, November 30 to December 6", "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-30112026-06122026/"},
+    {"title": "Fed Rate Calc: December 2026 economic calendar", "url": "https://fedratecalc.com/us-economic-calendar/december-2026/"},
+    {"title": "MarketBeat: Salesforce earnings, December 2", "url": "https://www.marketbeat.com/earnings/reports/2026-12-2-salesforcecom-inc-stock/"},
+    {"title": "Earnings Whispers: Week of November 30", "url": "https://www.earningswhispers.com/calweek/20261130"}
+  ]
+}
